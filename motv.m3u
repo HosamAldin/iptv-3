@@ -114,6 +114,25 @@ http://t100v.com/paid/342383/878462/264
 http://t100v.com/paid/342383/878462/430
 
 
+#EXTINF:-1 tvg-id="bein1hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png", |S3| BeIN Sports 1 HD
+http://88.198.207.99/hls/bein1.m3u8
+#EXTINF:-1 tvg-id="bein2hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png", |S3| BeIN Sports 2 HD
+http://116.203.182.40/hls/bein2.m3u8
+#EXTINF:-1 tvg-id="bein3hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png", |S3| BeIN Sports 3 HD
+http://159.69.36.73/hls/bein3.m3u8
+#EXTINF:-1 tvg-id="bein4hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png", |S3| BeIN Sports 4 HD
+http://159.69.18.22/hls/bein4.m3u8
+#EXTINF:-1 tvg-id="bein5hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png", |S3| BeIN Sports 5 HD
+http://116.203.228.176/hls/bein5.m3u8
+#EXTINF:-1 tvg-id="bein6hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png", |S3| BeIN Sports 6 HD
+http://116.203.228.176/hls/bein6.m3u8
+#EXTINF:-1 tvg-id="bein7hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png", |S3| BeIN Sports 7 HD
+http://159.69.18.22/hls/bein7.m3u8 
+#EXTINF:-1 tvg-id="bein8hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD8-1.png", |S3| BeIN Sports 8 HD
+http://159.69.36.73/hls/bein8.m3u8
+#EXTINF:-1 tvg-id="bein9hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png", |S3| BeIN Sports 9 HD
+http://116.203.182.40/hls/bein9.m3u8
+
 #EXTINF:-1,BEIN Movies 1
 http://t100v.com/paid/342383/878462/2540
 #EXTINF:-1,BEIN Movies 2
