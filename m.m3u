@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_NEG.jpg" group-title="Corona"  , espn plus
-http://toogoodtoofar.azureedge.net/hls/espn+/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/04/19/07/03/stay-home-5062153_960_720.png" group-title="Corona",|king| COVID-19 confirmed cases
 http://starsat123.com:8080/JUAN/JUAN/16215
-
 
 #EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
@@ -774,80 +772,6 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/2561cd8334653b
 http://digitalxpress2.gcdn.co/live1/RTMP-bein8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 9 HD
 http://digitalxpress2.gcdn.co/live1/RTMP-bein9/tracks-v1a1/mono.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 1 4K
-http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_1_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 2 4K
-http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_2_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 3 4K
-http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_3_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 4 4K
-http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_4_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 5 4K
-http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_5_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 6 4K
-http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_6_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 7 4K
-http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_7_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD8-1.png" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 8 4K
-http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_8_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 9 4K
-http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_9_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD10-1.png" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 10 4K
-http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_10_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 11 4K
-http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_11_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 12 4K
-http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_12_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD13-1.png" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 13 4K
-http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_13_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| Bein Sports 1 HD
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_1_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| Bein Sports 2 HD
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_2_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| Bein Sports 3 HD
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_3_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| Bein Sports 4 HD
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_4_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| Bein Sports 5 HD
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_5_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| Bein Sports 6 HD
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_6_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| Bein Sports 7 HD
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_7_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| Bein Sports 8 HD
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_8_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| Bein Sports 9 HD
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_9_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| Bein Sports 10 HD
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_10_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 1 SD
-http://arb.ssltv.net:9263/AR_BEIN_SPORTS_1__UHD+/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 2 SD
-http://arb.ssltv.net:9263/AR_BEIN_SPORTS_2__UHD+/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 3 SD
-http://arb.ssltv.net:9263/AR_BEIN_SPORTS_3__UHD+/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 4 SD
-http://arb.ssltv.net:9263/AR_BEIN_SPORTS_4__UHD+/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 5 SD
-http://arb.ssltv.net:9263/AR_BEIN_SPORTS_5__UHD+/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 6 SD
-http://arb.ssltv.net:9263/AR_BEIN_SPORTS_6__UHD+/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 7 SD
-http://arb.ssltv.net:9263/AR_BEIN_SPORTS_7__UHD+/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 8 SD
-http://arb.ssltv.net:9263/AR_BEIN_SPORTS_8__UHD+/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 9 SD
-http://arb.ssltv.net:9263/AR_BEIN_SPORTS_9__UHD+/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", |ssltv| beIN SPORTS 10 SD
-http://arb.ssltv.net:9263/AR_BEIN_SPORTS_10__UHD+/index.m3u8
-
 
 
 
