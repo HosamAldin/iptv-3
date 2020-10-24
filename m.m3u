@@ -37,10 +37,6 @@ http://5.135.92.133:52841/out/u/115_1.m3u8
 http://5.135.92.133:52841/out/u/119_1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://icons.iconarchive.com/icons/sykonist/south-park/256/Cartman-normal-icon.png" group-title="Corona",|@@| South Park 24/7
-http://ccctv.ddns.net:8080/UKfhgtkb@ytvjgfd8877@@76ecj667/htjvddhnvhkitrcjfstds@@jhhhhhhrkjejgg/23416
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|Radio| القرآن الكريم- تلاوات
 http://live.mp3quran.net:8006/;
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|Radio| فارس عابد
@@ -82,10 +78,6 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/resala.png" group-title="Islam 👳🏻‍🕋",|rotana| الرسالة SD
 https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_480p/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/AlMajd3.png" group-title="Islam 👳🏻‍🕋",|@@| al Majd Quran
-http://ccctv.ddns.net:8080/UKfhgtkb@ytvjgfd8877@@76ecj667/htjvddhnvhkitrcjfstds@@jhhhhhhrkjejgg/2348
 
 
 
@@ -145,8 +137,6 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150
 http://admdn2.cdn.mangomolo.com:80/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajd-sm.png" group-title="DOCUMENTARY 🔭📡", |S1| Aljazeera Dok SD
 https://edge-1192-ch-gv.filmon.com/live/3029.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajd-sm.png" group-title="DOCUMENTARY 🔭📡", |@@| Aljazeera Dok FHD
-http://ccctv.ddns.net:8080/UKfhgtkb@ytvjgfd8877@@76ecj667/htjvddhnvhkitrcjfstds@@jhhhhhhrkjejgg/2358
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/1200px-Animal_Planet.png" group-title="DOCUMENTARY 🔭📡", |ssltv| Animal Planet BR 4K UHD/HDR
@@ -611,18 +601,6 @@ http://starsat123.com:8080/JUAN/JUAN/74
 http://starsat123.com:8080/JUAN/JUAN/75
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1182_1.png" group-title="ART Group 😶😶",|king| ART HEKAYAT 2
 http://starsat123.com:8080/JUAN/JUAN/76
-
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1120_1.png" group-title="ART Group 😶😶", |@@| ART AFLAM 1
-http://ccctv.ddns.net:8080/UKfhgtkb@ytvjgfd8877@@76ecj667/htjvddhnvhkitrcjfstds@@jhhhhhhrkjejgg/2252
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1121_1.png" group-title="ART Group 😶😶", |@@| ART AFLAM 2
-http://ccctv.ddns.net:8080/UKfhgtkb@ytvjgfd8877@@76ecj667/htjvddhnvhkitrcjfstds@@jhhhhhhrkjejgg/2253
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1195_1.png" group-title="ART Group 😶😶", |@@| ART CINEMA
-http://ccctv.ddns.net:8080/UKfhgtkb@ytvjgfd8877@@76ecj667/htjvddhnvhkitrcjfstds@@jhhhhhhrkjejgg/2254
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1122_1.png" group-title="ART Group 😶😶", |@@| ART HEKAYAT 1
-http://ccctv.ddns.net:8080/UKfhgtkb@ytvjgfd8877@@76ecj667/htjvddhnvhkitrcjfstds@@jhhhhhhrkjejgg/2255
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1182_1.png" group-title="ART Group 😶😶", |@@| ART HEKAYAT 2
-http://ccctv.ddns.net:8080/UKfhgtkb@ytvjgfd8877@@76ecj667/htjvddhnvhkitrcjfstds@@jhhhhhhrkjejgg/2256
-
 
 
 #EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="OSN Group 🤪🤪", |ssltv| OSN YaHala Oula UHD.
