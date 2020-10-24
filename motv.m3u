@@ -146,13 +146,13 @@ http://t100v.com/paid/342383/878462/9140
 http://t100v.com/paid/342383/878462/2505
 #EXTINF:-1,BEIN Food
 http://t100v.com/paid/342383/878462/48853
-#EXTINF:-1,FOX Action
+#EXTINF:-1 tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX Action
 http://t100v.com/paid/342383/878462/21683
-#EXTINF:-1,FOX 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png,FOX 
 http://t100v.com/paid/342383/878462/48850
 
 
-#EXTINF:-1,DW 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png",DW 
 http://t100v.com/paid/342383/878462/1881
 
 
