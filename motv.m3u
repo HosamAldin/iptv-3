@@ -29,6 +29,24 @@ http://t100v.com/paid/342383/878462/1927
 #EXTINF:-1 tvg-logo="https://tomor.net/tvlogo/almajdhadith.gif",المجد الحديث
 http://t100v.com/paid/342383/878462/1928
 
+#EXTINF:-1  tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png",الجزيرة FHD
+http://t100v.com/paid/342383/878462/39223
+#EXTINF:-1  tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png",الجزيرة 
+http://t100v.com/paid/342383/878462/304
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/02/France24Arabi-1.png",فرنسا 24 FHD
+http://t100v.com/paid/342383/878462/46371
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/02/France24Arabi-1.png",فرنسا 24 
+http://t100v.com/paid/342383/878462/1876
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cf/5f/5e/cf5f5e6d0b7cb9237a4f98a5892751e7.jpg",BBC
+http://t100v.com/paid/342383/878462/1877
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cf/5f/5e/cf5f5e6d0b7cb9237a4f98a5892751e7.jpg",BBC FHD
+http://t100v.com/paid/342383/878462/46358
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/1280px-Russia-Today-Logo.svg.png",روسيا اليوم
+http://t100v.com/paid/342383/878462/1883
+#EXTINF:-1 tvg-logo="https://cdn.almayadeen.tv/images/logo/new-logo-small.png",الميادين 
+http://t100v.com/paid/342383/878462/270
+
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png",BEIN NEWS
@@ -156,20 +174,11 @@ http://t100v.com/paid/342383/878462/48850
 http://t100v.com/paid/342383/878462/1881
 
 
+#EXTINF:-1 tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajd-sm.png",الجزيرة الوثائقية 
+http://t100v.com/paid/342383/878462/2065
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AbuDhabiNatGeo.png",ناشونال جيوغرافيك ابوظبي
 http://t100v.com/paid/342383/878462/468
 
-
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1122_1.png",art حكايات
-http://t100v.com/paid/342383/878462/245
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1182_1.png",art حكايات 2
-http://t100v.com/paid/342383/878462/247
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1120_1.png",art افلام 1
-http://t100v.com/paid/342383/878462/248
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1121_1.png",art افلام 2
-http://t100v.com/paid/342383/878462/249
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1195_1.png",art سينما
-http://t100v.com/paid/342383/878462/250
 
 
 #EXTINF:-1 tvg-logo="https://aghaniaghani.com/images/logo.png",اغاني اغاني 
@@ -186,6 +195,8 @@ http://t100v.com/paid/342383/878462/750
 http://t100v.com/paid/342383/878462/2973
 #EXTINF:-1,وناسة
 http://t100v.com/paid/342383/878462/30949
+#EXTINF:-1,OSN فن 
+http://t100v.com/paid/342383/878462/31901
 
 
 #EXTINF:-1 tvg-logo="https://www.pbc.ps/sites/all/themes/pbctheme/img/pal.png",فلسطين FHD 
@@ -250,10 +261,49 @@ http://t100v.com/paid/342383/878462/1897
 http://t100v.com/paid/342383/878462/222
 #EXTINF:-1,سوريا التربوية
 http://t100v.com/paid/342383/878462/239
+#EXTINF:-1 tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png",سوريا FHD 
+http://t100v.com/paid/342383/878462/23018
+#EXTINF:-1 tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png",سوريا
+http://t100v.com/paid/342383/878462/13606
+#EXTINF:-1,Sham fm
+http://t100v.com/paid/342383/878462/13581
 
 
+#EXTINF:-1 tvg-logo="http://www.teleliban.com.lb/images/telelogo.png",تلفزيون لبنان
+http://t100v.com/paid/342383/878462/1873
+#EXTINF:-1 tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png",NBN FHD
+http://t100v.com/paid/342383/878462/23007
+#EXTINF:-1 tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png",NBN
+http://t100v.com/paid/342383/878462/724
+#EXTINF:-1,one HD
+http://t100v.com/paid/342383/878462/46055
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d5/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84.jpg",المستقبل
+http://t100v.com/paid/342383/878462/1871
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg",الجديد FHD
+http://t100v.com/paid/342383/878462/46413
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg",الجديد 
+http://t100v.com/paid/342383/878462/46432
+#EXTINF:-1 tvg-logo="https://www.mtv.com.lb/assets/images/01-landing-no-title/logo.fw.png",MTV FHD
+http://t100v.com/paid/342383/878462/46359
+#EXTINF:-1 tvg-logo="https://www.mtv.com.lb/assets/images/01-landing-no-title/logo.fw.png",MTV HD
+http://t100v.com/paid/342383/878462/43746
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/1280px-OTV_%28logo%29.svg.png",Otv FHD 
+http://t100v.com/paid/342383/878462/46416
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/1280px-OTV_%28logo%29.svg.png",Otv HD 
+http://t100v.com/paid/342383/878462/46433
+#EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png",LBC FHD
+http://t100v.com/paid/342383/878462/21891
+#EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png",LBC
+http://t100v.com/paid/342383/878462/394
+#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png",LBCI FHD
+http://t100v.com/paid/342383/878462/46415
+#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png",LBCI HD
+http://t100v.com/paid/342383/878462/46431
+#EXTINF:-1 tvg-logo="https://almanar.com.lb/framework/assets/images/logo-tech.png",Al Manar
+http://t100v.com/paid/342383/878462/818
 
-#EXTINF:-1,روتانا افلام HD
+
+#EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/aflam-plus.png",روتانا افلام HD
 http://t100v.com/paid/342383/878462/31894
 #EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/cinema-egypt.png",روتانا سينما- مصر 
 http://t100v.com/paid/342383/878462/227
@@ -293,14 +343,30 @@ http://t100v.com/paid/342383/878462/233
 http://t100v.com/paid/342383/878462/11379
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png",روتانا موسيقى FHD
 http://t100v.com/paid/342383/878462/4231
-#EXTINF:-1,روتانا M HD
+#EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/m-plus.png",روتانا M HD
 http://t100v.com/paid/342383/878462/40343
-#EXTINF:-1,روتانا HD+
+#EXTINF:-1tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png",روتانا HD+
 http://t100v.com/paid/342383/878462/43772
 
 
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1122_1.png",art حكايات
+http://t100v.com/paid/342383/878462/245
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1182_1.png",art حكايات 2
+http://t100v.com/paid/342383/878462/247
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1120_1.png",art افلام 1
+http://t100v.com/paid/342383/878462/248
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1121_1.png",art افلام 2
+http://t100v.com/paid/342383/878462/249
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1195_1.png",art سينما
+http://t100v.com/paid/342383/878462/250
 
 
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/CM2.png",الفا سينما 1
+http://t100v.com/paid/342383/878462/11422
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/CM2.png",الفا سينما 2 
+http://t100v.com/paid/342383/878462/21969
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/YAW.png",الفا اليوم
+http://t100v.com/paid/342383/878462/11423
 
 #EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png",osn FHD ياهلا سينما 
 http://t100v.com/paid/342383/878462/48307
@@ -312,6 +378,38 @@ http://t100v.com/paid/342383/878462/9084
 http://t100v.com/paid/342383/878462/14279
 #EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SER.png",osn FHD مسلسلات 2
 http://t100v.com/paid/342383/878462/14280
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png",OSN Movies
+http://t100v.com/paid/342383/878462/9092
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png",OSN Movies FHD
+http://t100v.com/paid/342383/878462/21966
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png",OSN Movies First
+http://t100v.com/paid/342383/878462/9090
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png",OSN Movies First FHD
+http://t100v.com/paid/342383/878462/48309
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OMX.png",OSN Movies First +2
+http://t100v.com/paid/342383/878462/31845
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OMX.png",OSN Movies First +2 FHD
+http://t100v.com/paid/342383/878462/9086
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OBG.png",OSN Sieres 
+http://t100v.com/paid/342383/878462/9087
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OFH.png",OSN Sieres first
+http://t100v.com/paid/342383/878462/48311
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png",OSN Movies Action
+http://t100v.com/paid/342383/878462/9089
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png",OSN Movies Action FHD
+http://t100v.com/paid/342383/878462/48308
+#EXTINF:-1 tvg-logo="",OSN Disney
+http://t100v.com/paid/342383/878462/31866
+#EXTINF:-1 tvg-logo="",OSN living
+http://t100v.com/paid/342383/878462/48310
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/CCE.png",Comedy Central
+http://t100v.com/paid/342383/878462/21961
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/NGO.png",OSN Nat Geo HD
+http://t100v.com/paid/342383/878462/11417
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/NAH.png",OSN Nat Geo People HD
+http://t100v.com/paid/342383/878462/9081
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/NHD.png",Nat Geo Wild 4K
+http://t100v.com/paid/342383/878462/9082
 
 
 
