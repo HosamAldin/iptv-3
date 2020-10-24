@@ -4,7 +4,7 @@ https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
 
 
 
-#EXTINF:-1,BT 2
+#EXTINF:-1 group-title="Corona",BT 2
 http://t100v.com/paid/342383/878462/1766
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/04/19/07/03/stay-home-5062153_960_720.png" group-title="Corona",Corona
@@ -601,3 +601,5 @@ http://t100v.com/paid/342383/878462/48476
 http://t100v.com/paid/342383/878462/48477
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="movie",action 10
 http://t100v.com/paid/342383/878462/48478
+
+
