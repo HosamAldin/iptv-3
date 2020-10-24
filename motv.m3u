@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----|📺 MO Fanoon 📺|-----★●•[/color]
+https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/04/19/07/03/stay-home-5062153_960_720.png",Corona
 http://t100v.com/paid/342383/878462/47216
@@ -225,7 +226,7 @@ http://t100v.com/paid/342383/878462/2317
 
 
 
-#EXTINF:-1https://noorjonews.com/wp-content/uploads/2018/04/logonew.png",الاردن نور
+#EXTINF:-1 tvg-logo="https://noorjonews.com/wp-content/uploads/2018/04/logonew.png",الاردن نور
 http://t100v.com/paid/342383/878462/573
 #EXTINF:-1 tvg-logo="https://roya.tv/img/royatv/royaTvLogo.png",رؤيا
 http://t100v.com/paid/342383/878462/283
