@@ -272,7 +272,7 @@ http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pms.panet.co.il/online/images/categories_logos/220_20150706173617.gif" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Hala panet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/71/Hala_TV_Logo1.svg/1200px-Hala_TV_Logo1.svg.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Hala panet
 http://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.arn.ps/uploads/radioslogo/tv.jpg" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Ajyal
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
@@ -287,7 +287,7 @@ http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://btv2020.com/wp-content/uploads/2020/09/btv00.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Btv
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pms.panet.co.il/online/images/categories_logos/220_20150706173617.gif" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| hala Ramallah
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/71/Hala_TV_Logo1.svg/1200px-Hala_TV_Logo1.svg.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| hala Ramallah
 https://streamer.clickadia.ps/halaramallah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.rayatv.ps/images/logo_tv.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Raya tv 1 
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
