@@ -89,48 +89,48 @@ https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_480p/chunks.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="📰 NEWS 🌡️", |S1| Aljazeera FHD
+#EXTINF:-1  tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="NEWS 🌡️📰", |S1| Aljazeera FHD
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="📰 NEWS 🌡️", |S1| Aljazeera SD
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="NEWS 🌡️📰", |S1| Aljazeera SD
 https://live-hls-web-aja.getaj.net/AJA/04.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/29/Aljazeera_Mubasher.png" group-title="📰 NEWS 🌡️", |S1| Aljazeera mubasher FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/29/Aljazeera_Mubasher.png" group-title="NEWS 🌡️📰", |S1| Aljazeera mubasher FHD
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/29/Aljazeera_Mubasher.png" group-title="📰 NEWS 🌡️", |S1| Aljazeera mubasher SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/29/Aljazeera_Mubasher.png" group-title="NEWS 🌡️📰", |S1| Aljazeera mubasher SD
 https://live-hls-web-ajm.getaj.net/AJM/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.almayadeen.tv/images/logo/new-logo-small.png" group-title="📰 NEWS 🌡️", |S1| mayadien
+#EXTINF:-1 tvg-logo="https://cdn.almayadeen.tv/images/logo/new-logo-small.png" group-title="NEWS 🌡️📰", |S1| mayadien
 http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telearabiapro.tv/wp-content/uploads/2020/02/AL-ARABIYA-sqaure-01-640x506.png" group-title="📰 NEWS 🌡️", |S1| arabiya FHD
+#EXTINF:-1 tvg-logo="https://www.telearabiapro.tv/wp-content/uploads/2020/02/AL-ARABIYA-sqaure-01-640x506.png" group-title="NEWS 🌡️📰", |S1| arabiya FHD
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.telearabiapro.tv/wp-content/uploads/2020/02/AL-ARABIYA-sqaure-01-640x506.png" group-title="📰 NEWS 🌡️", |S1| arabiya SD
+#EXTINF:-1 tvg-logo="https://www.telearabiapro.tv/wp-content/uploads/2020/02/AL-ARABIYA-sqaure-01-640x506.png" group-title="NEWS 🌡️📰", |S1| arabiya SD
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_360p.m3u8
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/AL_HADATH_NEWS.png" group-title="📰 NEWS 🌡️", |S1| Hadath FHD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/AL_HADATH_NEWS.png" group-title="NEWS 🌡️📰", |S1| Hadath FHD
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/AL_HADATH_NEWS.png" group-title="📰 NEWS 🌡️", |S1| Hadath SD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/AL_HADATH_NEWS.png" group-title="NEWS 🌡️📰", |S1| Hadath SD
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_360p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/1280px-Russia-Today-Logo.svg.png" group-title="📰 NEWS 🌡️", |S1| Russia Today HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/1280px-Russia-Today-Logo.svg.png" group-title="NEWS 🌡️📰", |S1| Russia Today HD
 https://rt-arab-gd.secure2.footprint.net/1104_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/1280px-Russia-Today-Logo.svg.png" group-title="📰 NEWS 🌡️", |S1| Russia Today SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/1280px-Russia-Today-Logo.svg.png" group-title="NEWS 🌡️📰", |S1| Russia Today SD
 https://rt-arab.secure.footprint.net/1104_1600Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cf/5f/5e/cf5f5e6d0b7cb9237a4f98a5892751e7.jpg" group-title="📰 NEWS 🌡️", |S1| BBC HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cf/5f/5e/cf5f5e6d0b7cb9237a4f98a5892751e7.jpg" group-title="NEWS 🌡️📰", |S1| BBC HD
 http://vs-hls-ww.live.cf.md.bbci.co.uk:80/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa4=128000-video=5070016.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cf/5f/5e/cf5f5e6d0b7cb9237a4f98a5892751e7.jpg" group-title="📰 NEWS 🌡️", |S1| BBC SD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cf/5f/5e/cf5f5e6d0b7cb9237a4f98a5892751e7.jpg" group-title="NEWS 🌡️📰", |S1| BBC SD
 http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa3%3d96000-video%3d437056.m3u8
 
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SNA.png" group-title="📰 NEWS 🌡️", |S1| Sky news HD
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SNA.png" group-title="NEWS 🌡️📰", |S1| Sky news HD
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SNA.png" group-title="📰 NEWS 🌡️", |S1| Sky news SD
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SNA.png" group-title="NEWS 🌡️📰", |S1| Sky news SD
 https://stream.skynewsarabia.com/hls/sna_480.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/02/France24Arabi-1.png" group-title="📰 NEWS 🌡️", |S1| France 24
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/02/France24Arabi-1.png" group-title="NEWS 🌡️📰", |S1| France 24
 http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png" group-title="📰 NEWS 🌡️", |S1| Al-Araby FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png" group-title="NEWS 🌡️📰", |S1| Al-Araby FHD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png" group-title="📰 NEWS 🌡️", |S1| Al-Araby HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png" group-title="NEWS 🌡️📰", |S1| Al-Araby HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
 
 
