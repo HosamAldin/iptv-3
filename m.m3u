@@ -683,6 +683,60 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30240
 #EXTINF:-1 tvg-id="bein10hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD10-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 10 HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30239
 
+#EXTINF:-1,|hiho5| beIN Sports News
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/1
+#EXTINF:-1,|hiho5| beIN Sports HD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/2
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-1 HD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/3
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-2 HD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/4
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-3 HD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/5
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-4 HD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/6
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-5 HD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/7
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-6 HD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/8
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-8 HD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/10
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-9 HD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/11
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-10 HD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/12
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-1-SD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/13
+#EXTINF:-1,|hiho5| AR:BEINSPORTS Low_1
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/14
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-2-SD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/15
+#EXTINF:-1,|hiho5| AR:BEINSPORTS Low_2
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/16
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-3-SD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/17
+#EXTINF:-1,|hiho5| AR:BEINSPORTS Low_3
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/18
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-4-SD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/19
+#EXTINF:-1,|hiho5| AR:BEINSPORTS Low_4
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/20
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-5-SD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/21
+#EXTINF:-1,|hiho5| AR:BEINSPORTS Low_5
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/22
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-6-SD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/23
+#EXTINF:-1,|hiho5| AR:BEINSPORTS Low_6
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/24
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-7-SD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/25
+#EXTINF:-1,|hiho5| AR:BEINSPORTS Low_7
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/26
+#EXTINF:-1,|hiho5| AR:BEINSPORTS-8-SD
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/27
+#EXTINF:-1,|hiho5| AR:BEINSPORTS Low_8
+https://tv.hiho5.com:8443/aziz1/6GeZfxM22K/28
 
 #EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",1_4k
 http://2.56.215.148:25461/live/11/11/1.m3u8
