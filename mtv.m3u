@@ -526,7 +526,7 @@ http://t100v.com/paid/703905/238165/565
 http://t100v.com/paid/703905/238165/566
 #EXTINF:-1  tvg-logo="https://media.elcinema.com/tvguide/1158_1.png" group-title="EGY 🇪🇬",نيل كوميدي 
 http://t100v.com/paid/703905/238165/567
-#EXTINF:-1 tvg-logo=""http://iptv.cline.in/images/tvlogo/af792abf64a1310de4b06fc7d3c96fb5.png group-title="EGY 🇪🇬",نيل الثقافية
+#EXTINF:-1 tvg-logo=""http://iptv.cline.in/images/tvlogo/af792abf64a1310de4b06fc7d3c96fb5.png" group-title="EGY 🇪🇬",نيل الثقافية
 http://t100v.com/paid/703905/238165/575
 #EXTINF:-1  tvg-logo="http://iptv.cline.in/images/tvlogo/c229fe4328e08842b2754f4e1c6497ff.png" group-title="EGY 🇪🇬",النيل
 http://t100v.com/paid/703905/238165/568
@@ -751,6 +751,4 @@ http://t100v.com/paid/703905/238165/46482
 http://t100v.com/paid/703905/238165/46429
 #EXTINF:-1 group-title="DE 🇩🇪 🇩🇪",Fox
 http://t100v.com/paid/703905/238165/11355
-
-
 
