@@ -553,6 +553,27 @@ http://strong-livetv.com:80/lam_mar/AojwXghk3/45307
 #EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS 10 HD
 http://strong-livetv.com:80/lam_mar/AojwXghk3/45310
 
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀", |badawy|BEIN_SPORT_1_512K
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/10907
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀", |badawy|BEIN_SPORT_2_512K
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/10908
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀", |badawy|BEIN_SPORT_3_512K
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/10909
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀", |badawy|BEIN_SPORT_4_512K
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/10910
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀", |badawy|BEIN_SPORT_5_512K
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/10911
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀", |badawy|BEIN_SPORT_6_512K
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/10912
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀", |badawy|BEIN_SPORT_7_512K
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/10913
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀", |badawy|BEIN_SPORT_8_512K
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/10914
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀", |badawy|BEIN_SPORT_9_512K
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/10915
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀", |badawy|BEIN_SPORT_10_512K
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/10916
+
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀", |badawy| beIN Sports 1 HD
 http://strong-livetv.com:80/lam_mar/AojwXghk3/45280
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 2 HD
