@@ -594,7 +594,7 @@ http://digitalxpress2.gcdn.co/live1/RTMP-bein8/tracks-v1a1/mono.m3u8
 http://digitalxpress2.gcdn.co/live1/RTMP-bein9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="bein1hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 1 HD
-http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/12274
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/10897
 #EXTINF:-1 tvg-id="bein2hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 2 HD
 http://116.203.182.40/hls/bein2.m3u8
 #EXTINF:-1 tvg-id="bein3hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 3 HD
