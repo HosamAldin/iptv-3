@@ -697,52 +697,21 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30239
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",1_4k
-http://2.56.215.148:25461/live/11/11/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",1__1080p
-http://2.56.215.148:25461/live/11/11/2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",1__720p
-http://2.56.215.148:25461/live/11/11/3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",1__480p
-http://2.56.215.148:25461/live/11/11/4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",1__360p
-http://2.56.215.148:25461/live/11/11/5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",1__240p
-http://2.56.215.148:25461/live/11/11/6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",2__1080p
-http://2.56.215.148:25461/live/11/11/7.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",2__720p
-http://2.56.215.148:25461/live/11/11/8.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",2__480p
-http://2.56.215.148:25461/live/11/11/9.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",2__360p
-http://2.56.215.148:25461/live/11/11/10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",2__240p
-http://2.56.215.148:25461/live/11/11/11.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",3_1080
-http://2.56.215.148:25461/live/11/11/12.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",3_720
-http://2.56.215.148:25461/live/11/11/13.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",3_360
-http://2.56.215.148:25461/live/11/11/14.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",3_240
-http://2.56.215.148:25461/live/11/11/15.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 1 
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS-match time ⌛⏰",  BeIN Sports 1 
 http://173.249.4.94:8081/b-1/b-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 2 
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS-match time ⌛⏰",  BeIN Sports 2 
 http://173.249.4.94:8081/b-2/b-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 3 
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS-match time ⌛⏰",  BeIN Sports 3 
 http://173.249.4.94:8081/b-3/b-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 4 
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS-match time ⌛⏰",  BeIN Sports 4 
 http://173.249.4.94:8081/b-4/b-4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 5 
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS-match time ⌛⏰",  BeIN Sports 5 
 http://173.249.4.94:8081/b-5/b-5/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 6 
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS-match time ⌛⏰",  BeIN Sports 6 
 http://173.249.4.94:8081/b-6/b-6/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 7 
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS-match time ⌛⏰",  BeIN Sports 7 
 http://173.249.4.94:8081/b-7/b-7/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 8 
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS-match time ⌛⏰",  BeIN Sports 8 
 http://173.249.4.94:8081/b-8/b-8/playlist.m3u8
 
 
