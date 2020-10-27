@@ -438,8 +438,8 @@ http://digitalxpress.gcdn.co/live1/mbcmasr/index.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png" group-title="MBC Group 🌝🌝",MBC Drama
 http://digitalxpress.gcdn.co/live1/mbcdrama/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/cinema-egypt.png" group-title="ROTANA Group 🤣🤣",|king| Rotana Cinema EGY
+http://starsat123.com:8080/live/JUAN/JUAN/247.ts
 #EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/cinema.png" group-title="ROTANA Group 🤣🤣",|rotana| Cinema Ksa FHD
 https://rotana.hibridmedia.com/rotanascte35/cinema_scte35/rotana/cinema_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/khalijiat.png" group-title="ROTANA Group 🤣🤣",|rotana| khaleejiya FHD
