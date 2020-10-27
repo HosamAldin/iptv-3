@@ -1,4 +1,4 @@
-# | 📺Mo Fanoon📺 |
+# | 📺Mo Fanoon 🇵🇸 |
 
-A renewed FREE IPTV list 
+A renewed FREE IPTV list 🇵🇸 🇩🇪 
 | 🤲🤲 اللهم صلّ على سيدنا محمد
