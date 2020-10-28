@@ -753,29 +753,32 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 
 
  
-#EXTINF:-1 tvg-logo="" group-title="Morocco 🇲🇦",|MBC| 5 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="Morocco 🇲🇦",MBC 5 FHD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Morocco 🇲🇦",|S1| 2M Maroc
+#EXTINF:-1 tvg-logo="https://maroc.mom-rsf.org/typo3temp/_processed_/2/0/csm_28-1120_import_129fc8fd3f.png" group-title="Morocco 🇲🇦",|S1| 2M Maroc
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Morocco 🇲🇦",|S1| Al Aoulaᴴᴰ
+#EXTINF:-1 tvg-logo="http://www.snrt.ma/images/alaoula.png" group-title="Morocco 🇲🇦",|S1| Al Aoulaᴴᴰ
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1000000=3-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Morocco 🇲🇦",|S1| LAAYOUNᴴᴰ⁺
+#EXTINF:-1 tvg-logo="http://www.snrt.ma/images/laayoune.png" group-title="Morocco 🇲🇦",|S1| LAAYOUNᴴᴰ⁺
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1000000=3-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Morocco 🇲🇦",|S1| Arryadia
+#EXTINF:-1 tvg-logo="http://www.snrt.ma/images/arriyadia.png" group-title="Morocco 🇲🇦",|S1| Arryadia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Morocco 🇲🇦",|S1| Athaqafia
+#EXTINF:-1 tvg-logo="http://www.snrt.ma/images/attakafiya.png" group-title="Morocco 🇲🇦",|S1| Athaqafia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Morocco 🇲🇦",|S1| Almgharibia
+#EXTINF:-1 tvg-logo="http://www.snrt.ma/images/almaghribia.png" group-title="Morocco 🇲🇦",|S1| Almgharibia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Morocco 🇲🇦",|S1| Assadissa
+#EXTINF:-1 tvg-logo="http://www.snrt.ma/images/assadissa.png" group-title="Morocco 🇲🇦",|S1| Assadissa
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1000000=3-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Morocco 🇲🇦",|S1| tamazight
+#EXTINF:-1 tvg-logo="http://www.snrt.ma/images/tamazight.png" group-title="Morocco 🇲🇦",|S1| tamazight
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1000000=3-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Morocco 🇲🇦",|S1| Medi1 Tv
-http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w1474658739.m3u8
+#EXTINF:-1 tvg-logo="https://www.medi1tv.ma/ar/img/footer/logo_new.png" group-title="Morocco 🇲🇦",|S1| Medi1 Tv
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7sibv0t.png" tvg-country="MA" group-title="Morocco 🇲🇦",|S1| Télé Maroc
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="MA" group-title="Morocco 🇲🇦",|S1| M24
+http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w1920236347_b4500000_sleng.m3u8
+
 
 
 
