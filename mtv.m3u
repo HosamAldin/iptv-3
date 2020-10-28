@@ -30,12 +30,12 @@ http://server12.mp3quran.net/maher/018.mp3
 http://server11.mp3quran.net/hazza/018.mp3
 
 
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/thumbs/kaaba/best-kaaba-png-clipart-11.png" group-title="Islam 👳🏻‍🕋",القرآن الكريم
+#EXTINF:-1 tvg-logo="https://www.sba.sa/images/channel-5.jpg" group-title="Islam 👳🏻‍🕋",القرآن الكريم
 http://t100v.com/paid/703905/238165/1882
 
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/thumbs/kaaba/best-kaaba-png-clipart-11.png" group-title="Islam 👳🏻‍🕋",القرآن الكريم HD
+#EXTINF:-1 tvg-logo="https://www.sba.sa/images/channel-5.jpg" group-title="Islam 👳🏻‍🕋",القرآن الكريم HD
 http://t100v.com/paid/703905/238165/1890
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/thumbs/kaaba/best-kaaba-png-clipart-11.png" group-title="Islam 👳🏻‍🕋",القرآن الكريم FHD
+#EXTINF:-1 tvg-logo="https://www.sba.sa/images/channel-5.jpg" group-title="Islam 👳🏻‍🕋",القرآن الكريم FHD
 http://t100v.com/paid/703905/238165/46349
 
 
@@ -476,10 +476,26 @@ http://t100v.com/paid/703905/238165/11417
 http://t100v.com/paid/703905/238165/9081
 #EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/NHD.png" group-title="OSN Group 🤪🤪",Nat Geo Wild 4K
 http://t100v.com/paid/703905/238165/9082
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/202018101353298.png" group-title="OSN Group 🤪🤪",OSN Disney
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OLH.png" group-title="OSN Group 🤪🤪",OSN Disney
 http://t100v.com/paid/703905/238165/31866
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/202018101353298.png" group-title="OSN Group 🤪🤪",OSN living
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OLH.png" group-title="OSN Group 🤪🤪",OSN living
 http://t100v.com/paid/703905/238165/48310
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="OSN Group 🤪🤪",OSN kids zone
+http://t100v.com/paid/703905/238165/31908
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OMK.png" group-title="OSN Group 🤪🤪",OSN kids
+http://t100v.com/paid/703905/238165/21960
+#EXTINF:-1 tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/BABY-TV.png" group-title="OSN Group 🤪🤪",OSN baby
+http://t100v.com/paid/703905/238165/21957
+#EXTINF:-1 tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/DISNEY-CHANNEL.png" group-title="OSN Group 🤪🤪",OSN disny jr.
+http://t100v.com/paid/703905/238165/13152
+#EXTINF:-1 tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/NICK-JR.png" group-title="OSN Group 🤪🤪",nick jr.
+http://t100v.com/paid/703905/238165/13155
+#EXTINF:-1 tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/NICKELODEON.png" group-title="OSN Group 🤪🤪",nickekodeon
+http://t100v.com/paid/703905/238165/13154
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png" group-title="OSN Group 🤪🤪",OSN star world
+http://t100v.com/paid/703905/238165/21975
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png" group-title="OSN Group 🤪🤪",OSN star movie
+http://t100v.com/paid/703905/238165/21974
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1261_1.png" group-title="OSN Group 🤪🤪",zee الوان
 http://t100v.com/paid/703905/238165/289
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/uploads/2017/10/Aflam1.png" group-title="OSN Group 🤪🤪",zee افلام
@@ -641,6 +657,18 @@ http://t100v.com/paid/703905/238165/570
 #EXTINF:-1  tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=92x10000:format=png/path/s0b9852dd35081826/image/id8824f74ebfa6fcc/version/1575729668/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png" group-title="Gulf 🇰🇼",عجمان FHD
 http://t100v.com/paid/703905/238165/46391
 
+#EXTINF:-1  tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=92x10000:format=png/path/s0b9852dd35081826/image/id8824f74ebfa6fcc/version/1575729668/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png" group-title="Gulf 🇰🇼",عجمان HD
+http://t100v.com/paid/703905/238165/8923
+
+#EXTINF:-1  tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e1c74bcd9.png" group-title="Gulf 🇰🇼",ابو ظبي 
+http://t100v.com/paid/703905/238165/2666
+#EXTINF:-1  tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e1c74bcd9.png" group-title="Gulf 🇰🇼",ابو ظبي fhd
+http://t100v.com/paid/703905/238165/46353
+#EXTINF:-1  tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e1c74cb66.png" group-title="Gulf 🇰🇼",ابو ظبي دراما  
+http://t100v.com/paid/703905/238165/469
+#EXTINF:-1  tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e1c74b137.png" group-title="Gulf 🇰🇼",ابو ظبي الامارات
+http://t100v.com/paid/703905/238165/467
+
 
 
 #EXTINF:-1  tvg-logo="https://www.qtv.qa/assets/2020/images/qtv.png" group-title="Gulf 🇰🇼",قطر FHD
@@ -658,6 +686,9 @@ http://t100v.com/paid/703905/238165/46374
 http://t100v.com/paid/703905/238165/9237
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Saghhjjdegh.jpg/280px-Saghhjjdegh.jpg" group-title="Gulf 🇰🇼",عمان FHD
 http://t100v.com/paid/703905/238165/46375
+#EXTINF:-1  tvg-logo="https://www.sba.sa/images/channel-1.jpg" group-title="Gulf 🇰🇼",السعودية 1
+http://t100v.com/paid/703905/238165/1884
+
 
 
 
