@@ -2239,128 +2239,130 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/32.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge 33
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/33.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 1 
+
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 1 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 2
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 3
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 4
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 5
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 6
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 7
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 8
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 9
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 10
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/10.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 11
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 11
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/11.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 12
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 12
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/12.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 13
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 13
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/13.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 14
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 14
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/14.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 15
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 15
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/15.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 16
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 16
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/16.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 17
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 17
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/17.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 18
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 18
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/18.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 19
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 19
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/19.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 20
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 20
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/20.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 21
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 21
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/21.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 22
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 22
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/22.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 23
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 23
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/23.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 24
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 24
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/24.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 25
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 25
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/25.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 26
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 26
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/26.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 27
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 27
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/27.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 28 
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 28 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/28.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 29
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 29
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/29.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 30
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 30
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/30.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 31 
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 31 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/31.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 32 
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 32 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/32.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 33
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 33
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/33.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge,Folge 34
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge 34
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/34.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 1 
+
+
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 1 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 2
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 3
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 4
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 5
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 6
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 7
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 8
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 9
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 10
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/10.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 11
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 11
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/11.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 12
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 12
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/12.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 13
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 13
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/13.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 14
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 14
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/14.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 15
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 15
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/15.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 16
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 16
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/16.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 17
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 17
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/17.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 18
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 18
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/18.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 19
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 19
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/19.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 20
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 20
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/20.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 21
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 21
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/21.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 22
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 22
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/22.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 23
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 23
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/23.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 24
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 24
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/24.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 25
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 25
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/25.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 26
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/26.mp4/playlist.m3u8
-
+https://p2-58083-m-mino-outline-aa.govid.co/download/HTQWBJ6ZyTltSPZ_RROiZA/[CimaClub.Com]-Hofra.S03E26.720p.HD-720.8224.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="الحفرة 4",Folge 01
 https://cdn.alarab.com/h264/158933_720p.mp4/index-v1-a1.m3u8
@@ -2393,5 +2395,4 @@ https://cdn.alarab.com/h264/159668_720p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="علي رضا",Folge 06
 https://cdn.alarab.com/h264/159824_720p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="علي رضا",Folge 07
-https://s301d1.akwam.download/download/1603914643/5f987a131f41b/Ariza.Se01.Ep07.HDTV720p.akwam.net.mp4
-
+https://ms1.vidhdr.com/hls/73ztnckmw2xcdqtb7xkpnqy4j6fq2snz63n4wvp4fch5tquwhegy52of4fra/index-v1-a1.m3u8
