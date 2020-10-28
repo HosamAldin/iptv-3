@@ -24,9 +24,9 @@ http://server2.quraan.us:9852/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|Radio| عبد الباسط عبد الصمد
 http://quraan.us:9916/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|mp3| سورة الكهف- ماهر المعيقلي
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|mp3| سورة الكهف ماهر لمعيلي 
 http://server12.mp3quran.net/maher/018.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png",|mp3| سورةالكهف- هزاع البلوشيي
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png",|mp3| سورة الكهف هزاع البلوشي
 http://server11.mp3quran.net/hazza/018.mp3
 
 
@@ -94,8 +94,11 @@ http://t100v.com/paid/703905/238165/36451
 http://t100v.com/paid/703905/238165/255
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/AL_HADATH_NEWS.png" group-title="NEWS 🌡️📰",الحدث
 http://t100v.com/paid/703905/238165/256
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SNA.png" group-title="NEWS 🌡️📰",Sky news
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SNA.png" group-title="NEWS 🌡️📰",سكاي نيوز
 http://t100v.com/paid/703905/238165/2238
+#EXTINF:-1 tvg-logo="http://tvtolive.com/wp-content/uploads/Sout-Al-Arab-TV-tvtolive.com_.jpg" group-title="NEWS 🌡️📰",صوت العرب
+http://t100v.com/paid/703905/238165/1899
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" group-title="DOCUMENTARY 🔭📡",DW 
 http://t100v.com/paid/703905/238165/1881
@@ -477,6 +480,16 @@ http://t100v.com/paid/703905/238165/9082
 http://t100v.com/paid/703905/238165/31866
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/202018101353298.png" group-title="OSN Group 🤪🤪",OSN living
 http://t100v.com/paid/703905/238165/48310
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1261_1.png" group-title="OSN Group 🤪🤪",zee الوان
+http://t100v.com/paid/703905/238165/289
+#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/uploads/2017/10/Aflam1.png" group-title="OSN Group 🤪🤪",zee افلام
+http://t100v.com/paid/703905/238165/1908
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f3/B4U_Aflam_Logo.png" group-title="OSN Group 🤪🤪",B4u افلام
+http://t100v.com/paid/703905/238165/296
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/B4P.png" group-title="OSN Group 🤪🤪",B4u+
+http://t100v.com/paid/703905/238165/297
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="MBC Group 🌝🌝",mbc 1
