@@ -205,6 +205,10 @@ http://t100v.com/paid/703905/238165/1897
 http://t100v.com/paid/703905/238165/222
 #EXTINF:-1 tvg-logo="https://img.kooora.com/?i=aaasar%2Fsyrian_education.gif" group-title="SYRIA 🇸🇾",سوريا التربوية
 http://t100v.com/paid/703905/238165/239
+#EXTINF:-1 tvg-logo="https://www.video.wataan.com/uploads/1062019-061427AM.png" group-title="SYRIA 🇸🇾",نور الشام
+http://t100v.com/paid/703905/238165/1896
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/Syrian_News_Logo.png" group-title="SYRIA 🇸🇾",سوريا اخبار
+http://t100v.com/paid/703905/238165/7654
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1338_1.png" group-title="SYRIA 🇸🇾",سوريا FHD 
 http://t100v.com/paid/703905/238165/23018
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1338_1.png" group-title="SYRIA 🇸🇾",سوريا
@@ -632,6 +636,9 @@ http://t100v.com/paid/703905/238165/46377
 http://t100v.com/paid/703905/238165/1853
 #EXTINF:-1  tvg-logo="https://www.qtv.qa/assets/2020/images/qtvTwo.png" group-title="Gulf 🇰🇼",قطر FHD 2
 http://t100v.com/paid/703905/238165/13588
+
+#EXTINF:-1  tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/FunoonTV.png",فنون
+http://t100v.com/paid/703905/238165/732
 
 
 
