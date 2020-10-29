@@ -189,6 +189,12 @@ https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_480p.m3u8
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" group-title="JORDAN 🇯🇴", |S1| Al mamlaka SD
 https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/985239630516834304/a-MiwbyK_400x400.jpg" group-title="JORDAN 🇯🇴", |S1| Jordan now 
+rtmp://93.95.207.36:9201/livepkgr/livestream2
+
+#EXTINF:-1 tvg-logo="https://www.fekera.com/wp-content/uploads/2020/03/IMG_%D9%A2%D9%A0%D9%A2%D9%A0%D9%A0%D9%A3%D9%A2%D9%A3_%D9%A1%D9%A2%D9%A3%D9%A5%D9%A2%D9%A8.jpg" group-title="JORDAN 🇯🇴",Badawya drama
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/337114
+
 
 
 
