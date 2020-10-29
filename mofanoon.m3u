@@ -756,26 +756,6 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
 
-#EXTINF:-1 group-title="EGY 🇪🇬" tvg-logo="",|S1| Cairo_Cinema
-http://178.132.3.162:88/Cairo_Cinema/video.m3u8?token=test
-#EXTINF:-1 group-title="EGY 🇪🇬" tvg-logo="",|S1| Cairo_Drama
-http://178.132.3.162:88/Cairo_Drama/video.m3u8?token=test
-#EXTINF:-1 group-title="EGY 🇪🇬" tvg-logo="",|S1| Nile_cinema
-http://178.132.3.162:88/Nile_cinema/video.m3u8?token=test
-#EXTINF:-1 group-title="EGY 🇪🇬" tvg-logo="",|S1| Nile_Drama
-http://178.132.3.162:88/Nile_Drama/video.m3u8?token=test
-#EXTINF:-1 group-title="EGY 🇪🇬" tvg-logo="",|S1| Nile_Life
-http://178.132.3.162:88/Nile_Life/video.m3u8?token=test
-#EXTINF:-1 group-title="EGY 🇪🇬" tvg-logo="",|S1| Nile_Culture
-http://178.132.3.162:88/Nile_Culture/video.m3u8?token=test
-#EXTINF:-1 group-title="EGY 🇪🇬" tvg-logo="",|S1| Nile_Sport
-http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test
-#EXTINF:-1 group-title="EGY 🇪🇬" tvg-logo="",|S1| Al_Nahar
-http://178.132.3.162:88/Al_Nahar_Tv/video.m3u8?token=test
-#EXTINF:-1 group-title="EGY 🇪🇬" tvg-logo="",|S1| Al_Nahar_Drama
-http://178.132.3.162:88/Al_Nahar_Drama/video.m3u8?token=test
-#EXTINF:-1 group-title="EGY 🇪🇬" tvg-logo="",|S1| Panorama_Drama
-http://178.132.3.162:88/Panorama_Drama/video.m3u8?token=test
 
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="Morocco 🇲🇦",|MBC| 5 FHD
