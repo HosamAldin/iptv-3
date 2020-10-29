@@ -73,11 +73,11 @@ http://server11.mp3quran.net/hazza/018.mp3
 
 #EXTINF:-1 tvg-logo="https://www.sba.sa/images/channel-5.jpg" group-title="Islam 👳🏻‍🕋", |S1| مكة-القرآن الكريم HD
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/2f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B3%D9%86%D8%A9_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9%D8%8C_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9.png" group-title="Islam 👳🏻‍🕋", |S1| السنة النبوية HD
+#EXTINF:-1 tvg-logo="https://www.sba.sa/images/channel-4.jpg" group-title="Islam 👳🏻‍🕋", |S1| السنة النبوية HD
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sba.sa/images/channel-5.jpg" group-title="Islam 👳🏻‍🕋", |S2| مكة-القرآن الكريم SD
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/2f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B3%D9%86%D8%A9_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9%D8%8C_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9.png" group-title="Islam 👳🏻‍🕋", |S2| السنة النبوية SD
+#EXTINF:-1 tvg-logo="https://www.sba.sa/images/channel-4.jpg" group-title="Islam 👳🏻‍🕋", |S2| السنة النبوية SD
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 #EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/BAH.png" group-title="Islam 👳🏻‍🕋", |S1| البحرين - القرآن الكريم HD
 http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
