@@ -1,12 +1,12 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-256/tv-408-461607.png" group-title="📺Mo Fanoon📺",•●★--| 📺Mo Fanoon📺 |--★●•
 http://server2.quraan.us:9856/
 #EXTINF:-1 tvg-logo="https://d1hlpam123zqko.cloudfront.net/e26/07ae4/bf7b/4ec0/9103/72a28364df31/large/94957.png" group-title="📺Mo Fanoon📺",--| اللهم صلّ على سيدنا محمد |--
 https://ia803202.us.archive.org/17/items/alafasy-tv/salah-3la-naby.mp3 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-praying-icon-png-image_4162419.jpg" group-title="📺Mo Fanoon📺",--|🤲 دعاء لأموات المسلمين 🤲|--
 https://ia801007.us.archive.org/4/items/20190727_20190727_0950/%D8%A7%D9%84%D9%84%D9%87%D9%85%20%D8%A3%D8%BA%D9%81%D8%B1%20%D9%84%D9%87%D9%85%20%D9%88%D8%A7%D8%B1%D8%AD%D9%85%D9%87%D9%85%20-%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D9%83.mp3
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/04/19/07/03/stay-home-5062153_960_720.png" group-title="Corona🤧😷",|king| COVID-19 confirmed cases
@@ -39,14 +39,13 @@ https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",Vox
 http://5.135.92.133:52841/out/u/124_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",RTL
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",RTL 2
 http://5.135.92.133:52841/out/u/119_1.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|Radio| القرآن الكريم- تلاوات
 http://live.mp3quran.net:8006/;
@@ -92,6 +91,9 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/resala.png" group-title="Islam 👳🏻‍🕋",|rotana| الرسالة SD
 https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_480p/chunks.m3u8
+
+
+
 
 
 
@@ -144,14 +146,10 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AbuDhabiNatGeo.png" group-title="DOCUMENTARY 🔭📡", |S1| AD NAT GEO SD
 http://admdn2.cdn.mangomolo.com:80/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajd-sm.png" group-title="DOCUMENTARY 🔭📡", |S1| Aljazeera Dok SD
 https://edge-1192-ch-gv.filmon.com/live/3029.high.stream/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://paltoday.tv/style/assets/images/logo.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Palästina Today 
@@ -171,7 +169,6 @@ http://htvpalsat.mada.ps:8888/audeh/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.maannews.net/assets/images/logo.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Maan 
 http://htvmada.mada.ps:8888/maannews/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.pbc.ps/sites/all/themes/pbctheme/img/48.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Musawa 
 http://htvpalsat.mada.ps:8888/musawa/index.m3u8
@@ -205,12 +202,6 @@ http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Fajer 2 
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://jordanfashionweekofficial.com/wp-content/uploads/2019/03/ammantv-1.png" group-title="JORDAN 🇯🇴", |S1| Amman
@@ -254,8 +245,9 @@ http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |MBC| LBCI SD
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://www.meietv.de/images/logo.png" group-title="LEBANON 🇱🇧",meie tv 
-https://stream.meietv.de/live/meietv.m3u8
+
+
+
 
 
 
@@ -285,10 +277,6 @@ http://82.137.248.16:1935/Souryana/stream31122019/chunklist_w1308882868.m3u8
 http://82.137.248.16:1935/Nour/stream31122019/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://urmedium.com/img/alalamsyriaplayer.jpg" group-title="SYRIA 🇸🇾", |S1| alam syria 
 https://live.parstoday.com/live/alam/chunklist_w1359497533.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png"  group-title="MBC Group 🌝🌝",|MBC| 1 FHD
@@ -410,6 +398,7 @@ http://digitalxpress.gcdn.co/live1/mbciraq/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="MBC Group 🌝🌝",MBC Masr
 http://digitalxpress.gcdn.co/live1/mbcmasr/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png" group-title="MBC Group 🌝🌝",MBC Drama
 http://digitalxpress.gcdn.co/live1/mbcdrama/index.m3u8
 
@@ -465,7 +454,6 @@ http://starsat123.com:8080/JUAN/JUAN/75
 http://starsat123.com:8080/JUAN/JUAN/76
 
 
-
 #EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="OSN Group 🤪🤪", |S1| OSN Ya Hala Cinma HD
 http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f3/B4U_Aflam_Logo.png" group-title="OSN Group 🤪🤪", |S1| B4u
@@ -477,6 +465,7 @@ http://dx3.gcdn.co/OSNWWE/index.m3u8
 http://digitalxpress.gcdn.co/live1/osnmoviesfirst/index.m3u8
 #EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="OSN Group 🤪🤪", |S1| OSN Movies HD
 http://digitalxpress.gcdn.co/live1/osnmovies/index.m3u8
+
 
 
 
@@ -505,7 +494,6 @@ http://digitalxpress.gcdn.co/live1/beinbejunior/index.m3u8
 http://digitalxpress.gcdn.co/live1/beinbaraem/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-KlQVgXlGIn8/XHhD6ntD6YI/AAAAAAAAIKU/gbcwwPfix9cc2Y22i-XxLLpBPjH1FY6hgCK4BGAYYCw/s1600/logo%2Bjeem%2Btv.png" group-title="BEIN Group 🤑🤑", |S1| Bein j
 http://digitalxpress.gcdn.co/live1/beinjeemhd/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS NEWS HD
@@ -710,9 +698,9 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlespfwGsd/master570.m3u
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
-#EXTINF:-1 group-title="Gulf 🇰🇼" tvg-logo="",Qatar 1
+#EXTINF:-1 group-title="Gulf 🇰🇼" tvg-logo="https://www.qtv.qa/assets/2020/images/qtv.png", |S1|Qatar 1
 http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master.m3u8
-#EXTINF:-1 group-title="Gulf 🇰🇼" tvg-logo="",Qatar 2
+#EXTINF:-1 group-title="Gulf 🇰🇼" tvg-logo="https://www.qtv.qa/assets/2020/images/qtvTwo.png", |S1|Qatar 2
 http://qtv-i.akamaihd.net/hls/live/1020532/QTV2/master.m3u8
 
 #EXTINF:-1 group-title="Gulf 🇰🇼" tvg-logo="", |S1| Al Rai 
@@ -768,9 +756,8 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
 
-
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="Morocco 🇲🇦",|S1| MBC 5 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="Morocco 🇲🇦",|MBC| 5 FHD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://maroc.mom-rsf.org/typo3temp/_processed_/2/0/csm_28-1120_import_129fc8fd3f.png" group-title="Morocco 🇲🇦",|S1| 2M Maroc
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
@@ -797,1293 +784,1364 @@ https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w1920236347_b4500000_sleng.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Medi1 TV" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Medi1 TV
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/15
+#EXTINF:-1 tvg-id="" tvg-name="Arrabiaa" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Arrabiaa
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/16
+#EXTINF:-1 tvg-id="" tvg-name="Arriadhia" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Arriadhia
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/17
+#EXTINF:-1 tvg-id="" tvg-name="2M Maroc" tvg-logo="" group-title="Morocco 🇲🇦",|S2| 2M Maroc
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/18
+#EXTINF:-1 tvg-id="" tvg-name="TV Tamazight Maroc" tvg-logo="" group-title="Morocco 🇲🇦",|S2| TV Tamazight Maroc
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/19
+#EXTINF:-1 tvg-id="" tvg-name="Al Oula" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Al Oula
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/20
+#EXTINF:-1 tvg-id="" tvg-name="Assadissa" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Assadissa
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/21
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula Laayoune" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Al Aoula Laayoune
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/39
+#EXTINF:-1 tvg-id="" tvg-name="Medi 1 TV Afrique" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Medi 1 TV Afrique
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/40
+#EXTINF:-1 tvg-id="" tvg-name="ALMAGHARIBIA ikhbaria" tvg-logo="" group-title="Morocco 🇲🇦",|S2| ALMAGHARIBIA ikhbaria
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/41
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="" group-title="Morocco 🇲🇦",|S2| MBC 5
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/42
+#EXTINF:-1 tvg-id="" tvg-name="CHADA TV MUSIC" tvg-logo="" group-title="Morocco 🇲🇦",|S2| CHADA TV MUSIC
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/43
+#EXTINF:-1 tvg-id="" tvg-name="Map TV News" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Map TV News
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/44
+#EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Tele Maroc
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/45
+#EXTINF:-1 tvg-id="" tvg-name="Canal Atlas" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Canal Atlas
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/46
+#EXTINF:-1 tvg-id="" tvg-name="AFLAM 7" tvg-logo="" group-title="Morocco 🇲🇦",|S2| AFLAM 7
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/47
 
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Saudi Qraan
+#EXTINF:-1 tvg-id="" tvg-name="Al Insen" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Al Insen
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/1
+#EXTINF:-1 tvg-id="" tvg-name="M Tunisia" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| M Tunisia
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/2
+#EXTINF:-1 tvg-id="" tvg-name="Tounesna" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Tounesna
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/3
+#EXTINF:-1 tvg-id="" tvg-name="ZaytounaTV" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| ZaytounaTV
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/22
+#EXTINF:-1 tvg-id="" tvg-name="TUN: Tunisia Nat 1" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| TUN: Tunisia Nat 1
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/23
+#EXTINF:-1 tvg-id="" tvg-name="TUN: Tunisia Nat 2" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| TUN: Tunisia Nat 2
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/24
+#EXTINF:-1 tvg-id="" tvg-name="TUN: Hannibal TV" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| TUN: Hannibal TV
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/25
+#EXTINF:-1 tvg-id="" tvg-name="TUN: Al janoubia" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| TUN: Al janoubia
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/26
+#EXTINF:-1 tvg-id="" tvg-name="TUN: AttesiaTV" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| TUN: AttesiaTV
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/27
+#EXTINF:-1 tvg-id="" tvg-name="TUN: El Hiwar Ettounsi" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| TUN: El Hiwar Ettounsi
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/28
+#EXTINF:-1 tvg-id="" tvg-name="Tun: Carthage +" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Tun: Carthage +
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/29
+#EXTINF:-1 tvg-id="" tvg-name="Tun: Telvza" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Tun: Telvza
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/30
+#EXTINF:-1 tvg-id="" tvg-name="Mosaique FM TV" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Mosaique FM TV
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/31
+#EXTINF:-1 tvg-id="" tvg-name="IFM TV" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| IFM TV
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/32
+#EXTINF:-1 tvg-id="" tvg-name="ALMUSTAKILLAH" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| ALMUSTAKILLAH
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/33
+#EXTINF:-1 tvg-id="" tvg-name="Sahel Tv" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Sahel Tv
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/34
+#EXTINF:-1 tvg-id="" tvg-name="Ziara" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Ziara
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/35
+#EXTINF:-1 tvg-id="" tvg-name="Nassma" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Nassma
+http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/36
+
+
+
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Saudi Qraan
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/126
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Saudi Sunna
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Saudi Sunna
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/958
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Quran TV
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Quran TV
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3020
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Almajd TV
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Almajd TV
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2092
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Almajd Quraan
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Almajd Quraan
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/957
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Almajd Hadeth
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Almajd Hadeth
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/956
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:  Almajd Documentary
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:  Almajd Documentary
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2090
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:  Bahrain Quran
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:  Bahrain Quran
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2091
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Ayat
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Ayat
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2089
-#EXTINF:-1  group-title="sorry :D 🃏🃏",راديو مشارى بن راشد العفاسى
+#EXTINF:-1  group-title="sorry AR 🃏🃏",راديو مشارى بن راشد العفاسى
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2739
-#EXTINF:-1  group-title="sorry :D 🃏🃏",راديو احمد بن على العجمى
+#EXTINF:-1  group-title="sorry AR 🃏🃏",راديو احمد بن على العجمى
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2740
-#EXTINF:-1  group-title="sorry :D 🃏🃏",راديو محمد جبريل
+#EXTINF:-1  group-title="sorry AR 🃏🃏",راديو محمد جبريل
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2741
-#EXTINF:-1  group-title="sorry :D 🃏🃏",راديو عبدا الباسط عبد الصمد
+#EXTINF:-1  group-title="sorry AR 🃏🃏",راديو عبدا الباسط عبد الصمد
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2742
-#EXTINF:-1  group-title="sorry :D 🃏🃏",راديو ابو بكر الشاطرى
+#EXTINF:-1  group-title="sorry AR 🃏🃏",راديو ابو بكر الشاطرى
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2743
-#EXTINF:-1  group-title="sorry :D 🃏🃏",راديو ماهر المعيقلى
+#EXTINF:-1  group-title="sorry AR 🃏🃏",راديو ماهر المعيقلى
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2744
-#EXTINF:-1  group-title="sorry :D 🃏🃏",راديو الحصرى
+#EXTINF:-1  group-title="sorry AR 🃏🃏",راديو الحصرى
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2745
-#EXTINF:-1  group-title="sorry :D 🃏🃏",راديو احمد الطرابلسى
+#EXTINF:-1  group-title="sorry AR 🃏🃏",راديو احمد الطرابلسى
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2746
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",BEOUT 1 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",BEOUT 1 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2991
-#EXTINF:-1  group-title="sorry :D 🃏🃏",BEOUT 2 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",BEOUT 2 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2992
-#EXTINF:-1  group-title="sorry :D 🃏🃏",BEOUT 3 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",BEOUT 3 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2993
-#EXTINF:-1  group-title="sorry :D 🃏🃏",BEOUT 4 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",BEOUT 4 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2994
-#EXTINF:-1  group-title="sorry :D 🃏🃏",BEOUT 5 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",BEOUT 5 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2995
-#EXTINF:-1  group-title="sorry :D 🃏🃏",BEOUT 6 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",BEOUT 6 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2996
-#EXTINF:-1  group-title="sorry :D 🃏🃏",BEOUT 7 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",BEOUT 7 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2997
-#EXTINF:-1  group-title="sorry :D 🃏🃏",BEOUT 8 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",BEOUT 8 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2998
-#EXTINF:-1  group-title="sorry :D 🃏🃏",BEOUT 9HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",BEOUT 9HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2999
-#EXTINF:-1  group-title="sorry :D 🃏🃏",BEOUT 10 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",BEOUT 10 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3000
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN SPORTS 4K
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN SPORTS 4K
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3245
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN SPORTS FullHD1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN SPORTS FullHD1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3221
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN SPORTS FullHD2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN SPORTS FullHD2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3222
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN SPORTS FullHD3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN SPORTS FullHD3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3223
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN SPORTS FullHD4
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN SPORTS FullHD4
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3224
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN SPORTS FullHD5
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN SPORTS FullHD5
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3225
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN SPORTS FullHD6
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN SPORTS FullHD6
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3226
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN SPORTS FullHD7
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN SPORTS FullHD7
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3230
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN SPORTS FullHD8
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN SPORTS FullHD8
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3227
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN SPORTS FullHD9
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN SPORTS FullHD9
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3228
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN SPORTS FullHD10
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN SPORTS FullHD10
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3229
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Sports 1 4K HEVC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Sports 1 4K HEVC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/459
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Sports 2 4K HEVC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Sports 2 4K HEVC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/450
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Sports  3 4K HEVC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Sports  3 4K HEVC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/451
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Sports  4 4K HEVC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Sports  4 4K HEVC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/452
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Sports  5 4K HEVC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Sports  5 4K HEVC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/453
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Sports  6 4K HEVC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Sports  6 4K HEVC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/454
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Sports  7 4K HEVC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Sports  7 4K HEVC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/455
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Sports  8 4K HEVC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Sports  8 4K HEVC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/456
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Sports  9 4K HEVC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Sports  9 4K HEVC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/457
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Sports  10 4K HEVC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Sports  10 4K HEVC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/458
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",local bein sport hd 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",local bein sport hd 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2059
-#EXTINF:-1  group-title="sorry :D 🃏🃏",local bein sport hd 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",local bein sport hd 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2060
-#EXTINF:-1  group-title="sorry :D 🃏🃏",local bein sport hd 3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",local bein sport hd 3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2061
-#EXTINF:-1  group-title="sorry :D 🃏🃏",local bein sport hd 4
+#EXTINF:-1  group-title="sorry AR 🃏🃏",local bein sport hd 4
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2062
-#EXTINF:-1  group-title="sorry :D 🃏🃏",local bein sport hd 5
+#EXTINF:-1  group-title="sorry AR 🃏🃏",local bein sport hd 5
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2063
-#EXTINF:-1  group-title="sorry :D 🃏🃏",local bein sport hd 6
+#EXTINF:-1  group-title="sorry AR 🃏🃏",local bein sport hd 6
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2064
-#EXTINF:-1  group-title="sorry :D 🃏🃏",local bein sport hd 7
+#EXTINF:-1  group-title="sorry AR 🃏🃏",local bein sport hd 7
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2065
-#EXTINF:-1  group-title="sorry :D 🃏🃏",local bein sport hd 8
+#EXTINF:-1  group-title="sorry AR 🃏🃏",local bein sport hd 8
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2066
-#EXTINF:-1  group-title="sorry :D 🃏🃏",local bein sport hd 9
+#EXTINF:-1  group-title="sorry AR 🃏🃏",local bein sport hd 9
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3231
-#EXTINF:-1  group-title="sorry :D 🃏🃏",local bein sport hd 10
+#EXTINF:-1  group-title="sorry AR 🃏🃏",local bein sport hd 10
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3232
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Soprt HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Soprt HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/960
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN sports News
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN sports News
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2051
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS HD1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS HD1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/46
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS HD2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS HD2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/47
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS HD3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS HD3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/48
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS HD4
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS HD4
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/49
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS HD5
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS HD5
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/50
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS HD6
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS HD6
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/51
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS HD7
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS HD7
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/52
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS HD8
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS HD8
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/53
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS HD9
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS HD9
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/54
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS HD10
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS HD10
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/55
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS HD11
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS HD11
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3001
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS HD12
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS HD12
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3002
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS SD1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS SD1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/56
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS SD2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS SD2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/57
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS SD3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS SD3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/58
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS SD4
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS SD4
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/59
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS SD5
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS SD5
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/60
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS SD6
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS SD6
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/93
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS SD7
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS SD7
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/92
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS SD8
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS SD8
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/91
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS SD9
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS SD9
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/61
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS SD10
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS SD10
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1459
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN 1 SD MS
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN 1 SD MS
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3004
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN 2 SD MS
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN 2 SD MS
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3005
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN 3 SD MS
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN 3 SD MS
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3006
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN 4 SD MS
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN 4 SD MS
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3007
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN 5 SD MS
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN 5 SD MS
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3008
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS LOW1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS LOW1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/62
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS LOW2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS LOW2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/63
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS LOW3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS LOW3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/64
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS LOW4
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS LOW4
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/65
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN SPORTS LOW5
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN SPORTS LOW5
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/66
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:bein sport low6
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:bein sport low6
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2108
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:bein sport low7
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:bein sport low7
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2109
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:bein sport low8
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:bein sport low8
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2110
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:bein sport low9
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:bein sport low9
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2111
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: bein sport low10
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: bein sport low10
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2112
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN Radio 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN Radio 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2015
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN Radio 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN Radio 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2016
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN Radio 3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN Radio 3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2017
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN Radio 4
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN Radio 4
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2018
-#EXTINF:-1  group-title="sorry :D 🃏🃏",beIN Radio 5
+#EXTINF:-1  group-title="sorry AR 🃏🃏",beIN Radio 5
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2019
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Movies 1 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Movies 1 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/24
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Movies 2 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Movies 2 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/17
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Movies 3 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Movies 3 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/18
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Movies 4 HD 
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Movies 4 HD 
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/19
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Series 1 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Series 1 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/20
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Series 2 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Series 2 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/21
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:  beIN Outdoor
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:  beIN Outdoor
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/13
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:  beIN AMC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:  beIN AMC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/14
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN  Drama
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN  Drama
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/15
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN  Gourmet
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN  Gourmet
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/16
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Jeem HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Jeem HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/22
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Fox Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Fox Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/23
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN FATAFEAT HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN FATAFEAT HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/25
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Baraeem
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Baraeem
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2028
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN Baraem 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN Baraem 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2950
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR :beIN_BOOMERANG
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR :beIN_BOOMERANG
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2945
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN DTX
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN DTX
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2946
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN JUNIOR HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN JUNIOR HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2947
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: beIN DREAMWORKS HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: beIN DREAMWORKS HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2948
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:Cartoon Network Arabic
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:Cartoon Network Arabic
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2949
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Seevii PRIME 1 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Seevii PRIME 1 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2951
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Seevii_PRIME 2 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Seevii_PRIME 2 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2952
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",KAICER BOX OFFICE 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",KAICER BOX OFFICE 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/494
-#EXTINF:-1  group-title="sorry :D 🃏🃏",KAICER BOX OFFICE 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",KAICER BOX OFFICE 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/512
-#EXTINF:-1  group-title="sorry :D 🃏🃏",KAICER BOX OFFICE 3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",KAICER BOX OFFICE 3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/515
-#EXTINF:-1  group-title="sorry :D 🃏🃏",KAICER BOX OFFICE 4
+#EXTINF:-1  group-title="sorry AR 🃏🃏",KAICER BOX OFFICE 4
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/514
-#EXTINF:-1  group-title="sorry :D 🃏🃏",KAICER BOX OFFICE 5
+#EXTINF:-1  group-title="sorry AR 🃏🃏",KAICER BOX OFFICE 5
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/516
-#EXTINF:-1  group-title="sorry :D 🃏🃏",KAICER BOX OFFICE 6
+#EXTINF:-1  group-title="sorry AR 🃏🃏",KAICER BOX OFFICE 6
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2465
-#EXTINF:-1  group-title="sorry :D 🃏🃏",KAICER BOX OFFICE 7
+#EXTINF:-1  group-title="sorry AR 🃏🃏",KAICER BOX OFFICE 7
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2466
-#EXTINF:-1  group-title="sorry :D 🃏🃏",KAICER BOX ARAB 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",KAICER BOX ARAB 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1476
-#EXTINF:-1  group-title="sorry :D 🃏🃏",KAICER BOX ARAB 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",KAICER BOX ARAB 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1477
-#EXTINF:-1  group-title="sorry :D 🃏🃏",KAICER BOX ARAB 3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",KAICER BOX ARAB 3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1478
-#EXTINF:-1  group-title="sorry :D 🃏🃏",KAICER BOX ARAB 4
+#EXTINF:-1  group-title="sorry AR 🃏🃏",KAICER BOX ARAB 4
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1479
-#EXTINF:-1  group-title="sorry :D 🃏🃏",KAICER BOX ARAB 5
+#EXTINF:-1  group-title="sorry AR 🃏🃏",KAICER BOX ARAB 5
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1480
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[NETFLIX] Action
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[NETFLIX] Action
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2418
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[NETFLIX] Thriller
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[NETFLIX] Thriller
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2419
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[NETFLIX] SCi-Fi
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[NETFLIX] SCi-Fi
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2420
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[NETFLIX] Hendy
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[NETFLIX] Hendy
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2421
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[NETFLIX] Horror
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[NETFLIX] Horror
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2422
-#EXTINF:-1  group-title="sorry :D 🃏🃏",NETFLIX_Comedy+
+#EXTINF:-1  group-title="sorry AR 🃏🃏",NETFLIX_Comedy+
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2505
-#EXTINF:-1  group-title="sorry :D 🃏🃏",NETFLIX_SCI FI
+#EXTINF:-1  group-title="sorry AR 🃏🃏",NETFLIX_SCI FI
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2506
-#EXTINF:-1  group-title="sorry :D 🃏🃏",NETFLIX_HOME_CINEMA_1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",NETFLIX_HOME_CINEMA_1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2507
-#EXTINF:-1  group-title="sorry :D 🃏🃏",shahid TV
+#EXTINF:-1  group-title="sorry AR 🃏🃏",shahid TV
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2464
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[Shahid Action]
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[Shahid Action]
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2423
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[Shahid Aflam]
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[Shahid Aflam]
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2424
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[Shahid Aflam2]
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[Shahid Aflam2]
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2425
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[Shahid HINDI]
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[Shahid HINDI]
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2426
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[Shahid HORROR]
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[Shahid HORROR]
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2427
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[Shahid RMANCE]
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[Shahid RMANCE]
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2428
-#EXTINF:-1  group-title="sorry :D 🃏🃏",NETFLIX N action
+#EXTINF:-1  group-title="sorry AR 🃏🃏",NETFLIX N action
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2463
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Netflex Action
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Netflex Action
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2116
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Netflix SCF FI
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Netflix SCF FI
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2041
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Netflix Kids
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Netflix Kids
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2042
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Netflix Horror
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Netflix Horror
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2043
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Netflix Comedy
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Netflix Comedy
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2044
-#EXTINF:-1  group-title="sorry :D 🃏🃏",NETFLIX  ACTION
+#EXTINF:-1  group-title="sorry AR 🃏🃏",NETFLIX  ACTION
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2047
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Netflix Comedy 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Netflix Comedy 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2346
-#EXTINF:-1  group-title="sorry :D 🃏🃏",NETFLIX_DRAMA
+#EXTINF:-1  group-title="sorry AR 🃏🃏",NETFLIX_DRAMA
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2347
-#EXTINF:-1  group-title="sorry :D 🃏🃏",NETFLIX_Musalsalat_3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",NETFLIX_Musalsalat_3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2349
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Netflix Horror 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Netflix Horror 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2350
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Netflix Bollywood
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Netflix Bollywood
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2351
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Netflix Drama+
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Netflix Drama+
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2354
-#EXTINF:-1  group-title="sorry :D 🃏🃏",NETFLIX_KIDS2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",NETFLIX_KIDS2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2357
-#EXTINF:-1  group-title="sorry :D 🃏🃏",NETFLIX_THRILLER
+#EXTINF:-1  group-title="sorry AR 🃏🃏",NETFLIX_THRILLER
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2358
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Alkaicer Action Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Alkaicer Action Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2398
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Alkaicer B-Cinema
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Alkaicer B-Cinema
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2399
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Alkaicer Box-Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Alkaicer Box-Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2400
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Alkaicer Comedy-Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Alkaicer Comedy-Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2401
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Alkaicer Disney-Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Alkaicer Disney-Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2402
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Alkaicer  Cinema_One
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Alkaicer  Cinema_One
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2403
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Alkaicer Famely-Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Alkaicer Famely-Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2404
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Alkaicer KidsCo-Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Alkaicer KidsCo-Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2405
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Alkaicer MasterPiece-Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Alkaicer MasterPiece-Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2406
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Alkaicer Premiere-Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Alkaicer Premiere-Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2407
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Alkaicer Thriller-Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Alkaicer Thriller-Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2408
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Alkaicer W-Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Alkaicer W-Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2409
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Alkaicer The-Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Alkaicer The-Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2410
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Alkaicer The-Movies2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Alkaicer The-Movies2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2411
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MAX HD HORROR 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MAX HD HORROR 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2520
-#EXTINF:-1  group-title="sorry :D 🃏🃏",TOM &JERRY LIVE
+#EXTINF:-1  group-title="sorry AR 🃏🃏",TOM &JERRY LIVE
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2819
-#EXTINF:-1  group-title="sorry :D 🃏🃏",X Premuim Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",X Premuim Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2914
-#EXTINF:-1  group-title="sorry :D 🃏🃏",X Premuim Cinema 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",X Premuim Cinema 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2915
-#EXTINF:-1  group-title="sorry :D 🃏🃏",X Premuim EL ZAE3EM
+#EXTINF:-1  group-title="sorry AR 🃏🃏",X Premuim EL ZAE3EM
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2916
-#EXTINF:-1  group-title="sorry :D 🃏🃏",X Premuim Tom & Jerry
+#EXTINF:-1  group-title="sorry AR 🃏🃏",X Premuim Tom & Jerry
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2920
-#EXTINF:-1  group-title="sorry :D 🃏🃏",X Premuim Cinema 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",X Premuim Cinema 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2921
-#EXTINF:-1  group-title="sorry :D 🃏🃏",X Premuim Kids
+#EXTINF:-1  group-title="sorry AR 🃏🃏",X Premuim Kids
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2922
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Aroma Action
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Aroma Action
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2953
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Aroma Arabic Films
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Aroma Arabic Films
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2954
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Aroma Kids
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Aroma Kids
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2955
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Aroma Discovery
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Aroma Discovery
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2956
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Aroma Drama Films
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Aroma Drama Films
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2957
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Aroma Masra7yat
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Aroma Masra7yat
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2958
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Aroma Horror
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Aroma Horror
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2959
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Aroma Zaman
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Aroma Zaman
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2960
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Aroma WWE
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Aroma WWE
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2961
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Aroma  Box Office 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Aroma  Box Office 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2962
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Aroma  Box Office 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Aroma  Box Office 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2963
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Aroma  Box Office 3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Aroma  Box Office 3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2964
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Aroma  Box Office 4
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Aroma  Box Office 4
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2965
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ShowMe Comedy HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ShowMe Comedy HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2933
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ShowMe Tom & Jerry HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ShowMe Tom & Jerry HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2934
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ShowMe Anime HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ShowMe Anime HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2935
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ShowMe Classic HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ShowMe Classic HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2936
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ShowMe Cinema HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ShowMe Cinema HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2937
-#EXTINF:-1  group-title="sorry :D 🃏🃏",DNH FILM
+#EXTINF:-1  group-title="sorry AR 🃏🃏",DNH FILM
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2928
-#EXTINF:-1  group-title="sorry :D 🃏🃏",DNH KIDS
+#EXTINF:-1  group-title="sorry AR 🃏🃏",DNH KIDS
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2929
-#EXTINF:-1  group-title="sorry :D 🃏🃏",DNH TIATRO
+#EXTINF:-1  group-title="sorry AR 🃏🃏",DNH TIATRO
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2930
-#EXTINF:-1  group-title="sorry :D 🃏🃏",DNH ARABIC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",DNH ARABIC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2931
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Nimo Kids HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Nimo Kids HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2932
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Panorama Movies HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Panorama Movies HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2971
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Panorama Movies Frist HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Panorama Movies Frist HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2972
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Panorama Cinema 1 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Panorama Cinema 1 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2973
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Panorama Cinema 2 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Panorama Cinema 2 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2974
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Panorama Horror HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Panorama Horror HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2975
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Panorama Tom & Jerry HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Panorama Tom & Jerry HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2976
-#EXTINF:-1  group-title="sorry :D 🃏🃏",DREAM KIDS
+#EXTINF:-1  group-title="sorry AR 🃏🃏",DREAM KIDS
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2977
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ShofMax 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ShofMax 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2989
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ShofMax 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ShofMax 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2988
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ShofMax 3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ShofMax 3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2987
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ShofMax Classic 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ShofMax Classic 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2978
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ShofMax Classic 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ShofMax Classic 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2985
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ShofMax Classic 3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ShofMax Classic 3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2984
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ShofMax Moslsalat 
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ShofMax Moslsalat 
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2979
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ShofMax Moslsalat 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ShofMax Moslsalat 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2986
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ShofMax Elkeper Awy
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ShofMax Elkeper Awy
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2980
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Majestic Cinema 1 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Majestic Cinema 1 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3009
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Majestic Cinema 2 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Majestic Cinema 2 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3010
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Majestic Movies HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Majestic Movies HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3011
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Majestic Movies plus HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Majestic Movies plus HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3012
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Majestic Horror HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Majestic Horror HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3013
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Majestic Kids HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Majestic Kids HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3014
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Majestic Premium HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Majestic Premium HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3015
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Majistic Geographic HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Majistic Geographic HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3016
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Majistic Tom &Jerry HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Majistic Tom &Jerry HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3017
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: ART Aflam 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: ART Aflam 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/997
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: ART Aflam  2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: ART Aflam  2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/102
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: ART Cinema
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: ART Cinema
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/103
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: ART Hekayat 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: ART Hekayat 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/104
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: ART Hekayat 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: ART Hekayat 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/105
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: OSN Nat Geo SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: OSN Nat Geo SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/85
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: OSN Cinema 1 SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: OSN Cinema 1 SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/86
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: OSN Nat Geo pepole SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: OSN Nat Geo pepole SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/88
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: OSN Star World SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: OSN Star World SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/89
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: OSN Star Movies SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: OSN Star Movies SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/90
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN:  ITV Choice
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN:  ITV Choice
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2172
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Box Office 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Box Office 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2825
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Box Office 3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Box Office 3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2826
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: OSN  Binge
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: OSN  Binge
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/84
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/153
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN Disney XD HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN Disney XD HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2543
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] Alfa Mosalsalat
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] Alfa Mosalsalat
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/995
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] Alfa Musalsalat 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] Alfa Musalsalat 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2542
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN :  KIDS ZONE 
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN :  KIDS ZONE 
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/154
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN Action
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN Action
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/155
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN YAHALA HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN YAHALA HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/156
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN Nat Geo
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN Nat Geo
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/157
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN Nat Geo Pepole
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN Nat Geo Pepole
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/158
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN Star Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN Star Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/159
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN Star World 
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN Star World 
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/160
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN Ya Hala Cinema
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN Ya Hala Cinema
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/161
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN Disny Junior
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN Disny Junior
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/162
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN Enigma
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN Enigma
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/164
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN Discovery Show 
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN Discovery Show 
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/165
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN TLC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN TLC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/166
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN: Nickelodeon HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN: Nickelodeon HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2969
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN History Channel
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN History Channel
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/167
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN Discovery Science 
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN Discovery Science 
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/168
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN  OSN BBC First
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN  OSN BBC First
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/169
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN Movies First 
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN Movies First 
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/170
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN Movies Disney
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN Movies Disney
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/171
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN  Movies First  
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN  Movies First  
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/175
-#EXTINF:-1  group-title="sorry :D 🃏🃏", OSN: Disney Channel
+#EXTINF:-1  group-title="sorry AR 🃏🃏", OSN: Disney Channel
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/667
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN: Movies First  ++2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN: Movies First  ++2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/738
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] Movies 
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] Movies 
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/963
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] wwe
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] wwe
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/994
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] Food
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] Food
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/993
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] Alfa Cinema 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] Alfa Cinema 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/991
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] Alfa Cinema 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] Alfa Cinema 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/992
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Cinema
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Cinema
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/964
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] Alfa Alyoum
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] Alfa Alyoum
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/990
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Ya Hala Aloula
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Ya Hala Aloula
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/988
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] : Enigma
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] : Enigma
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/987
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Series First
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Series First
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/986
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Animal Planet
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Animal Planet
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/962
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Nat Geo Abudhabi
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Nat Geo Abudhabi
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/983
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Nat Geo Wild
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Nat Geo Wild
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/982
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Comedy
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Comedy
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/965
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Nat Geo People
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Nat Geo People
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/981
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Movies First
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Movies First
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/980
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] Nick JR
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] Nick JR
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/979
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Living
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Living
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/977
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Kids
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Kids
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/976
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] Pop up
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] Pop up
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/975
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] Movies Family
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] Movies Family
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/974
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Box Office 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Box Office 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/973
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] mix
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] mix
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/972
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN Fight Box HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN Fight Box HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/971
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Discovery HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Discovery HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/969
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] Discovery ID
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] Discovery ID
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/968
-#EXTINF:-1  group-title="sorry :D 🃏🃏",[OSN] OSN Comedy Central
+#EXTINF:-1  group-title="sorry AR 🃏🃏",[OSN] OSN Comedy Central
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/966
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN: ON-DEMAND-1HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN: ON-DEMAND-1HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2827
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN: ON-DEMAND-2HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN: ON-DEMAND-2HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2828
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN: ON-DEMAND-3HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN: ON-DEMAND-3HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2829
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN: ON-DEMAND-EXTRA-1HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN: ON-DEMAND-EXTRA-1HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2830
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN: ON-DEMAND-EXTRA-2HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN: ON-DEMAND-EXTRA-2HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2831
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OSN: ON-DEMAND-EXTRA-3HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OSN: ON-DEMAND-EXTRA-3HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2832
-#EXTINF:-1  group-title="sorry :D 🃏🃏",YAHALA_SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",YAHALA_SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2891
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Ya_Hala_Oula_SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Ya_Hala_Oula_SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2892
-#EXTINF:-1  group-title="sorry :D 🃏🃏",YAHALA_CINEMA_SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",YAHALA_CINEMA_SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2893
-#EXTINF:-1  group-title="sorry :D 🃏🃏",CINEMA1_SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",CINEMA1_SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2894
-#EXTINF:-1  group-title="sorry :D 🃏🃏",FANN _SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",FANN _SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2895
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MUSIC_NOW_SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MUSIC_NOW_SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2896
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ALYOUM_SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ALYOUM_SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2897
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MUSALSALAT_SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MUSALSALAT_SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2898
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MOVIES_SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MOVIES_SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2899
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Movies_First_SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Movies_First_SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2901
-#EXTINF:-1  group-title="sorry :D 🃏🃏",History_Channel_SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",History_Channel_SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2903
-#EXTINF:-1  group-title="sorry :D 🃏🃏",NAT_GEO_People_SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",NAT_GEO_People_SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2904
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Nat_GEO_Wild_SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Nat_GEO_Wild_SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2905
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: MBC 1 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: MBC 1 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/845
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: MBC 2 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: MBC 2 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/846
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: MBC 3 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: MBC 3 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/847
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: MBC 4 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: MBC 4 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/848
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: MBC 5 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: MBC 5 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2114
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: MBC Bollywood HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: MBC Bollywood HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/849
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: MBC Massr HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: MBC Massr HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/850
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: MBC Masr 2 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: MBC Masr 2 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/851
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: MBC Drama HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: MBC Drama HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/852
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: MBC Action HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: MBC Action HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/853
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: MBC Max HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: MBC Max HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/854
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: MBC Iraq HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: MBC Iraq HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/855
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: MBC Drama+ HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: MBC Drama+ HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/856
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: MBC+Variety HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: MBC+Variety HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/857
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: FOX Rewayat HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: FOX Rewayat HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/859
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: FOX Life HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: FOX Life HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/860
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: Family Movies HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: Family Movies HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/861
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: FOX Crime HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: FOX Crime HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/862
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: Fox Action
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: Fox Action
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/863
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: Film box
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: Film box
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/864
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: Docu Box HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: Docu Box HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/865
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: Fight Box HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: Fight Box HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/866
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: Fox Movies
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: Fox Movies
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/867
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: Planet Earth HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: Planet Earth HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/869
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: Discovery SC HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: Discovery SC HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/871
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: Gulli Arabic HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: Gulli Arabic HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/872
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MYHD: Duck TV HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MYHD: Duck TV HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/874
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MBC_1 sd
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MBC_1 sd
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2771
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MBC_2 sd
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MBC_2 sd
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2772
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MBC_3 sd
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MBC_3 sd
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2773
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MBC_4 sd
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MBC_4 sd
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2774
-#EXTINF:-1  group-title="sorry :D 🃏🃏",,MBC_5 sd
+#EXTINF:-1  group-title="sorry AR 🃏🃏",,MBC_5 sd
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2775
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MBC_MAX sd
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MBC_MAX sd
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2776
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MBC_ACTION sd
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MBC_ACTION sd
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2777
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MBC_DRAMA sd
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MBC_DRAMA sd
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2778
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MBC_MASR sd
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MBC_MASR sd
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2779
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MBC_MASR 2 sd
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MBC_MASR 2 sd
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2780
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MBC_FM_PANORAMA sd
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MBC_FM_PANORAMA sd
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2781
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Semsem
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Semsem
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1010
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Cartoon Network
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Cartoon Network
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1011
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: PBS Kids 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: PBS Kids 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1012
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Al Mickey Channel
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Al Mickey Channel
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1013
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: KARAMEESH
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: KARAMEESH
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1014
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Kooky
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Kooky
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1015
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Hodhod
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Hodhod
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1021
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Toyor Baby
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Toyor Baby
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1018
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Toyor Al Ganna
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Toyor Al Ganna
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1020
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Maged
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Maged
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1019
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Spacetoon
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Spacetoon
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1017
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Mody Kids
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Mody Kids
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1016
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Al Jazeera
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Al Jazeera
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/999
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Al Jazeera Documentry
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Al Jazeera Documentry
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1000
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: AL JAZEERA MUBASHER
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: AL JAZEERA MUBASHER
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3208
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: AlJazeera-English
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: AlJazeera-English
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3209
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: AlJazeera America 
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: AlJazeera America 
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3210
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Al Jazeera Mubasher LIVE
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Al Jazeera Mubasher LIVE
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1003
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Al ALArabiya
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Al ALArabiya
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1001
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Al ALArabiya Alhadaath
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Al ALArabiya Alhadaath
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1002
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: BBC Arabic
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: BBC Arabic
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1005
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: RT News
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: RT News
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1008
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Sky News
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Sky News
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1007
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: TRT-ELARABIYE
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: TRT-ELARABIYE
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1006
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: DW TV ARABIA
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: DW TV ARABIA
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1004
-#EXTINF:-1  group-title="sorry :D 🃏🃏", AR: FR 24 arabic HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏", AR: FR 24 arabic HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3206
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Euro News  arab
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Euro News  arab
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3207
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:  Alhurra
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:  Alhurra
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3211
-#EXTINF:-1  group-title="sorry :D 🃏🃏",CNN
+#EXTINF:-1  group-title="sorry AR 🃏🃏",CNN
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3212
-#EXTINF:-1  group-title="sorry :D 🃏🃏",France 24 (En Francais)
+#EXTINF:-1  group-title="sorry AR 🃏🃏",France 24 (En Francais)
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3213
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: ALAM
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: ALAM
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3214
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:Rotana Cinema 
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:Rotana Cinema 
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/106
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Rotana Cinema KSA
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Rotana Cinema KSA
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/107
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:Rotana Aflam
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:Rotana Aflam
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/108
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Rotana  Comedy 
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Rotana  Comedy 
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/109
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Rotana Classic 
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Rotana Classic 
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/110
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Rotana Drama
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Rotana Drama
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3215
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Rotana Comedy
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Rotana Comedy
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3216
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Rotana Clip
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Rotana Clip
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3217
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Rotana Khaliji
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Rotana Khaliji
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3218
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: ON Time Sport 1 SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: ON Time Sport 1 SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2397
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: ON Time Sport 1HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: ON Time Sport 1HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/507
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: ON Time Sport 2 SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: ON Time Sport 2 SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2396
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: ON Time Sport 2 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: ON Time Sport 2 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/949
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Time Sport HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Time Sport HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/953
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Time Sport
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Time Sport
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/951
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Alahly
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Alahly
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/952
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Zamalek TV
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Zamalek TV
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2068
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:  Sada Elbabad
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:  Sada Elbabad
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/495
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:  Nile Sport
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:  Nile Sport
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/496
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:  Nile Comedy
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:  Nile Comedy
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/497
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Nile News
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Nile News
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/498
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:Cairo Drama
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:Cairo Drama
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/499
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:CBC Drama
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:CBC Drama
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/500
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:CBC Sofra
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:CBC Sofra
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/501
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:CBC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:CBC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/502
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:DMC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:DMC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/503
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:Alnahar
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:Alnahar
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/504
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: ALnahar Drama
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: ALnahar Drama
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/505
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: ON Drama
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: ON Drama
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/506
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: ON E
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: ON E
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/508
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Alhayah
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Alhayah
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/509
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:  Maspero-Zaman
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:  Maspero-Zaman
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/950
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Mehwar
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Mehwar
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/510
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR:  Sport HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR:  Sport HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2841
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: betlahem 1 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: betlahem 1 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2843
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Betlahem 2 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Betlahem 2 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2842
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: FajerTV1 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: FajerTV1 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/584
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: FajerTV1 SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: FajerTV1 SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/585
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: FajerTV2 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: FajerTV2 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/587
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: FajerTV2 SD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: FajerTV2 SD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/588
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: FajerTV3 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: FajerTV3 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/590
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: FajerTV4 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: FajerTV4 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/593
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: FajerTV5 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: FajerTV5 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/596
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Raya
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Raya
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/481
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Ajyal
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Ajyal
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/482
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Al salam
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Al salam
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/483
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Palstine Today
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Palstine Today
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/486
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Alhorrya
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Alhorrya
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2942
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Amwaj
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Amwaj
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2943
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Aqsa tv
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Aqsa tv
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2944
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Hala Ramallah
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Hala Ramallah
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3044
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: nablus live
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: nablus live
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3045
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Fajr 1 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Fajr 1 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/448
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Fajr 2 HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Fajr 2 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/449
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Jordan Almamlaka
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Jordan Almamlaka
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3117
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Jordan Amen
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Jordan Amen
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3118
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Jordan Amman
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Jordan Amman
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3119
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Jordan Nart
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Jordan Nart
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3120
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Jordan Noor
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Jordan Noor
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3121
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Jordan Ro2ya
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Jordan Ro2ya
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3122
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: JORDAN SPORTS
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: JORDAN SPORTS
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3123
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Jordan Today
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Jordan Today
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3124
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: JORDAN TV
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: JORDAN TV
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3125
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Jordan Yarmouk
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Jordan Yarmouk
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3126
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Jordan Zweina
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Jordan Zweina
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3127
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",SY: SYRIA. ALOULA
+#EXTINF:-1  group-title="sorry AR 🃏🃏",SY: SYRIA. ALOULA
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2000
-#EXTINF:-1  group-title="sorry :D 🃏🃏",SY: SYRIA.DRAMA
+#EXTINF:-1  group-title="sorry AR 🃏🃏",SY: SYRIA.DRAMA
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2001
-#EXTINF:-1  group-title="sorry :D 🃏🃏",Syr-Sama-TV+
+#EXTINF:-1  group-title="sorry AR 🃏🃏",Syr-Sama-TV+
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2002
-#EXTINF:-1  group-title="sorry :D 🃏🃏",SY: LANA Tv
+#EXTINF:-1  group-title="sorry AR 🃏🃏",SY: LANA Tv
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2003
-#EXTINF:-1  group-title="sorry :D 🃏🃏",SY: Sama.alsham
+#EXTINF:-1  group-title="sorry AR 🃏🃏",SY: Sama.alsham
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2013
-#EXTINF:-1  group-title="sorry :D 🃏🃏",SY: SYRIA-TV2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",SY: SYRIA-TV2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2005
-#EXTINF:-1  group-title="sorry :D 🃏🃏",SY: NOUREL SHAM
+#EXTINF:-1  group-title="sorry AR 🃏🃏",SY: NOUREL SHAM
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2012
-#EXTINF:-1  group-title="sorry :D 🃏🃏",SY: Halab-Today
+#EXTINF:-1  group-title="sorry AR 🃏🃏",SY: Halab-Today
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2011
-#EXTINF:-1  group-title="sorry :D 🃏🃏",SY: Al.KhabarTV HD*
+#EXTINF:-1  group-title="sorry AR 🃏🃏",SY: Al.KhabarTV HD*
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2010
-#EXTINF:-1  group-title="sorry :D 🃏🃏",SY: Drama-Al-Badawya
+#EXTINF:-1  group-title="sorry AR 🃏🃏",SY: Drama-Al-Badawya
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2007
-#EXTINF:-1  group-title="sorry :D 🃏🃏",SY:  LANA Tv HD*
+#EXTINF:-1  group-title="sorry AR 🃏🃏",SY:  LANA Tv HD*
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2009
-#EXTINF:-1  group-title="sorry :D 🃏🃏",SY: ORIENT
+#EXTINF:-1  group-title="sorry AR 🃏🃏",SY: ORIENT
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2004
-#EXTINF:-1  group-title="sorry :D 🃏🃏",SY: SAMA TV SYRIA HD*
+#EXTINF:-1  group-title="sorry AR 🃏🃏",SY: SAMA TV SYRIA HD*
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2008
-#EXTINF:-1  group-title="sorry :D 🃏🃏",SY: SYRIA.ALIKHBARIA
+#EXTINF:-1  group-title="sorry AR 🃏🃏",SY: SYRIA.ALIKHBARIA
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2006
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Tarbawia
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Tarbawia
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2057
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",LBC
+#EXTINF:-1  group-title="sorry AR 🃏🃏",LBC
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3025
-#EXTINF:-1  group-title="sorry :D 🃏🃏",LBCI.International
+#EXTINF:-1  group-title="sorry AR 🃏🃏",LBCI.International
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3026
-#EXTINF:-1  group-title="sorry :D 🃏🃏",LDC LEBANON
+#EXTINF:-1  group-title="sorry AR 🃏🃏",LDC LEBANON
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3027
-#EXTINF:-1  group-title="sorry :D 🃏🃏",LEBANON TV
+#EXTINF:-1  group-title="sorry AR 🃏🃏",LEBANON TV
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3028
-#EXTINF:-1  group-title="sorry :D 🃏🃏",MTV LEBANON
+#EXTINF:-1  group-title="sorry AR 🃏🃏",MTV LEBANON
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3029
-#EXTINF:-1  group-title="sorry :D 🃏🃏",HAWACOM
+#EXTINF:-1  group-title="sorry AR 🃏🃏",HAWACOM
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3030
-#EXTINF:-1  group-title="sorry :D 🃏🃏",FUTURE LEBANON
+#EXTINF:-1  group-title="sorry AR 🃏🃏",FUTURE LEBANON
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3031
-#EXTINF:-1  group-title="sorry :D 🃏🃏",NBN HD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",NBN HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3032
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AL MAYADEEN
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AL MAYADEEN
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3033
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AL MANAR
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AL MANAR
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3034
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AGHANI AGHANI
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AGHANI AGHANI
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3035
-#EXTINF:-1  group-title="sorry :D 🃏🃏",NOURSAT LEBANON
+#EXTINF:-1  group-title="sorry AR 🃏🃏",NOURSAT LEBANON
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3036
-#EXTINF:-1  group-title="sorry :D 🃏🃏",NOUR AL SHAM
+#EXTINF:-1  group-title="sorry AR 🃏🃏",NOUR AL SHAM
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3037
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AL JADEED LEBANON
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AL JADEED LEBANON
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3038
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AL EKHBARIYA
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AL EKHBARIYA
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3039
-#EXTINF:-1  group-title="sorry :D 🃏🃏",OTV
+#EXTINF:-1  group-title="sorry AR 🃏🃏",OTV
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3040
-#EXTINF:-1  group-title="sorry :D 🃏🃏",CHARITY TV LEBANON
+#EXTINF:-1  group-title="sorry AR 🃏🃏",CHARITY TV LEBANON
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3041
-#EXTINF:-1  group-title="sorry :D 🃏🃏",ARABICA MUSIC LEBANON
+#EXTINF:-1  group-title="sorry AR 🃏🃏",ARABICA MUSIC LEBANON
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3042
 
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: AD Sport 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: AD Sport 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/112
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: AD Sport 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: AD Sport 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/113
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: AD Sport 3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: AD Sport 3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/114
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: AD Sport 4
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: AD Sport 4
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/115
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: KSA Sports 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: KSA Sports 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2053
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: KSA Sports 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: KSA Sports 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2054
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: KSA SPORTS 3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: KSA SPORTS 3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2055
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: ksa Sport 4
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: ksa Sport 4
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/2056
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Sharjah Sports TV FHD
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Sharjah Sports TV FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/3233
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Alkass 1
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Alkass 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1461
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Alkass 2
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Alkass 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1462
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Alkass 3
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Alkass 3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1463
-#EXTINF:-1  group-title="sorry :D 🃏🃏",AR: Alkass 4
+#EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Alkass 4
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1464
 
 
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: 3 SAT FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: 3 SAT FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1222
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: 13 STREET HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: 13 STREET HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1223
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: 13th Street FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: 13th Street FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1224
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: ANIXE
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: ANIXE
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1226
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: ARD FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: ARD FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1227
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: ARD One HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: ARD One HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1228
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: A&E HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: A&E HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1225
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: ARTE HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: ARTE HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1229
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Auto Motor Sport HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Auto Motor Sport HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1232
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: AXN HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: AXN HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1233
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: B TIME SELECT 8 HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: B TIME SELECT 8 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1235
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: B TIME SELECT 10 HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: B TIME SELECT 10 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1236
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: BIBEL TV HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: BIBEL TV HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1237
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Boomerang HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Boomerang HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1238
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Cartoon Network HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Cartoon Network HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1239
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Comedy Central HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Comedy Central HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1240
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: DAS ERSTE FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: DAS ERSTE FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1241
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: DAZN 1 Bar FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: DAZN 1 Bar FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1242
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: DAZN 1 FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: DAZN 1 FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1243
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: DAZN 2 Bar FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: DAZN 2 Bar FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1244
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: DAZN 2 FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: DAZN 2 FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1245
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Deluxe Music HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Deluxe Music HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1246
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: DEUTSCHES MUSIK HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: DEUTSCHES MUSIK HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1247
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Discovery CHANNEL HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Discovery CHANNEL HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1248
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Disney Channel FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Disney Channel FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1249
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Disney Cinemagic FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Disney Cinemagic FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1250
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Disney Junior HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Disney Junior HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1251
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Disney XD HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Disney XD HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1252
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: DMAX FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: DMAX FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1253
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: E! FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: E! FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1255
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: EAGLE CINEMA ABENTEUER HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: EAGLE CINEMA ABENTEUER HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1256
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Elite Cinema 1 HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Elite Cinema 1 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1257
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Elite Cinema 2 HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Elite Cinema 2 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1258
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Elite Cinema 3 HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Elite Cinema 3 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1259
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Elite Cinema 4 HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Elite Cinema 4 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1260
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: ERZ TV STOLLBERG
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: ERZ TV STOLLBERG
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1261
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: euronews HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: euronews HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1262
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: EUROSPORT 1 HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: EUROSPORT 1 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1263
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: EUROSPORT 2 HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: EUROSPORT 2 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1264
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: EUROSPORT 2 XTRA FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: EUROSPORT 2 XTRA FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1265
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: FILSTALWELLE HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: FILSTALWELLE HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1266
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: FOLX TV
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: FOLX TV
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1267
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: FOX FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: FOX FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1268
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Heimatkanal HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Heimatkanal HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1269
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: HISTORY CHANNEL
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: HISTORY CHANNEL
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1270
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: HR
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: HR
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1271
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Kabel
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Kabel
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1272
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Kabel 1 Doku HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Kabel 1 Doku HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1273
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Kabel Doku
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Kabel Doku
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1275
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Kabel 1 HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Kabel 1 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1274
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Kabel Eins Classica HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Kabel Eins Classica HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1276
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Kabel Eins Doku HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Kabel Eins Doku HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1277
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Kabel Eins FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Kabel Eins FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1278
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: KIKA HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: KIKA HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1279
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: MDR S Anhalt FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: MDR S Anhalt FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1281
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: MotorVision HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: MotorVision HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1282
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: MTV FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: MTV FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1283
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: MUNCHEN TV FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: MUNCHEN TV FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1284
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: N TV HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: N TV HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1285
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: N-TV HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: N-TV HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1286
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: N24 Doku HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: N24 Doku HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1287
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: MDR HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: MDR HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1280
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: N24 HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: N24 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1288
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: NAT GEO FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: NAT GEO FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1289
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: NAT GEO WILD FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: NAT GEO WILD FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1290
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: NDR Fernsehen HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: NDR Fernsehen HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1291
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: NDR HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: NDR HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1292
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Nickelodeon HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Nickelodeon HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1293
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: NITRO HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: NITRO HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1294
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: NRJ TV HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: NRJ TV HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1295
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: ONE HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: ONE HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1298
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Phoenix HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Phoenix HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1299
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Planet HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Planet HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1300
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: POPCORN SELECT 2
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: POPCORN SELECT 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1302
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: POPCORN SELECT 3
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: POPCORN SELECT 3
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1303
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: POPCORN SELECT 4
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: POPCORN SELECT 4
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1304
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: POPCORN SELECT 5
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: POPCORN SELECT 5
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1305
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Popcorn Select 6 HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Popcorn Select 6 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1306
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: POPCORN SELECT 7
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: POPCORN SELECT 7
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1307
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: POPCORN SELECT 8
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: POPCORN SELECT 8
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1308
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: POPCORN SELECT 9
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: POPCORN SELECT 9
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1309
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: PRO 7 MAXX HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: PRO 7 MAXX HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1311
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: PRO7 FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: PRO7 FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1312
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: ProSieben Fun FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: ProSieben Fun FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1314
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: ProSieben Maxx HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: ProSieben Maxx HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1315
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: RBB Berlin HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: RBB Berlin HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1316
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Rnf
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Rnf
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1317
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: ROMANCE TV HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: ROMANCE TV HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1318
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: RTL 1 FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: RTL 1 FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1319
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: RTL 2 FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: RTL 2 FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1320
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: RTL Crime FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: RTL Crime FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1321
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: RTL HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: RTL HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1322
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: RTL II HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: RTL II HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1323
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: RTL Living HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: RTL Living HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1324
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: RTL Nitro HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: RTL Nitro HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1325
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: RTL PASION
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: RTL PASION
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1326
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: RTL Passion FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: RTL Passion FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1327
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: RTL plus HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: RTL plus HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1328
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: RTL Super
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: RTL Super
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1329
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: SAT 1 FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: SAT 1 FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1330
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: SAT 1 GOLD FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: SAT 1 GOLD FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1331
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Servus HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Servus HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1332
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: SIXX FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: SIXX FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1333
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Sony HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Sony HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1411
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: SPIEGEL GESCHICHTE HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: SPIEGEL GESCHICHTE HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1412
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Spiegel TV Wissen HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Spiegel TV Wissen HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1413
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Sport 1 + HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Sport 1 + HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1414
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Sport 1 Plus HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Sport 1 Plus HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1416
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: SRF 1 HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: SRF 1 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1418
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: SUPER RTL FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: SUPER RTL FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1419
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: SPORT 1 FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: SPORT 1 FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1415
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Sport Digital FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Sport Digital FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1417
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: SWR
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: SWR
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1420
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: SyFy FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: SyFy FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1421
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: tagesschau 24 HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: tagesschau 24 HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1422
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: TELE 5 FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: TELE 5 FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1423
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: TLC HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: TLC HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1442
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: TNT COMEDY FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: TNT COMEDY FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1443
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: TNT FILM HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: TNT FILM HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1444
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: TNT SERIE HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: TNT SERIE HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1445
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: TV A OSTBAYERN HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: TV A OSTBAYERN HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1446
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: UNIVERSAL CHANNEL HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: UNIVERSAL CHANNEL HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1447
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: VOX FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: VOX FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1450
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: WDR HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: WDR HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1452
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: Welt
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: Welt
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1453
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: ZDF FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: ZDF FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1455
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: ZDF info HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: ZDF info HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1456
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: ZDF NEO HD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: ZDF NEO HD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1457
-#EXTINF:-1  group-title="sorry :D  DE 🇩🇪",DE: ZEE ONE FHD
+#EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: ZEE ONE FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1458
 
 #EXTINF:-1 group-title="افلام مصري" tvg-logo="",لا تراجع ولا استسلام   
@@ -2191,6 +2249,7 @@ https://cdn.alarab.com/textfilenames/testkhil37.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/textfilenames/testkhil38.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge 39
 https://cdn.alarab.com/textfilenames/testkhil39.mp4/index-v1-a1.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge 1 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/1.mp4/playlist.m3u8
@@ -2381,8 +2440,9 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/23.mp4/playlist.m3u
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/24.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 25
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/25.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge,Folge 26
-https://p2-58083-m-mino-outline-aa.govid.co/download/HTQWBJ6ZyTltSPZ_RROiZA/[CimaClub.Com]-Hofra.S03E26.720p.HD-720.8224.mp4
+#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge 26
+https://p2-58083-m-mino-outline-aa.govid.co/stream/SxaNFJCpAccZC9k8mdxx-g/720.8224.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="الحفرة 4",Folge 01
 https://cdn.alarab.com/h264/158933_720p.mp4/index-v1-a1.m3u8
@@ -2414,3 +2474,4 @@ https://cdn.alarab.com/h264/159533_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/159668_720p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="علي رضا",Folge 06
 https://cdn.alarab.com/h264/159824_720p.mp4/index-v1-a1.m3u8
+
