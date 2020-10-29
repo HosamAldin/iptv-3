@@ -13,40 +13,6 @@ https://ia801007.us.archive.org/4/items/20190727_20190727_0950/%D8%A7%D9%84%D9%8
 http://starsat123.com:8080/JUAN/JUAN/16215
 
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF info HD
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF neo HD
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",das Erste
-https://mcdn.daserste.de/daserste/de/master_3744.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",tagesschau24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",KIKA FHD
-https://kikageohls-i.akamaihd.net/hls/live/1006268-b/livetvkika_de/master_1080.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",arte HD
-https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",phoenix HD
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",3sat
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",one HD
-https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",Vox
-http://5.135.92.133:52841/out/u/124_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",RTL
-http://5.135.92.133:52841/out/u/115_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",RTL 2
-http://5.135.92.133:52841/out/u/119_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|Radio| القرآن الكريم- تلاوات
 http://live.mp3quran.net:8006/;
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|Radio| فارس عابد
@@ -2579,6 +2545,39 @@ http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1463
 #EXTINF:-1  group-title="sorry AR 🃏🃏",AR: Alkass 4
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1464
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF info HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF neo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",das Erste
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",KIKA FHD
+https://kikageohls-i.akamaihd.net/hls/live/1006268-b/livetvkika_de/master_1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",arte HD
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",phoenix HD
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",one HD
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",Vox
+http://5.135.92.133:52841/out/u/124_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",RTL
+http://5.135.92.133:52841/out/u/115_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",RTL 2
+http://5.135.92.133:52841/out/u/119_1.m3u8
 
 #EXTINF:-1  group-title="sorry DE 🇩🇪🇩🇪",DE: 3 SAT FHD
 http://iptv.allkaicerteam.com:8080/kaicerteamapk/dfuD4RTxei/1222
