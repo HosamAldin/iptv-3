@@ -1,14 +1,14 @@
-A renewed FREE IPTV list (arabic , Deutsch)
+A renewed FREE IPTV list 
  | 🤲🤲 اللهم صلّ على سيدنا محمد
 
 
 
-# | 📺Mo Fanoon📺 |
+# | 📺Mo Fanoon📺 | arabic
 https://raw.githubusercontent.com/mofanoon/iptv/main/mofanoon.m3u
 
 (Computer (vlc) / Iphone & Ipad (Cloud stream) / Firetv Stick & Android (✔️Perfect player.apk✔️, IPTV.apk + MX player or XMTV player or Wuffy player) 
 
-# | 📺Mo Fanoon 1📺 |
+# | 📺Mo Fanoon 1📺 | arabic + deutsch 
 https://raw.githubusercontent.com/mofanoon/iptv/main/mofanoon1.m3u
 
 you have to add a user agent : alkaicer.com/9.9
