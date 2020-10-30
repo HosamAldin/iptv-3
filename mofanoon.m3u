@@ -833,6 +833,7 @@ http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/36
 
 
 
+
 #EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF info HD
@@ -864,7 +865,6 @@ http://5.135.92.133:52841/out/u/124_1.m3u8
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",RTL 2
 http://5.135.92.133:52841/out/u/119_1.m3u8
-
 
 #EXTINF:-1 group-title="افلام مصري" tvg-logo="",لا تراجع ولا استسلام   
 https://belugacdn.shoofmax.com/la-tarajoo/720p/index.m3u8
