@@ -26,7 +26,7 @@ http://quraan.us:9916/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|mp3| سورة الكهف ماهر لمعيلي 
 http://server12.mp3quran.net/maher/018.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png",|mp3| سورة الكهف هزاع البلوشي
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|mp3| سورة الكهف هزاع البلوشي
 http://server11.mp3quran.net/hazza/018.mp3
 
 
@@ -826,9 +826,3 @@ http://t100v.com/paid/231607/983537/46482
 http://t100v.com/paid/231607/983537/46429
 #EXTINF:-1 group-title="DE 🇩🇪 🇩🇪",Fox
 http://t100v.com/paid/231607/983537/11355
-
-
-
-
-
-
