@@ -18,7 +18,11 @@ you have to add a user agent : alkaicer.com/9.9
 
 /Firetv Stick & Android (✔️Perfect player.apk✔️) 
  
+ 
+ # | 📺TEST📺 | BEIN Sports HD/FHD 
+https://raw.githubusercontent.com/mofanoon/iptv/main/test.m3u
 
+(Computer (vlc) / Iphone & Ipad (Cloud stream) / Firetv Stick & Android (✔️Perfect player.apk✔️)
 
 ⚠️ These channels are collected from several available free websites and applications. not a personal property 
 
