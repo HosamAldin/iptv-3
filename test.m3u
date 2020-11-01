@@ -1,4 +1,4 @@
-#EXTM3U
+
 
 #EXTINF:-1 tvg-id="beinsportsnews.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="BEIN SPORTS ⚽🏀",BEIN NEWS
 https://www.ostora-tv.com/live/20554651/1544487/187681
@@ -22,11 +22,11 @@ https://www.ostora-tv.com/live/20554655/1544487/187649
 #EXTINF:-1 tvg-id="bein5hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀",BEIN 5  
 https://www.ostora-tv.com/live/20554655/1544487/187654
 #EXTINF:-1 tvg-id="bein5hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀",BEIN 5 HEVC 
-https://www.ostora-tv.com/live/20554655/1544487/187655
+https://www.ostora-tv.com/live/20554655/1544487/187656
 #EXTINF:-1 tvg-id="bein6hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀",BEIN 6  
 https://www.ostora-tv.com/live/20554655/1544487/187658
 #EXTINF:-1 tvg-id="bein6hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀",BEIN 6 HEVC 
-https://www.ostora-tv.com/live/20554655/1544487/187659
+https://www.ostora-tv.com/live/20554655/1544487/187660
 #EXTINF:-1 tvg-id="bein7hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀",BEIN 7 HEVC 
 https://www.ostora-tv.com/live/20554655/1544487/187662
 #EXTINF:-1 tvg-id="bein7hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀",BEIN 7 HEVC 
@@ -40,8 +40,7 @@ https://www.ostora-tv.com/live/20554655/1544487/187669
 #EXTINF:-1 tvg-id="bein9hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png" group-title="BEIN SPORTS ⚽🏀",BEIN 9 HEVC
 https://www.ostora-tv.com/live/20554655/1544487/187670
 #EXTINF:-1 tvg-id="bein10hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD10-1.png" group-title="BEIN SPORTS ⚽🏀",BEIN 10 
-https://www.ostora-tv.com/live/20554655/1544487/187674
+https://www.ostora-tv.com/live/20554655/1544487/187672
 #EXTINF:-1 tvg-id="bein10hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD10-1.png" group-title="BEIN SPORTS ⚽🏀",BEIN 10 HEVC
-https://www.ostora-tv.com/live/20554655/1544487/187675
-
+https://www.ostora-tv.com/live/20554655/1544487/187673
 
