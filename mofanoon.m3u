@@ -1,16 +1,46 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-256/tv-408-461607.png" group-title="📺Mo Fanoon📺",•●★--| 📺Mo Fanoon📺 |--★●•
-http://server2.quraan.us:9856/
-#EXTINF:-1 tvg-logo="https://d1hlpam123zqko.cloudfront.net/e26/07ae4/bf7b/4ec0/9103/72a28364df31/large/94957.png" group-title="📺Mo Fanoon📺",--| اللهم صلّ على سيدنا محمد |--
-https://ia803202.us.archive.org/17/items/alafasy-tv/salah-3la-naby.mp3 
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-praying-icon-png-image_4162419.jpg" group-title="📺Mo Fanoon📺",--|🤲 دعاء لأموات المسلمين 🤲|--
-https://ia801007.us.archive.org/4/items/20190727_20190727_0950/%D8%A7%D9%84%D9%84%D9%87%D9%85%20%D8%A3%D8%BA%D9%81%D8%B1%20%D9%84%D9%87%D9%85%20%D9%88%D8%A7%D8%B1%D8%AD%D9%85%D9%87%D9%85%20-%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D9%83.mp3
-
 
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2020/04/19/07/03/stay-home-5062153_960_720.png" group-title="Corona🤧😷",|king| COVID-19 confirmed cases
 http://starsat123.com:8080/JUAN/JUAN/16215
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF info HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF neo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",das Erste
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",KIKA FHD
+https://kikageohls-i.akamaihd.net/hls/live/1006268-b/livetvkika_de/master_1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",arte HD
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",phoenix HD
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",one HD
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",Vox
+http://5.135.92.133:52841/out/u/124_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",RTL
+http://5.135.92.133:52841/out/u/115_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",RTL 2
+http://5.135.92.133:52841/out/u/119_1.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|Radio| القرآن الكريم- تلاوات
@@ -30,10 +60,8 @@ http://quraan.us:9916/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|mp3| سورة الكهف- ماهر المعيقلي
 http://server12.mp3quran.net/maher/018.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png",|mp3| سورةالكهف- هزاع البلوشيي
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Radio-icon.svg/1024px-Radio-icon.svg.png" group-title="Islam 👳🏻‍🕋",|mp3| سورةالكهف- هزاع البلوشيي
 http://server11.mp3quran.net/hazza/018.mp3
-
-
 
 
 
@@ -48,7 +76,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_
 #EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/BAH.png" group-title="Islam 👳🏻‍🕋", |S1| البحرين - القرآن الكريم HD
 http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="Islam 👳🏻‍🕋", |S1| إقرأ
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 
@@ -57,7 +84,6 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/resala.png" group-title="Islam 👳🏻‍🕋",|rotana| الرسالة SD
 https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_480p/chunks.m3u8
-
 
 
 
@@ -111,11 +137,33 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AbuDhabiNatGeo.png" group-title="DOCUMENTARY 🔭📡", |S1| AD NAT GEO SD
 http://admdn2.cdn.mangomolo.com:80/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajd-sm.png" group-title="DOCUMENTARY 🔭📡", |S1| Aljazeera Dok SD
 https://edge-1192-ch-gv.filmon.com/live/3029.high.stream/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|ducke| shoof max 5
+http://138.201.145.136:8080/live/Duke/sovJkSTpOB/204.ts
+#EXTINF:0 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|ducke| shoof max 4
+http://138.201.145.136:8080/live/Duke/sovJkSTpOB/196.ts
+#EXTINF:0 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|ducke| shoof max 3
+http://138.201.145.136:8080/live/Duke/sovJkSTpOB/195.ts
+#EXTINF:0 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|ducke| shoof max 2
+http://138.201.145.136:8080/live/Duke/sovJkSTpOB/194.ts
+#EXTINF:0 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|ducke| shoof max 1
+http://138.201.145.136:8080/live/Duke/sovJkSTpOB/193.ts
+#EXTINF:0 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|ducke| cinema 5
+http://138.201.145.136:8080/live/Duke/sovJkSTpOB/191.ts
+#EXTINF:0 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|ducke| cinema 4
+http://138.201.145.136:8080/live/Duke/sovJkSTpOB/192.ts
+#EXTINF:0 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|ducke| cinema 3
+http://138.201.145.136:8080/live/Duke/sovJkSTpOB/190.ts
+#EXTINF:0 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|ducke| cinema 2
+http://138.201.145.136:8080/live/Duke/sovJkSTpOB/189.ts
+#EXTINF:0 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|ducke| cinema 1
+http://138.201.145.136:8080/live/Duke/sovJkSTpOB/188.ts
+
 
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|sarhan| Netflix action
 http://sarhantv.myq-see.com:25461/sarhanapp/0000/67
@@ -151,22 +199,7 @@ http://sarhantv.myq-see.com:25461/sarhanapp/0000/80
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|sarhan| SHOOF MAX 3
 http://sarhantv.myq-see.com:25461/sarhanapp/0000/81
 
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|bestlive|MAJESTC MOVIES
-http://best-live-iptv.xyz:25461/BEST-LIVE6677/BEST-LIVE6677/132
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|bestlive|MAJESTIC HORROR
-http://best-live-iptv.xyz:25461/BEST-LIVE6677/BEST-LIVE6677/133
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|bestlive|MAJESTIC ARABIC
-http://best-live-iptv.xyz:25461/BEST-LIVE6677/BEST-LIVE6677/134
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|bestlive|MAJESTIC KIDS
-http://best-live-iptv.xyz:25461/BEST-LIVE6677/BEST-LIVE6677/135
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|bestlive|NETFLIX ACTION
-http://best-live-iptv.xyz:25461/BEST-LIVE6677/BEST-LIVE6677/136
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|bestlive|NETFLIX HORROR
-http://best-live-iptv.xyz:25461/BEST-LIVE6677/BEST-LIVE6677/137
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|bestlive|NETFLIX COMEDY
-http://best-live-iptv.xyz:25461/BEST-LIVE6677/BEST-LIVE6677/138
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬",|bestlive|NETFLIX DRAMA
-http://best-live-iptv.xyz:25461/BEST-LIVE6677/BEST-LIVE6677/139
+
 
 #EXTINF:-1 tvg-logo="https://paltoday.tv/style/assets/images/logo.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Palästina Today 
 http://live.paltoday.tv:1935/paltv/live/chunklist_w224703424.m3u8
@@ -199,15 +232,17 @@ https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/71/Hala_TV_Logo1.svg/1200px-Hala_TV_Logo1.svg.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Hala panet
 http://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.arn.ps/uploads/radioslogo/tv.jpg" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Ajyal
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.wbn.ps/assets/images/logo.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Watar TV
-http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+http://htvint.mada.ps:8889//orient/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mrfm.ps/assets/images/Group%2025@2x.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Marah FM
 http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.nablustv.net/images/web_16.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Nablus tv 
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wattan.net/media/assets/images/logo.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Wattan
-http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
+http://htvmada.mada.ps:8888/wattan/index.m3u8
 #EXTINF:-1 tvg-logo="http://btv2020.com/wp-content/uploads/2020/09/btv00.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Btv
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8
 
@@ -218,6 +253,12 @@ http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" group-title="🇵🇸 PALESTINE 🇵🇸", |🇵🇸| Fajer 2 
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://jordanfashionweekofficial.com/wp-content/uploads/2019/03/ammantv-1.png" group-title="JORDAN 🇯🇴", |S1| Amman
@@ -241,8 +282,6 @@ https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85.png" group-title="LEBANON 🇱🇧", |S1| al Allam FHD
 https://live2.alalamtv.net/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85.png" group-title="LEBANON 🇱🇧", |S1| al Allam SD
@@ -257,15 +296,19 @@ http://digitalxpress.gcdn.co/live1/otv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d5/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84.jpg" group-title="LEBANON 🇱🇧", |S1| Future
 http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg" group-title="LEBANON 🇱🇧", |S1| Al jadied
+http://188.160.0.148:1935/5c76a1358452981/_definst_/smil:myStream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mtv.com.lb/assets/images/01-landing-no-title/logo.fw.png" group-title="LEBANON 🇱🇧", |S1|  MTV 
+http://digitalxpress.gcdn.co/live1/mtvlebanon/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |MBC| LBCI FHD
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |MBC| LBCI SD
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_3.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="https://www.meietv.de/images/logo.png" group-title="LEBANON 🇱🇧",meie tv 
+https://stream.meietv.de/live/meietv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://halabtodaytv.net/wp-content/uploads/2018/10/Asset-1-e1533308069247.png" group-title="SYRIA 🇸🇾", |S1| Halab today
@@ -292,13 +335,13 @@ http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
 http://82.137.248.16:1935/Souryana/stream31122019/chunklist_w1308882868.m3u8
 #EXTINF:-1 tvg-logo="https://www.video.wataan.com/uploads/1062019-061427AM.png" group-title="SYRIA 🇸🇾", |S1| Nour
 http://82.137.248.16:1935/Nour/stream31122019/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://urmedium.com/img/alalamsyriaplayer.jpg" group-title="SYRIA 🇸🇾", |S1| alam syria 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alalam-news-channel-syria-ir-sy.png" group-title="SYRIA 🇸🇾", |S1| alam syria 
 https://live.parstoday.com/live/alam/chunklist_w1359497533.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png"  group-title="MBC Group 🌝🌝",|MBC| 1 FHD
+#EXTINF:-1 tvg-url="MBC1.ae" tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png"  group-title="MBC Group 🌝🌝",|MBC| 1 FHD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="MBC Group 🌝🌝" ,|MBC| 2 FHD
+#EXTINF:-1 tvg-url="MBC2.ae" tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="MBC Group 🌝🌝" ,|MBC| 2 FHD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png"  group-title="MBC Group 🌝🌝",|MBC| 3 FHD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
@@ -321,8 +364,9 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 #EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusDrama.png"  group-title="MBC Group 🌝🌝",|MBC| Drama+ FHD
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
-#EXTINF:0 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusVariety.png"  group-title="MBC Group 🌝🌝",|S1|  MBC Varity FHD
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusVariety.png"  group-title="MBC Group 🌝🌝",|S1|  MBC Varity 
 http://digitalxpress.gcdn.co/live1/mbcvarietyhd-AR/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCBollywoodTV.png"  group-title="MBC Group 🌝🌝",|MBC| Bollywood FHD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
@@ -399,24 +443,21 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 
 
 
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="MBC Group 🌝🌝", MBC 1 
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="MBC Group 🌝🌝", |S1| MBC 1 
 http://digitalxpress.gcdn.co/live1/mbc1/index.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="MBC Group 🌝🌝",MBC 2 
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="MBC Group 🌝🌝", |S1| MBC 2 
 http://digitalxpress.gcdn.co/live1/mbc2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="MBC Group 🌝🌝",MBC 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="MBC Group 🌝🌝", |S1| MBC 3
 http://digitalxpress.gcdn.co/live1/mbc3/index.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="MBC Group 🌝🌝", MBC 4 
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="MBC Group 🌝🌝", |S1| MBC 4 
 http://digitalxpress.gcdn.co/live1/mbc4/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="MBC Group 🌝🌝",MBC Max
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="MBC Group 🌝🌝", |S1| MBC Max
 http://digitalxpress.gcdn.co/live1/MBCMAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="MBC Group 🌝🌝",MBC Iraq
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="MBC Group 🌝🌝", |S1| MBC Iraq
 http://digitalxpress.gcdn.co/live1/mbciraq/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="MBC Group 🌝🌝",MBC Masr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="MBC Group 🌝🌝", |S1| MBC Masr
 http://digitalxpress.gcdn.co/live1/mbcmasr/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png" group-title="MBC Group 🌝🌝",MBC Drama
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png" group-title="MBC Group 🌝🌝", |S1| MBC Drama
 http://digitalxpress.gcdn.co/live1/mbcdrama/index.m3u8
 
 
@@ -435,7 +476,6 @@ https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_1080p/chunks.m3u
 https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/classic.png?v=3" group-title="ROTANA Group 🤣🤣",|rotana| Classic FHD
 https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_1080p/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://vod.rotana.net/triAssets/themes/TriTheme/images/channels/cinema.png" group-title="ROTANA Group 🤣🤣",|rotana| Cinema Ksa SD
 https://rotana.hibridmedia.com/rotanascte35/cinema_scte35/rotana/cinema_480p/chunks.m3u8
@@ -471,6 +511,8 @@ http://starsat123.com:8080/JUAN/JUAN/75
 http://starsat123.com:8080/JUAN/JUAN/76
 
 
+
+
 #EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="OSN Group 🤪🤪", |S1| OSN Ya Hala Cinma HD
 http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f3/B4U_Aflam_Logo.png" group-title="OSN Group 🤪🤪", |S1| B4u
@@ -482,9 +524,6 @@ http://dx3.gcdn.co/OSNWWE/index.m3u8
 http://digitalxpress.gcdn.co/live1/osnmoviesfirst/index.m3u8
 #EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="OSN Group 🤪🤪", |S1| OSN Movies HD
 http://digitalxpress.gcdn.co/live1/osnmovies/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1322_1.png" group-title="BEIN Group 🤑🤑", |S1| beIN Movies 1 HD
 http://digitalxpress.gcdn.co/live1/BeinMoviesHD1/index.m3u8
@@ -511,6 +550,12 @@ http://digitalxpress.gcdn.co/live1/beinbejunior/index.m3u8
 http://digitalxpress.gcdn.co/live1/beinbaraem/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-KlQVgXlGIn8/XHhD6ntD6YI/AAAAAAAAIKU/gbcwwPfix9cc2Y22i-XxLLpBPjH1FY6hgCK4BGAYYCw/s1600/logo%2Bjeem%2Btv.png" group-title="BEIN Group 🤑🤑", |S1| Bein j
 http://digitalxpress.gcdn.co/live1/beinjeemhd/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="beinsportsnews.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="BEIN SPORTS ⚽🏀", |TEST| BeIN  News
+http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.251.193:8081/yacinetv/BeinSportNews/playlist.m3u8
+
 
 
 #EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS NEWS HD
@@ -613,7 +658,6 @@ http://194.32.79.172:4868/beiNSports10.lyUPaCvZbb..qlyUPaCvZbbox9qlyUPaCvZbbox9y
 
 
 
-
 #EXTINF:-1 tvg-logo="" group-title="BEINSPORTS-match time ⌛⏰",  BeIN Sports 1 
 http://173.249.4.94:8081/b-1/b-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BEINSPORTS-match time ⌛⏰",  BeIN Sports 2 
@@ -637,26 +681,47 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Realmadrid en
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Sport 1 FHD
 http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Sport 1 HD
+http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Sport 2 FHD
 http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Sport 2 HD
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Sport 3 FHD
 http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Sport 3 HD
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Race
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Race FHD
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Dubai Race HD
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports1 FHD
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports1 HD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports2 FHD
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports2 HD
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports3 FHD
 https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports3 HD
+https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports4 FHD
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",adSports4 HD
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",YAS FHD
+https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",YAS HD
+https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Alkass 1 HD
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vGlwiab/master570.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Alkass 2 HD
@@ -667,6 +732,8 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjin/master570.m3u8
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Ztddua/master570.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Alkass online HD
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlespfwGsd/master570.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Oman tv sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS 🏓🏆",Red Bull TV HD
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -717,10 +784,25 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_720p/chunks.m3u
 https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_720p/chunks.m3u8
 #EXTINF:-1 group-title="Gulf 🇰🇼" tvg-logo="", |S1| KTV Al Arabi HD
 https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_720p/chunks.m3u8
-
+#EXTINF:-1 group-title="Gulf 🇰🇼" tvg-logo="", |S1| Oman tv GN FHD
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" tvg-logo="", |S1| Oman tv mubasher FHD
+https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" tvg-logo="", |S1| Oman thkafya FHD
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" tvg-logo="", |S1| SHarqa 
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_360p.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" tvg-logo="", |S1| SHarqa FHD
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_1080p.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" tvg-logo="", |S1| SHarqa from kalba sd
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_360p_chunks.m3u8
+#EXTINF:-1 group-title="Gulf 🇰🇼" tvg-logo="", |S1| SHarqa from kalba FHD
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
 
 #EXTINF:-1 group-title="Kids 👼🏻👼🏻" tvg-logo="", |S1| Touyour babay
 http://digitalxpress.gcdn.co/live1/touyourbaby/index.m3u8
+#EXTINF:-1 group-title="Kids 👼🏻👼🏻" tvg-logo="", |S1| Karameesh
+http://digitalxpress.gcdn.co/live1/RTMP-Karameesh/index.m3u8
 
 #EXTINF:-1 group-title="Kids 👼🏻👼🏻" tvg-logo="", |S1| Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
@@ -728,6 +810,8 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
 #EXTINF:-1 group-title="Kids 👼🏻👼🏻" tvg-logo="",|MBC|  Cartoon network SD
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+#EXTINF:-1 group-title="Kids 👼🏻👼🏻" tvg-logo="", |S1| Taha
+http://digitalxpress.gcdn.co/live1/RTMP-Taha_TV/index.m3u8
 
 
 
@@ -759,439 +843,1125 @@ https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w1920236347_b4500000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Medi1 TV" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Medi1 TV
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/15
-#EXTINF:-1 tvg-id="" tvg-name="Arrabiaa" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Arrabiaa
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/16
-#EXTINF:-1 tvg-id="" tvg-name="Arriadhia" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Arriadhia
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/17
-#EXTINF:-1 tvg-id="" tvg-name="2M Maroc" tvg-logo="" group-title="Morocco 🇲🇦",|S2| 2M Maroc
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/18
-#EXTINF:-1 tvg-id="" tvg-name="TV Tamazight Maroc" tvg-logo="" group-title="Morocco 🇲🇦",|S2| TV Tamazight Maroc
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/19
-#EXTINF:-1 tvg-id="" tvg-name="Al Oula" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Al Oula
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/20
-#EXTINF:-1 tvg-id="" tvg-name="Assadissa" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Assadissa
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/21
-#EXTINF:-1 tvg-id="" tvg-name="Al Aoula Laayoune" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Al Aoula Laayoune
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/39
-#EXTINF:-1 tvg-id="" tvg-name="Medi 1 TV Afrique" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Medi 1 TV Afrique
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/40
-#EXTINF:-1 tvg-id="" tvg-name="ALMAGHARIBIA ikhbaria" tvg-logo="" group-title="Morocco 🇲🇦",|S2| ALMAGHARIBIA ikhbaria
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/41
-#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="" group-title="Morocco 🇲🇦",|S2| MBC 5
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/42
-#EXTINF:-1 tvg-id="" tvg-name="CHADA TV MUSIC" tvg-logo="" group-title="Morocco 🇲🇦",|S2| CHADA TV MUSIC
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/43
-#EXTINF:-1 tvg-id="" tvg-name="Map TV News" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Map TV News
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/44
-#EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Tele Maroc
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/45
-#EXTINF:-1 tvg-id="" tvg-name="Canal Atlas" tvg-logo="" group-title="Morocco 🇲🇦",|S2| Canal Atlas
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/46
-#EXTINF:-1 tvg-id="" tvg-name="AFLAM 7" tvg-logo="" group-title="Morocco 🇲🇦",|S2| AFLAM 7
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/47
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Al Insen" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Al Insen
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/1
-#EXTINF:-1 tvg-id="" tvg-name="M Tunisia" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| M Tunisia
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/2
-#EXTINF:-1 tvg-id="" tvg-name="Tounesna" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Tounesna
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/3
-#EXTINF:-1 tvg-id="" tvg-name="ZaytounaTV" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| ZaytounaTV
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/22
-#EXTINF:-1 tvg-id="" tvg-name="TUN: Tunisia Nat 1" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| TUN: Tunisia Nat 1
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/23
-#EXTINF:-1 tvg-id="" tvg-name="TUN: Tunisia Nat 2" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| TUN: Tunisia Nat 2
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/24
-#EXTINF:-1 tvg-id="" tvg-name="TUN: Hannibal TV" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| TUN: Hannibal TV
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/25
-#EXTINF:-1 tvg-id="" tvg-name="TUN: Al janoubia" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| TUN: Al janoubia
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/26
-#EXTINF:-1 tvg-id="" tvg-name="TUN: AttesiaTV" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| TUN: AttesiaTV
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/27
-#EXTINF:-1 tvg-id="" tvg-name="TUN: El Hiwar Ettounsi" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| TUN: El Hiwar Ettounsi
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/28
-#EXTINF:-1 tvg-id="" tvg-name="Tun: Carthage +" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Tun: Carthage +
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/29
-#EXTINF:-1 tvg-id="" tvg-name="Tun: Telvza" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Tun: Telvza
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/30
-#EXTINF:-1 tvg-id="" tvg-name="Mosaique FM TV" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Mosaique FM TV
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/31
-#EXTINF:-1 tvg-id="" tvg-name="IFM TV" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| IFM TV
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/32
-#EXTINF:-1 tvg-id="" tvg-name="ALMUSTAKILLAH" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| ALMUSTAKILLAH
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/33
-#EXTINF:-1 tvg-id="" tvg-name="Sahel Tv" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Sahel Tv
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/34
-#EXTINF:-1 tvg-id="" tvg-name="Ziara" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Ziara
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/35
-#EXTINF:-1 tvg-id="" tvg-name="Nassma" tvg-logo="" group-title="Tunisia 🇹🇳",|S2| Nassma
-http://173.212.233.147:25461/ol8AWllGtt/GDzRF3PNDS/36
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",OSN-YAHALA-CINEMA
+http://ipdax.top:8080/hatmyx/hjghyut/1
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Yahala HD
+http://ipdax.top:8080/hatmyx/hjghyut/2
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn- Planet Earth HD
+http://ipdax.top:8080/hatmyx/hjghyut/3
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Nick jr HD
+http://ipdax.top:8080/hatmyx/hjghyut/4
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-History HD
+http://ipdax.top:8080/hatmyx/hjghyut/5
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Animal Planit
+http://ipdax.top:8080/hatmyx/hjghyut/6
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Disny junour
+http://ipdax.top:8080/hatmyx/hjghyut/7
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Disny
+http://ipdax.top:8080/hatmyx/hjghyut/8
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Discovery Science HD
+http://ipdax.top:8080/hatmyx/hjghyut/9
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Discovery-ID
+http://ipdax.top:8080/hatmyx/hjghyut/10
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Discovery
+http://ipdax.top:8080/hatmyx/hjghyut/11
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Movies-Disny
+http://ipdax.top:8080/hatmyx/hjghyut/12
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Series1-firest
+http://ipdax.top:8080/hatmyx/hjghyut/13
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Movies
+http://ipdax.top:8080/hatmyx/hjghyut/14
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Comedy
+http://ipdax.top:8080/hatmyx/hjghyut/15
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Movies-Kids
+http://ipdax.top:8080/hatmyx/hjghyut/16
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",osn-Action
+http://ipdax.top:8080/hatmyx/hjghyut/17
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Engema
+http://ipdax.top:8080/hatmyx/hjghyut/18
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Firest1
+http://ipdax.top:8080/hatmyx/hjghyut/19
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-BBC Fisrt HD
+http://ipdax.top:8080/hatmyx/hjghyut/20
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Yahala1
+http://ipdax.top:8080/hatmyx/hjghyut/21
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Paramount HD
+http://ipdax.top:8080/hatmyx/hjghyut/22
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn- Star Movies HD
+http://ipdax.top:8080/hatmyx/hjghyut/23
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Star World HD
+http://ipdax.top:8080/hatmyx/hjghyut/24
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-National Geographic HD
+http://ipdax.top:8080/hatmyx/hjghyut/25
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-POP UP
+http://ipdax.top:8080/hatmyx/hjghyut/26
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Nat Geo Wild HD
+http://ipdax.top:8080/hatmyx/hjghyut/27
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-Nat Geo People HD
+http://ipdax.top:8080/hatmyx/hjghyut/28
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-FIREST2
+http://ipdax.top:8080/hatmyx/hjghyut/29
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Osn-MUSALSALAT-1
+http://ipdax.top:8080/hatmyx/hjghyut/30
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Aghani Aghani
+http://ipdax.top:8080/hatmyx/hjghyut/31
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Arabica
+http://ipdax.top:8080/hatmyx/hjghyut/32
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MBC MAX
+http://ipdax.top:8080/hatmyx/hjghyut/33
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MBC DRAMA
+http://ipdax.top:8080/hatmyx/hjghyut/34
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MBC ACTION
+http://ipdax.top:8080/hatmyx/hjghyut/35
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MBC_Bollywood
+http://ipdax.top:8080/hatmyx/hjghyut/36
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MBC MASR1
+http://ipdax.top:8080/hatmyx/hjghyut/37
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MBCMASR 2
+http://ipdax.top:8080/hatmyx/hjghyut/38
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MBC Plus Drama
+http://ipdax.top:8080/hatmyx/hjghyut/39
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MBC Variety HD
+http://ipdax.top:8080/hatmyx/hjghyut/40
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MBC-IRAQ
+http://ipdax.top:8080/hatmyx/hjghyut/41
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ART Aflam1
+http://ipdax.top:8080/hatmyx/hjghyut/42
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ART Aflam2
+http://ipdax.top:8080/hatmyx/hjghyut/43
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ART Cinema
+http://ipdax.top:8080/hatmyx/hjghyut/44
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ART Hekayat1
+http://ipdax.top:8080/hatmyx/hjghyut/45
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ART Hekayat2
+http://ipdax.top:8080/hatmyx/hjghyut/46
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AR-CBC
+http://ipdax.top:8080/hatmyx/hjghyut/47
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_CBC Drama
+http://ipdax.top:8080/hatmyx/hjghyut/48
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_CBC Sofra
+http://ipdax.top:8080/hatmyx/hjghyut/49
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_CBC Extra
+http://ipdax.top:8080/hatmyx/hjghyut/50
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_CBC Benna
+http://ipdax.top:8080/hatmyx/hjghyut/51
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Rotana Aflam HD
+http://ipdax.top:8080/hatmyx/hjghyut/52
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Rotana Cinema EG
+http://ipdax.top:8080/hatmyx/hjghyut/53
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Rotana Cinema Ksa
+http://ipdax.top:8080/hatmyx/hjghyut/54
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Rotana Music
+http://ipdax.top:8080/hatmyx/hjghyut/55
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Rotana Clip
+http://ipdax.top:8080/hatmyx/hjghyut/56
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Rotana Drama
+http://ipdax.top:8080/hatmyx/hjghyut/57
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Rotana-Classic
+http://ipdax.top:8080/hatmyx/hjghyut/58
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Rotana Khalijiah
+http://ipdax.top:8080/hatmyx/hjghyut/59
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_DMC Drama
+http://ipdax.top:8080/hatmyx/hjghyut/60
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_DMC
+http://ipdax.top:8080/hatmyx/hjghyut/61
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Alhayat 1
+http://ipdax.top:8080/hatmyx/hjghyut/62
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Alhayat Muslsalat
+http://ipdax.top:8080/hatmyx/hjghyut/63
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AlOula.Masr
+http://ipdax.top:8080/hatmyx/hjghyut/64
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Althanya
+http://ipdax.top:8080/hatmyx/hjghyut/65
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AL Masriya
+http://ipdax.top:8080/hatmyx/hjghyut/66
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ALkanal
+http://ipdax.top:8080/hatmyx/hjghyut/67
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",SR_ALKAHERA
+http://ipdax.top:8080/hatmyx/hjghyut/68
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_TEBA
+http://ipdax.top:8080/hatmyx/hjghyut/69
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_DELTA
+http://ipdax.top:8080/hatmyx/hjghyut/70
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ALSA3EED
+http://ipdax.top:8080/hatmyx/hjghyut/71
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Time-Sport
+http://ipdax.top:8080/hatmyx/hjghyut/72
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Nile Sport
+http://ipdax.top:8080/hatmyx/hjghyut/73
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ON Sport
+http://ipdax.top:8080/hatmyx/hjghyut/74
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ON Sport 2
+http://ipdax.top:8080/hatmyx/hjghyut/75
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Ahly Club
+http://ipdax.top:8080/hatmyx/hjghyut/76
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR-Bein Sport hd
+http://ipdax.top:8080/hatmyx/hjghyut/77
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR-Bein Sport News
+http://ipdax.top:8080/hatmyx/hjghyut/78
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AD.Sport 1
+http://ipdax.top:8080/hatmyx/hjghyut/79
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AD.Sport 2
+http://ipdax.top:8080/hatmyx/hjghyut/80
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_YAS Sport
+http://ipdax.top:8080/hatmyx/hjghyut/81
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_KSA Sports 1
+http://ipdax.top:8080/hatmyx/hjghyut/82
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_KSA Sports 2
+http://ipdax.top:8080/hatmyx/hjghyut/83
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Dubai 2 Sport
+http://ipdax.top:8080/hatmyx/hjghyut/84
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Dubai.Racing2
+http://ipdax.top:8080/hatmyx/hjghyut/85
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Dubai Racing 3
+http://ipdax.top:8080/hatmyx/hjghyut/86
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AD.Sport3
+http://ipdax.top:8080/hatmyx/hjghyut/87
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AD.Sport4
+http://ipdax.top:8080/hatmyx/hjghyut/88
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_KTV.1.Sport
+http://ipdax.top:8080/hatmyx/hjghyut/89
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Libya.Sport
+http://ipdax.top:8080/hatmyx/hjghyut/90
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Alkass1.Sport
+http://ipdax.top:8080/hatmyx/hjghyut/91
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Alkass2.Sport
+http://ipdax.top:8080/hatmyx/hjghyut/92
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Alkass4.Sport
+http://ipdax.top:8080/hatmyx/hjghyut/93
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Alkass EXTRA one
+http://ipdax.top:8080/hatmyx/hjghyut/94
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AlKahera_WalNas
+http://ipdax.top:8080/hatmyx/hjghyut/95
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ AlKahera_WalNas2
+http://ipdax.top:8080/hatmyx/hjghyut/96
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ON.E
+http://ipdax.top:8080/hatmyx/hjghyut/97
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ON Drama
+http://ipdax.top:8080/hatmyx/hjghyut/98
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MBC5
+http://ipdax.top:8080/hatmyx/hjghyut/99
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Sada El Balad
+http://ipdax.top:8080/hatmyx/hjghyut/100
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ Sada El Balad 2
+http://ipdax.top:8080/hatmyx/hjghyut/101
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Sada.El.Balad Drama
+http://ipdax.top:8080/hatmyx/hjghyut/102
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ Al Nahar One
+http://ipdax.top:8080/hatmyx/hjghyut/103
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ Al Nahar Drama
+http://ipdax.top:8080/hatmyx/hjghyut/104
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Nile Cinema
+http://ipdax.top:8080/hatmyx/hjghyut/105
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Nile Comedy
+http://ipdax.top:8080/hatmyx/hjghyut/106
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Nile Culture
+http://ipdax.top:8080/hatmyx/hjghyut/107
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Nile Drama
+http://ipdax.top:8080/hatmyx/hjghyut/108
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Nile Family
+http://ipdax.top:8080/hatmyx/hjghyut/109
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Nile Life
+http://ipdax.top:8080/hatmyx/hjghyut/110
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Nile News
+http://ipdax.top:8080/hatmyx/hjghyut/111
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Nile TV
+http://ipdax.top:8080/hatmyx/hjghyut/112
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Dream 2
+http://ipdax.top:8080/hatmyx/hjghyut/113
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Mehwer
+http://ipdax.top:8080/hatmyx/hjghyut/114
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_STAR CINEMA 1
+http://ipdax.top:8080/hatmyx/hjghyut/115
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_STAR CINEMA 2
+http://ipdax.top:8080/hatmyx/hjghyut/116
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Cinema 1
+http://ipdax.top:8080/hatmyx/hjghyut/117
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Cinema 2
+http://ipdax.top:8080/hatmyx/hjghyut/118
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_TOKTOK AFLAM
+http://ipdax.top:8080/hatmyx/hjghyut/119
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Toktok Cinema
+http://ipdax.top:8080/hatmyx/hjghyut/120
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_TATT7
+http://ipdax.top:8080/hatmyx/hjghyut/121
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Al Baitbitak Cinema
+http://ipdax.top:8080/hatmyx/hjghyut/122
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Oscar TV
+http://ipdax.top:8080/hatmyx/hjghyut/123
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_M Classic
+http://ipdax.top:8080/hatmyx/hjghyut/124
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_M Cinema
+http://ipdax.top:8080/hatmyx/hjghyut/125
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MODERN AFLAM
+http://ipdax.top:8080/hatmyx/hjghyut/126
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MODERN ALWAN
+http://ipdax.top:8080/hatmyx/hjghyut/127
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MODERN ALYOOM
+http://ipdax.top:8080/hatmyx/hjghyut/128
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MODERN CINEMA
+http://ipdax.top:8080/hatmyx/hjghyut/129
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MODERN COMEDY
+http://ipdax.top:8080/hatmyx/hjghyut/130
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MODERN DRAMA
+http://ipdax.top:8080/hatmyx/hjghyut/131
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_SHABABIK  MOSALSLAT
+http://ipdax.top:8080/hatmyx/hjghyut/132
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_SHABABIK 2 DRAMA
+http://ipdax.top:8080/hatmyx/hjghyut/133
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_SHABABIK  AFLAM
+http://ipdax.top:8080/hatmyx/hjghyut/134
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_SHABABIK  CLASSIC
+http://ipdax.top:8080/hatmyx/hjghyut/135
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_SHABABIK  CINEMA
+http://ipdax.top:8080/hatmyx/hjghyut/136
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_SHOW  AFLAM
+http://ipdax.top:8080/hatmyx/hjghyut/137
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_SHOW  COMEDY
+http://ipdax.top:8080/hatmyx/hjghyut/138
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_SHOW   DRAMA
+http://ipdax.top:8080/hatmyx/hjghyut/139
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_SHOW  MOSALSLAT
+http://ipdax.top:8080/hatmyx/hjghyut/140
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_TAXI ELSAHRA
+http://ipdax.top:8080/hatmyx/hjghyut/141
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Al Sa3aa Comedy
+http://ipdax.top:8080/hatmyx/hjghyut/142
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AL SA3A Alyoum
+http://ipdax.top:8080/hatmyx/hjghyut/143
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_APPLE_COMEDY
+http://ipdax.top:8080/hatmyx/hjghyut/144
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ APPLE_AFLAM
+http://ipdax.top:8080/hatmyx/hjghyut/145
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_APPLE_CINEMA
+http://ipdax.top:8080/hatmyx/hjghyut/146
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_APPLE_HEKAYAT
+http://ipdax.top:8080/hatmyx/hjghyut/147
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_APPLE_MOSLSALAT
+http://ipdax.top:8080/hatmyx/hjghyut/148
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_APPLE_TODAY
+http://ipdax.top:8080/hatmyx/hjghyut/149
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ALOSTORA
+http://ipdax.top:8080/hatmyx/hjghyut/150
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Maspero Zaman
+http://ipdax.top:8080/hatmyx/hjghyut/151
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Cinema Pro
+http://ipdax.top:8080/hatmyx/hjghyut/152
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Cairo Cinema
+http://ipdax.top:8080/hatmyx/hjghyut/153
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Cairo Drama
+http://ipdax.top:8080/hatmyx/hjghyut/154
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MIX Hollywood
+http://ipdax.top:8080/hatmyx/hjghyut/155
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ALASKANDRIA
+http://ipdax.top:8080/hatmyx/hjghyut/156
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Belody.Aflam
+http://ipdax.top:8080/hatmyx/hjghyut/157
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AL.masrawia  Aflam
+http://ipdax.top:8080/hatmyx/hjghyut/158
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_TIME CINEMA
+http://ipdax.top:8080/hatmyx/hjghyut/159
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Panorama Drama
+http://ipdax.top:8080/hatmyx/hjghyut/160
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Panorama Drama 2
+http://ipdax.top:8080/hatmyx/hjghyut/161
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Panorama Food
+http://ipdax.top:8080/hatmyx/hjghyut/162
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ Panorama Film
+http://ipdax.top:8080/hatmyx/hjghyut/163
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Shash Food
+http://ipdax.top:8080/hatmyx/hjghyut/164
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Misr EL Bald
+http://ipdax.top:8080/hatmyx/hjghyut/165
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Zee Alwan
+http://ipdax.top:8080/hatmyx/hjghyut/166
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ Zee Aflam
+http://ipdax.top:8080/hatmyx/hjghyut/167
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ B4U Aflam
+http://ipdax.top:8080/hatmyx/hjghyut/168
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_B4U Plus
+http://ipdax.top:8080/hatmyx/hjghyut/169
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Mosalsalat.Tube
+http://ipdax.top:8080/hatmyx/hjghyut/170
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Dolly Mosalsalat
+http://ipdax.top:8080/hatmyx/hjghyut/171
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Hareem.El.Soltan
+http://ipdax.top:8080/hatmyx/hjghyut/172
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MTV Lebanon
+http://ipdax.top:8080/hatmyx/hjghyut/173
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Dubai One
+http://ipdax.top:8080/hatmyx/hjghyut/174
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Dubai
+http://ipdax.top:8080/hatmyx/hjghyut/175
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Sama Dubai
+http://ipdax.top:8080/hatmyx/hjghyut/176
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ Dubai Zaman
+http://ipdax.top:8080/hatmyx/hjghyut/177
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Noor Dubai
+http://ipdax.top:8080/hatmyx/hjghyut/178
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AbuDhabi Emarat
+http://ipdax.top:8080/hatmyx/hjghyut/179
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Abu Dhabi
+http://ipdax.top:8080/hatmyx/hjghyut/180
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AbuDhabi.Drama
+http://ipdax.top:8080/hatmyx/hjghyut/181
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Nat Geo Abu Dhabi
+http://ipdax.top:8080/hatmyx/hjghyut/182
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Nat Geo Kids Abu Dhabi
+http://ipdax.top:8080/hatmyx/hjghyut/183
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Saudi1
+http://ipdax.top:8080/hatmyx/hjghyut/184
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Saudia.Quran.TV
+http://ipdax.top:8080/hatmyx/hjghyut/185
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Saudia.Sonna.TV
+http://ipdax.top:8080/hatmyx/hjghyut/186
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Saudia.24
+http://ipdax.top:8080/hatmyx/hjghyut/187
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",KID_Cartoon.Network
+http://ipdax.top:8080/hatmyx/hjghyut/188
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",KID_Space toon
+http://ipdax.top:8080/hatmyx/hjghyut/189
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_TOYOR BABY
+http://ipdax.top:8080/hatmyx/hjghyut/190
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Toyor.AlJanah
+http://ipdax.top:8080/hatmyx/hjghyut/191
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_karamesh
+http://ipdax.top:8080/hatmyx/hjghyut/192
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Jeem
+http://ipdax.top:8080/hatmyx/hjghyut/193
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Kokky.Kids
+http://ipdax.top:8080/hatmyx/hjghyut/194
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Baraeem Kids
+http://ipdax.top:8080/hatmyx/hjghyut/195
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Majid Kids TV
+http://ipdax.top:8080/hatmyx/hjghyut/196
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Mickey.Channel.Kids
+http://ipdax.top:8080/hatmyx/hjghyut/197
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MODY_KIDS
+http://ipdax.top:8080/hatmyx/hjghyut/198
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_TAHA Kids
+http://ipdax.top:8080/hatmyx/hjghyut/199
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Ajyal
+http://ipdax.top:8080/hatmyx/hjghyut/200
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Action Movies
+http://ipdax.top:8080/hatmyx/hjghyut/201
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Music.Sha3beyat
+http://ipdax.top:8080/hatmyx/hjghyut/202
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Mazazikh
+http://ipdax.top:8080/hatmyx/hjghyut/203
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Mazzika
+http://ipdax.top:8080/hatmyx/hjghyut/204
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_El Sharq
+http://ipdax.top:8080/hatmyx/hjghyut/205
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MEKAMELEEN
+http://ipdax.top:8080/hatmyx/hjghyut/206
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Al.Mayadeen.TV
+http://ipdax.top:8080/hatmyx/hjghyut/207
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_FAMILY DRAMA
+http://ipdax.top:8080/hatmyx/hjghyut/208
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Al.Jazeera
+http://ipdax.top:8080/hatmyx/hjghyut/209
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Al.Jazeera.Mubasher
+http://ipdax.top:8080/hatmyx/hjghyut/210
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Al Jazeera Documentary
+http://ipdax.top:8080/hatmyx/hjghyut/211
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Alaraby
+http://ipdax.top:8080/hatmyx/hjghyut/212
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_RT_ARABIA
+http://ipdax.top:8080/hatmyx/hjghyut/213
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_BBC ARABIC
+http://ipdax.top:8080/hatmyx/hjghyut/214
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Aljadeed
+http://ipdax.top:8080/hatmyx/hjghyut/215
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Almanar TV
+http://ipdax.top:8080/hatmyx/hjghyut/216
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AL.Fajr
+http://ipdax.top:8080/hatmyx/hjghyut/217
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Lbc
+http://ipdax.top:8080/hatmyx/hjghyut/218
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Al R Ahma
+http://ipdax.top:8080/hatmyx/hjghyut/219
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AlMajd.Quran
+http://ipdax.top:8080/hatmyx/hjghyut/220
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AlMajd
+http://ipdax.top:8080/hatmyx/hjghyut/221
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Al_Majd_Hadith
+http://ipdax.top:8080/hatmyx/hjghyut/222
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Almajd.Scientific
+http://ipdax.top:8080/hatmyx/hjghyut/223
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Quraan
+http://ipdax.top:8080/hatmyx/hjghyut/224
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ALResala
+http://ipdax.top:8080/hatmyx/hjghyut/225
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Al-hurra
+http://ipdax.top:8080/hatmyx/hjghyut/226
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AL Hurra Iraq
+http://ipdax.top:8080/hatmyx/hjghyut/227
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Al Maghribia ELEKhbaria
+http://ipdax.top:8080/hatmyx/hjghyut/228
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Arriadia Maroc
+http://ipdax.top:8080/hatmyx/hjghyut/229
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Maroc.Tamazight
+http://ipdax.top:8080/hatmyx/hjghyut/230
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Assadisa Maroc
+http://ipdax.top:8080/hatmyx/hjghyut/231
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR-Nessma
+http://ipdax.top:8080/hatmyx/hjghyut/232
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Zaytoona
+http://ipdax.top:8080/hatmyx/hjghyut/233
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ El-Djazairia
+http://ipdax.top:8080/hatmyx/hjghyut/234
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Canal.Algerie
+http://ipdax.top:8080/hatmyx/hjghyut/235
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_El Heddaf Tv
+http://ipdax.top:8080/hatmyx/hjghyut/236
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_2M Maroc
+http://ipdax.top:8080/hatmyx/hjghyut/237
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Tunisia.National1
+http://ipdax.top:8080/hatmyx/hjghyut/238
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Tunisia.National2
+http://ipdax.top:8080/hatmyx/hjghyut/239
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_M Tunis
+http://ipdax.top:8080/hatmyx/hjghyut/240
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Elhiwar Ettounsia
+http://ipdax.top:8080/hatmyx/hjghyut/241
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Attessia TV
+http://ipdax.top:8080/hatmyx/hjghyut/242
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Algeria3
+http://ipdax.top:8080/hatmyx/hjghyut/243
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Echorouk TV
+http://ipdax.top:8080/hatmyx/hjghyut/244
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Echourouk.News
+http://ipdax.top:8080/hatmyx/hjghyut/245
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Al.Sharqiya.News
+http://ipdax.top:8080/hatmyx/hjghyut/246
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Hannibal
+http://ipdax.top:8080/hatmyx/hjghyut/247
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AlSaeedah
+http://ipdax.top:8080/hatmyx/hjghyut/248
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ENTV.Algerie
+http://ipdax.top:8080/hatmyx/hjghyut/249
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Mecca
+http://ipdax.top:8080/hatmyx/hjghyut/250
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MBC1
+http://ipdax.top:8080/hatmyx/hjghyut/251
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MBC2
+http://ipdax.top:8080/hatmyx/hjghyut/252
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MBC3
+http://ipdax.top:8080/hatmyx/hjghyut/253
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MBC4
+http://ipdax.top:8080/hatmyx/hjghyut/254
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Zelzal Classic
+http://ipdax.top:8080/hatmyx/hjghyut/255
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_TATT7
+http://ipdax.top:8080/hatmyx/hjghyut/256
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_OTV.Lebanon
+http://ipdax.top:8080/hatmyx/hjghyut/257
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_CTV
+http://ipdax.top:8080/hatmyx/hjghyut/258
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Miracle TV
+http://ipdax.top:8080/hatmyx/hjghyut/259
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AL MALAKOOT
+http://ipdax.top:8080/hatmyx/hjghyut/260
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Al_Horreya_TV
+http://ipdax.top:8080/hatmyx/hjghyut/261
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AlWaad_Channel
+http://ipdax.top:8080/hatmyx/hjghyut/262
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Al_Fady
+http://ipdax.top:8080/hatmyx/hjghyut/263
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_SAT-7 ARABIC
+http://ipdax.top:8080/hatmyx/hjghyut/264
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Nour-Kids
+http://ipdax.top:8080/hatmyx/hjghyut/265
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Sat_7_Kids
+http://ipdax.top:8080/hatmyx/hjghyut/266
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AlKarma'
+http://ipdax.top:8080/hatmyx/hjghyut/267
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Logos
+http://ipdax.top:8080/hatmyx/hjghyut/268
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Alhorreya2
+http://ipdax.top:8080/hatmyx/hjghyut/269
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_NOUR ALSHARQ
+http://ipdax.top:8080/hatmyx/hjghyut/270
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Noursat
+http://ipdax.top:8080/hatmyx/hjghyut/271
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_NOUR ALKODSS
+http://ipdax.top:8080/hatmyx/hjghyut/272
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Ishtar
+http://ipdax.top:8080/hatmyx/hjghyut/273
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_BATOOT KIDS
+http://ipdax.top:8080/hatmyx/hjghyut/274
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_KIDZINA
+http://ipdax.top:8080/hatmyx/hjghyut/275
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_DARBAKA DRAMA
+http://ipdax.top:8080/hatmyx/hjghyut/276
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_DARBAKA CINEMA
+http://ipdax.top:8080/hatmyx/hjghyut/277
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_DARBAKA AFLAM'
+http://ipdax.top:8080/hatmyx/hjghyut/278
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Cima
+http://ipdax.top:8080/hatmyx/hjghyut/279
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_MBC-IRAQ
+http://ipdax.top:8080/hatmyx/hjghyut/280
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR-BEIN SERIES2
+http://ipdax.top:8080/hatmyx/hjghyut/281
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Alyoum Zman
+http://ipdax.top:8080/hatmyx/hjghyut/282
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_CLICK_AFLAM
+http://ipdax.top:8080/hatmyx/hjghyut/283
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ CLICK_CINEMA
+http://ipdax.top:8080/hatmyx/hjghyut/284
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",HOME_Drama
+http://ipdax.top:8080/hatmyx/hjghyut/285
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",HOME_CINEMA
+http://ipdax.top:8080/hatmyx/hjghyut/286
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_AL dlolly MOSALSALAT
+http://ipdax.top:8080/hatmyx/hjghyut/287
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",|AR| MYHD MBC PLUS VARIETY hevc
+http://ipdax.top:8080/hatmyx/hjghyut/288
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",|AR| MYHD MBC PLUS DRAMA hevc
+http://ipdax.top:8080/hatmyx/hjghyut/289
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",|AR| MYHD MBC MAX HD hevc
+http://ipdax.top:8080/hatmyx/hjghyut/290
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",|AR| MYHD MBC DRAMA HD hevc
+http://ipdax.top:8080/hatmyx/hjghyut/291
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",|AR| MYHD BOLLYWOOD hevc
+http://ipdax.top:8080/hatmyx/hjghyut/292
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",|AR| MYHD MBC ACTION HD hevc
+http://ipdax.top:8080/hatmyx/hjghyut/293
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",|AR| MYHD MBC4 HD hevc
+http://ipdax.top:8080/hatmyx/hjghyut/294
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",|AR| MYHD MBC1 HD hevc
+http://ipdax.top:8080/hatmyx/hjghyut/295
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",|AR| MYHD MBC2 HD hevc
+http://ipdax.top:8080/hatmyx/hjghyut/296
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",|AR| MYHD MBC3 HD hevc
+http://ipdax.top:8080/hatmyx/hjghyut/297
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",ZAMALIK TV
+http://ipdax.top:8080/hatmyx/hjghyut/298
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_KSA Sports 3
+http://ipdax.top:8080/hatmyx/hjghyut/299
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_KSA Sports 4
+http://ipdax.top:8080/hatmyx/hjghyut/300
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Majd 1
+http://ipdax.top:8080/hatmyx/hjghyut/301
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Majd 2
+http://ipdax.top:8080/hatmyx/hjghyut/302
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Majd 3
+http://ipdax.top:8080/hatmyx/hjghyut/303
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Majd 4
+http://ipdax.top:8080/hatmyx/hjghyut/304
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Majd Rwda
+http://ipdax.top:8080/hatmyx/hjghyut/305
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Majd Atfal
+http://ipdax.top:8080/hatmyx/hjghyut/306
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_Majd 8
+http://ipdax.top:8080/hatmyx/hjghyut/307
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Bein Fox Movies HD
+http://ipdax.top:8080/hatmyx/hjghyut/308
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Bein Fox HD
+http://ipdax.top:8080/hatmyx/hjghyut/309
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Bein DTX
+http://ipdax.top:8080/hatmyx/hjghyut/310
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Bein DMAX
+http://ipdax.top:8080/hatmyx/hjghyut/311
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Bein AMC
+http://ipdax.top:8080/hatmyx/hjghyut/312
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",BeIN Movies 4HD
+http://ipdax.top:8080/hatmyx/hjghyut/313
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",BeIN Movies 3HD
+http://ipdax.top:8080/hatmyx/hjghyut/314
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",BeIN Movies 2HD
+http://ipdax.top:8080/hatmyx/hjghyut/315
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",BeIN Movies 1HD
+http://ipdax.top:8080/hatmyx/hjghyut/316
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",HOME_Drama
+http://ipdax.top:8080/hatmyx/hjghyut/317
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",HOME_CINEMA
+http://ipdax.top:8080/hatmyx/hjghyut/318
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",BEIN-Baby
+http://ipdax.top:8080/hatmyx/hjghyut/319
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Bein bareem HD
+http://ipdax.top:8080/hatmyx/hjghyut/320
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",BEIN DRAMA
+http://ipdax.top:8080/hatmyx/hjghyut/321
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",Al Yawm
+http://ipdax.top:8080/hatmyx/hjghyut/322
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",BEIN:DREAMWORKS_HD
+http://ipdax.top:8080/hatmyx/hjghyut/323
+#EXTINF:0 tvg-id=""  tvg-logo=""  group-title="NileSat test 🛸🛰️",AR_ROTANA COMEDY
+http://ipdax.top:8080/hatmyx/hjghyut/324
 
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF info HD
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",ZDF neo HD
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",das Erste
-https://mcdn.daserste.de/daserste/de/master_3744.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",tagesschau24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",KIKA FHD
-https://kikageohls-i.akamaihd.net/hls/live/1006268-b/livetvkika_de/master_1080.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",arte HD
-https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",phoenix HD
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",3sat
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",one HD
-https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",Vox
-http://5.135.92.133:52841/out/u/124_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",RTL
-http://5.135.92.133:52841/out/u/115_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 🇩🇪",RTL 2
-http://5.135.92.133:52841/out/u/119_1.m3u8
-
-#EXTINF:-1 group-title="افلام مصري" tvg-logo="",لا تراجع ولا استسلام   
+#EXTINF:-1 group-title="افلام مصري 🇪🇬" tvg-logo="",لا تراجع ولا استسلام   
 https://belugacdn.shoofmax.com/la-tarajoo/720p/index.m3u8
-#EXTINF:-1 group-title="افلام مصري" tvg-logo="",رمضان مبروك ابو العالمين حمودة 
+#EXTINF:-1 group-title="افلام مصري 🇪🇬" tvg-logo="",رمضان مبروك ابو العالمين حمودة 
 https://belugacdn.shoofmax.com/ramadan-mabrouk/720p/index.m3u8
-#EXTINF:-1 group-title="افلام مصري" tvg-logo="",مرحان احمد مرجان 
+#EXTINF:-1 group-title="افلام مصري 🇪🇬" tvg-logo="",مرجان احمد مرجان
 https://belugacdn.shoofmax.com/morgan-ahmad-morgan/720p/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="مسرحيات" tvg-logo="",العيال كبرت  
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" tvg-logo="",العيال كبرت  
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-11/movies/ElEyalKebret.mp4/playlist.m3u8
-#EXTINF:-1 group-title="مسرحيات" tvg-logo="",شاهد مشفش حاجة 
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" tvg-logo="",شاهد مشفش حاجة 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/shahed.mp4/playlist.m3u8
-#EXTINF:-1 group-title="مسرحيات" tvg-logo="",مدرسة المشاغبين
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" tvg-logo="",مدرسة المشاغبين
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/moshghbeen.mp4/playlist.m3u8
-#EXTINF:-1 group-title="مسرحيات" tvg-logo="",الواد سيد شغال
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" tvg-logo="",الواد سيد شغال
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/wadsydalshaghal.mp4/playlist.m3u8
-#EXTINF:-1 group-title="مسرحيات" tvg-logo="",الزعيم
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" tvg-logo="",الزعيم
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-3/movies/alza3eem.mp4/playlist.m3u8
-#EXTINF:-1 group-title="مسرحيات" tvg-logo="",شاهد مشفش حاجة 
+#EXTINF:-1 group-title="مسرحيات 🇪🇬" tvg-logo="",شاهد مشفش حاجة 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/shahed.mp4/playlist.m3u8
 
 
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 01
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/1.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 02
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/2.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 03
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/3.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 04
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/4.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 05
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/5.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 06
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/6.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 07
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/7.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 08
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/8.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 09
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/9.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/10.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/11.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/12.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/13.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/14.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/15.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/16.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/17.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/18.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/19.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/20.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/21.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/22.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/23.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/24.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/25.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/26.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 1",Folge 27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/27.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 01
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/1.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 02
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/2.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 03
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/3.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 04
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/4.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 05
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/5.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 06
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/6.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 07
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/7.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 08
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/8.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 09
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/9.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/10.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/11.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/12.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/13.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/14.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/15.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/16.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/17.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/18.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/19.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/20.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/21.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/22.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/23.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/24.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/25.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/26.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/27.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 28
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/28.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 29
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/29.mp4/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇾  ضيعة ضايعة 2",Folge 30
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/30.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 01
+https://cdn.alarab.com/textfilenames/testkhil1.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 02
+https://cdn.alarab.com/textfilenames/testkhil2.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 03
+https://cdn.alarab.com/textfilenames/testkhil3.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 04
+https://cdn.alarab.com/textfilenames/testkhil4.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 05
+https://cdn.alarab.com/textfilenames/testkhil5.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 06
+https://cdn.alarab.com/textfilenames/testkhil6.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 07
+https://cdn.alarab.com/textfilenames/testkhil7.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 08
+https://cdn.alarab.com/h264/159313_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 09
+https://cdn.alarab.com/h264/159311_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 10
+https://cdn.alarab.com/textfilenames/testkhil10.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 11
+https://cdn.alarab.com/textfilenames/testkhil11.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 12
+https://cdn.alarab.com/textfilenames/testkhil12.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 13
+https://cdn.alarab.com/textfilenames/testkhil13.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 14
+https://cdn.alarab.com/textfilenames/testkhil14.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 15
+https://cdn.alarab.com/textfilenames/testkhil15.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 16
+https://cdn.alarab.com/textfilenames/testkhil16.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 17
+https://cdn.alarab.com/textfilenames/testkhil17.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 18
+https://cdn.alarab.com/textfilenames/testkhil18.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 19
+https://cdn.alarab.com/textfilenames/testkhil19.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 20
+https://cdn.alarab.com/textfilenames/testkhil20.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 21
+https://cdn.alarab.com/textfilenames/testkhil21.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 22
+https://cdn.alarab.com/textfilenames/testkhil22.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 23
+https://cdn.alarab.com/textfilenames/testkhil23.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 24
+https://cdn.alarab.com/textfilenames/testkhil24.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 25
+https://cdn.alarab.com/textfilenames/testkhil25.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 26
+https://cdn.alarab.com/textfilenames/testkhil26.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 27
+https://cdn.alarab.com/textfilenames/testkhil27.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 28
+https://cdn.alarab.com/textfilenames/testkhil28.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 29
+https://cdn.alarab.com/textfilenames/testkhil29.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 30
+https://cdn.alarab.com/textfilenames/testkhil30.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 31
+https://cdn.alarab.com/textfilenames/testkhil31.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 32
+https://cdn.alarab.com/textfilenames/testkhil32.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 33
+https://cdn.alarab.com/textfilenames/testkhil33.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 34
+https://cdn.alarab.com/textfilenames/testkhil34.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 35
+https://cdn.alarab.com/textfilenames/testkhil35.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 36
+https://cdn.alarab.com/textfilenames/testkhil36.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 37
+https://cdn.alarab.com/textfilenames/testkhil37.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 38
+https://cdn.alarab.com/textfilenames/testkhil38.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="في الداخل  🇹🇷",Folge 39
+https://cdn.alarab.com/textfilenames/testkhil39.mp4/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 01
-https://cdn.alarab.com/textfilenames/testkhil1.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 02
-https://cdn.alarab.com/textfilenames/testkhil2.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 03
-https://cdn.alarab.com/textfilenames/testkhil3.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 04
-https://cdn.alarab.com/textfilenames/testkhil4.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 05
-https://cdn.alarab.com/textfilenames/testkhil5.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 06
-https://cdn.alarab.com/textfilenames/testkhil6.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 07
-https://cdn.alarab.com/textfilenames/testkhil7.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 08
-https://cdn.alarab.com/h264/159313_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 09
-https://cdn.alarab.com/h264/159311_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 10
-https://cdn.alarab.com/textfilenames/testkhil10.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 11
-https://cdn.alarab.com/textfilenames/testkhil11.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 12
-https://cdn.alarab.com/textfilenames/testkhil12.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 13
-https://cdn.alarab.com/textfilenames/testkhil13.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 14
-https://cdn.alarab.com/textfilenames/testkhil14.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 15
-https://cdn.alarab.com/textfilenames/testkhil15.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 16
-https://cdn.alarab.com/textfilenames/testkhil16.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 17
-https://cdn.alarab.com/textfilenames/testkhil17.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 18
-https://cdn.alarab.com/textfilenames/testkhil18.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 19
-https://cdn.alarab.com/textfilenames/testkhil19.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 20
-https://cdn.alarab.com/textfilenames/testkhil20.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 21
-https://cdn.alarab.com/textfilenames/testkhil21.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 22
-https://cdn.alarab.com/textfilenames/testkhil22.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 23
-https://cdn.alarab.com/textfilenames/testkhil23.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 24
-https://cdn.alarab.com/textfilenames/testkhil24.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 25
-https://cdn.alarab.com/textfilenames/testkhil25.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 26
-https://cdn.alarab.com/textfilenames/testkhil26.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 27
-https://cdn.alarab.com/textfilenames/testkhil27.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 28
-https://cdn.alarab.com/textfilenames/testkhil28.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 29
-https://cdn.alarab.com/textfilenames/testkhil29.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 30
-https://cdn.alarab.com/textfilenames/testkhil30.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 31
-https://cdn.alarab.com/textfilenames/testkhil31.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 32
-https://cdn.alarab.com/textfilenames/testkhil32.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 33
-https://cdn.alarab.com/textfilenames/testkhil33.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 34
-https://cdn.alarab.com/textfilenames/testkhil34.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 35
-https://cdn.alarab.com/textfilenames/testkhil35.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 36
-https://cdn.alarab.com/textfilenames/testkhil36.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 37
-https://cdn.alarab.com/textfilenames/testkhil37.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 38
-https://cdn.alarab.com/textfilenames/testkhil38.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="في الداخل",Folge في الداخل 39
-https://cdn.alarab.com/textfilenames/testkhil39.mp4/index-v1-a1.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 1 
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 1 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 2
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 3
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 4
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 5
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 6
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 7
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 9
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 10
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/10.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 11
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 11
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/11.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 12
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 12
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/12.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 13
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 13
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/13.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 14
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 14
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/14.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 15
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 15
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/15.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 16
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 16
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/16.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 17
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 17
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/17.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 18
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 18
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/18.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 19
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 19
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/19.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 20
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 20
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/20.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 21
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 21
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/21.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 22
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 22
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/22.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 23
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 23
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/23.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 24
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 24
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/24.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 25
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 25
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/25.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 26
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 26
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/26.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 27
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 27
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/27.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 28 
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 28 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/28.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 29
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 29
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/29.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 30
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 30
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/30.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 31 
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 31 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/31.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 32 
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 32 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/32.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 1",Folge الحفرة 33
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 1",Folge 33
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/33.mp4/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 1 
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 1 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 2
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 3
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 4
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 5
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 6
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 7
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 9
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 10
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/10.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 11
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 11
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/11.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 12
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 12
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/12.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 13
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 13
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/13.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 14
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 14
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/14.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 15
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 15
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/15.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 16
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 16
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/16.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 17
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 17
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/17.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 18
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 18
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/18.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 19
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 19
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/19.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 20
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 20
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/20.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 21
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 21
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/21.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 22
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 22
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/22.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 23
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 23
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/23.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 24
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 24
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/24.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 25
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 25
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/25.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 26
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 26
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/26.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 27
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 27
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/27.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 28 
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 28 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/28.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 29
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 29
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/29.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 30
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 30
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/30.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 31 
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 31 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/31.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 32 
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 32 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/32.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 33
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 33
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/33.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 2",Folge الحفرة 34
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 2",Folge 34
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole2/34.mp4/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 1 
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 1 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 2
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 3
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 4
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 5
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 6
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 7
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 9
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 10
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/10.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 11
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 11
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/11.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 12
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 12
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/12.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 13
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 13
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/13.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 14
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 14
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/14.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 15
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 15
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/15.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 16
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 16
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/16.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 17
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 17
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/17.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 18
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 18
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/18.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 19
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 19
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/19.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 20
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 20
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/20.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 21
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 21
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/21.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 22
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 22
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/22.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 23
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 23
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/23.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 24
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 24
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/24.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 25
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 25
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Hole3/25.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 3",Folge الحفرة 26
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 3",Folge 26
 https://p2-58083-m-mino-outline-aa.govid.co/stream/SxaNFJCpAccZC9k8mdxx-g/720.8224.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 4",Folge الحفرة 01
-https://cdn.alarab.com/h264/158933_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 4",Folge الحفرة 02
-https://cdn.alarab.com/h264/159103_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 4",Folge الحفرة 03
-https://cdn.alarab.com/h264/159254_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 4",Folge الحفرة 04
-https://cdn.alarab.com/h264/159402_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 4",Folge الحفرة 05
-https://cdn.alarab.com/h264/159549_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 4",Folge الحفرة 06
-https://cdn.alarab.com/h264/159698_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 4",Folge الحفرة 07
-https://cdn.alarab.com/h264/159844_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="الحفرة 4",Folge الحفرة 08
-https://cdn.alarab.com/h264/159989_720p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge 01
+https://cdn.alarab.com/h264/158933_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge 02
+https://cdn.alarab.com/h264/159103_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge 03
+https://cdn.alarab.com/h264/159254_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge 04
+https://cdn.alarab.com/h264/159402_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge 05
+https://cdn.alarab.com/h264/159549_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge 06
+https://cdn.alarab.com/h264/159698_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge 07
+https://cdn.alarab.com/h264/159844_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge 08
+https://cdn.alarab.com/h264/159989_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷  الحفرة 4",Folge 09
+https://cdn.alarab.com/h264/160142_720p.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="علي رضا",Folge علي رضا 01
-https://cdn.alarab.com/h264/159079_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="علي رضا",Folge علي رضا 02
-https://cdn.alarab.com/h264/159237_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="علي رضا",Folge علي رضا 03
-https://cdn.alarab.com/h264/159379_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="علي رضا",Folge علي رضا 04
-https://cdn.alarab.com/h264/159533_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="علي رضا",Folge علي رضا 05
-https://cdn.alarab.com/h264/159668_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="علي رضا",Folge علي رضا 06
-https://cdn.alarab.com/h264/159824_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge 01
+https://cdn.alarab.com/h264/159079_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge 02
+https://cdn.alarab.com/h264/159237_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge 03
+https://cdn.alarab.com/h264/159379_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge 04
+https://cdn.alarab.com/h264/159533_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge 05
+https://cdn.alarab.com/h264/159668_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge 06
+https://cdn.alarab.com/h264/159824_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇷 علي رضا",Folge 08
+https://cdn.alarab.com/h264/160117_720p.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|alarab| Folge 01
+https://cdn.alarab.com/h264/160083_720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|S1| Folge 02
+http://turkish.trueiptv.re/Gulf/AlHayba/AlHayba.S04E02.mp4
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|S1| Folge 03
+http://turkish.trueiptv.re/Gulf/AlHayba/AlHayba.S04E03.mp4
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|S1| Folge 04
+http://turkish.trueiptv.re/Gulf/AlHayba/AlHayba.S04E04.mp4
+#EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2020/10/947x500-EP1AI.jpeg" group-title="الهيبة الرد الموسم الرابع 🇱🇧",|S1| Folge 05
+http://turkish.trueiptv.re/Gulf/AlHayba/AlHayba.S04E05.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="متحف الدحيح 🇪🇬",|S1| Folge 01
+http://turkish.trueiptv.re/tvxx/Al-Daheeh.Museum/Al-Daheeh.Museum.S01E01.mp4
+#EXTINF:-1 tvg-logo="" group-title="متحف الدحيح 🇪🇬",|S1| Folge 02
+http://turkish.trueiptv.re/tvxx/Al-Daheeh.Museum/Al-Daheeh.Museum.S01E02.mp4
+#EXTINF:-1 tvg-logo="" group-title="متحف الدحيح 🇪🇬",|S1| Folge 03
+http://turkish.trueiptv.re/tvxx/Al-Daheeh.Museum/Al-Daheeh.Museum.S01E03.mp4
+#EXTINF:-1 tvg-logo="" group-title="متحف الدحيح 🇪🇬",|S1| Folge 04
+http://turkish.trueiptv.re/tvxx/Al-Daheeh.Museum/Al-Daheeh.Museum.S01E04.mp4
+#EXTINF:-1 tvg-logo="" group-title="متحف الدحيح 🇪🇬",|S1| Folge 05
+http://turkish.trueiptv.re/tvxx/Al-Daheeh.Museum/Al-Daheeh.Museum.S01E05.mp4
 
