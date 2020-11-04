@@ -672,7 +672,7 @@ https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports6
 #EXTINF:-1 tvg-id="bein7hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀", |test2| Bein Sports 7 HD
 https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports7.qa.m3u8
 #EXTINF:-1 tvg-id="bein8hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD8-1.png" group-title="BEIN SPORTS ⚽🏀", |test2| Bein Sports 8 HD
-https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSport8.qa.m3u8
+https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports8.qa.m3u8
 #EXTINF:-1 tvg-id="bein9hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png" group-title="BEIN SPORTS ⚽🏀", |test2| Bein Sports 9 HD
 https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports9.qa.m3u8
 #EXTINF:-1 tvg-id="bein10hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD10-1.png" group-title="BEIN SPORTS ⚽🏀", |test2| Bein Sports 10 HD
