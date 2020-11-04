@@ -581,31 +581,74 @@ http://strong-livetv.com:80/lam_mar/AojwXghk3/45307
 #EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS 10 HD
 http://strong-livetv.com:80/lam_mar/AojwXghk3/45310
 
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive|BEIN SPORTS 1 HD
-http://best-live-iptv.xyz:25461/live/BEST-LIVE.app/BEST-LIVE.app/1
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive|BEIN SPORTS 2 HD
-http://best-live-iptv.xyz:25461/live/BEST-LIVE.app/BEST-LIVE.app/2
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive|BEIN SPORTS 3 HD
-http://best-live-iptv.xyz:25461/live/BEST-LIVE.app/BEST-LIVE.app/3
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive|BEIN SPORTS 4 HD
-http://best-live-iptv.xyz:25461/live/BEST-LIVE.app/BEST-LIVE.app/4
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive|BEIN SPORTS 5 HD
-http://best-live-iptv.xyz:25461/live/BEST-LIVE.app/BEST-LIVE.app/5
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive|BEIN SPORTS 6 HD
-http://best-live-iptv.xyz:25461/live/BEST-LIVE.app/BEST-LIVE.app/6
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive|BEIN SPORTS 7 HD
-http://best-live-iptv.xyz:25461/live/BEST-LIVE.app/BEST-LIVE.app/7
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive|BEIN SPORTS 8 HD
-http://best-live-iptv.xyz:25461/live/BEST-LIVE.app/BEST-LIVE.app/8
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive|BEIN SPORTS 9 HD
-http://best-live-iptv.xyz:25461/live/BEST-LIVE.app/BEST-LIVE.app/9
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive|BEIN SPORTS 10 HD
-http://best-live-iptv.xyz:25461/live/BEST-LIVE.app/BEST-LIVE.app/10
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive|BEIN SPORTS NEWS
-http://best-live-iptv.xyz:25461/live/BEST-LIVE.app/BEST-LIVE.app/11
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive|BEIN SPORTS GLOBAL
-http://best-live-iptv.xyz:25461/live/BEST-LIVE.app/BEST-LIVE.app/12
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 1 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/1
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 2 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/2
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 3 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/3
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 4 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/4
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 5 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/5
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 6 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/6
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 7 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/7
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 8 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/8
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 9 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/9
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 10 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/10
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS NEWS
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/11
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS GLOBAL
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/12
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| Bein sports SD1
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/13
+#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| Bein sports SD2
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/14
 
+
+#EXTINF:-1 tvg-id="bein1hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 1 HEVC
+http://148.251.23.179:80/B1FHD/index.m3u8
+#EXTINF:-1 tvg-id="bein2hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 2 
+http://148.251.23.179:80/bhd2/index.m3u8
+#EXTINF:-1 tvg-id="bein2hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 2 HEVC
+http://148.251.23.179:80/B2FHD/index.m3u8
+#EXTINF:-1 tvg-id="bein3hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 3 
+http://148.251.23.179:80/bhd3/index.m3u8
+#EXTINF:-1 tvg-id="bein3hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 3 HEVC
+http://148.251.23.179:80/B3FHD/index.m3u8
+#EXTINF:-1 tvg-id="bein4hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 4  
+http://148.251.23.179:80/bhd4/index.m3u8
+#EXTINF:-1 tvg-id="bein4hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 4 HEVC 
+http://148.251.23.179:80/B4FHD/index.m3u8
+#EXTINF:-1 tvg-id="bein5hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 5  
+http://148.251.23.179:80/bhd5/index.m3u8
+#EXTINF:-1 tvg-id="bein5hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 5 HEVC 
+http://148.251.23.179:80/B5FHD/index.m3u8
+#EXTINF:-1 tvg-id="bein6hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 6  
+http://148.251.23.179:80/bhd6/index.m3u8
+#EXTINF:-1 tvg-id="bein6hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 6 HEVC 
+http://148.251.23.179:80/B6FHD/index.m3u8
+#EXTINF:-1 tvg-id="bein7hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 7 
+http://148.251.23.179:80/bhd7/index.m3u8
+#EXTINF:-1 tvg-id="bein7hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 7 HEVC 
+http://148.251.23.179:80/B7FHD/index.m3u8
+#EXTINF:-1 tvg-id="bein8hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD8-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 8
+http://148.251.23.179:80/bhd8/index.m3u8
+#EXTINF:-1 tvg-id="bein8hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD8-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 8 HEVC
+http://148.251.23.179:80/B8FHD/index.m3u8
+#EXTINF:-1 tvg-id="bein9hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 9
+http://148.251.23.179:80/bhd9/index.m3u8
+#EXTINF:-1 tvg-id="bein9hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 9 HEVC
+http://148.251.23.179:80/B9FHD/index.m3u8
+#EXTINF:-1 tvg-id="bein10hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD10-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 10 
+http://148.251.23.179:80/bhd10/index.m3u8
+#EXTINF:-1 tvg-id="bein10hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD10-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 10 HEVC
+http://148.251.23.179:80/B10FHD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="BEIN SPORTS ⚽🏀", |yacine| SPORTS 1 sd
