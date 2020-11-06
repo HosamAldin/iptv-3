@@ -633,7 +633,138 @@ http://148.251.23.179:80/bhd9/index.m3u8
 #EXTINF:-1 tvg-id="bein10hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD10-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 10 
 http://148.251.23.179:80/bhd10/index.m3u8
 
-
+#EXTINF:-1,AR: beIN Sport News
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/83255
+#EXTINF:-1,AR: beIN Sport News FHD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/83116
+#EXTINF:-1,AR: BEIN SPORTS 1 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74136
+#EXTINF:-1,AR: BEIN SPORTS 2 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74137
+#EXTINF:-1,AR: BEIN SPORTS 3 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74138
+#EXTINF:-1,AR: BEIN SPORTS 4 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74139
+#EXTINF:-1,AR: BEIN SPORTS 5 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74140
+#EXTINF:-1,AR: BEIN SPORTS 6 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74141
+#EXTINF:-1,AR: BEIN SPORTS 7 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74142
+#EXTINF:-1,AR: BEIN SPORTS 8 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74143
+#EXTINF:-1,AR: BEIN SPORTS 9 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74144
+#EXTINF:-1,AR: beIN Sports 1 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/5345
+#EXTINF:-1,AR: beIN SPORTS 1 HD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74123
+#EXTINF:-1,AR: BEIN SPORTS 1 HDD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/26199
+#EXTINF:-1,AR: BEIN SPORTS 10 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74145
+#EXTINF:-1,AR: beIN Sports 11 FHD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/83117
+#EXTINF:-1,AR: beIN Sports 2 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/1208
+#EXTINF:-1,AR: beIN SPORTS 2 HD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74124
+#EXTINF:-1,AR: beIN SPORTS 2 HDD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/10770
+#EXTINF:-1,AR: beIN Sports 3 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/5350
+#EXTINF:-1,AR: beIN SPORTS 3 HD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74125
+#EXTINF:-1,AR: beIN SPORTS 3 HDD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/10772
+#EXTINF:-1,AR: beIN Sports 4 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/5352
+#EXTINF:-1,AR: beIN SPORTS 4 HD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74126
+#EXTINF:-1,AR: beIN SPORTS 4 HDD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/10774
+#EXTINF:-1,AR: beIN Sports 5 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/18374
+#EXTINF:-1,AR: beIN SPORTS 5 HD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74127
+#EXTINF:-1,AR: beIN SPORTS 5 HDD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/10776
+#EXTINF:-1,AR: beIN Sports 6 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/18375
+#EXTINF:-1,AR: beIN SPORTS 6 HD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74128
+#EXTINF:-1,AR: beIN SPORTS 6 HDD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/10778
+#EXTINF:-1,AR: beIN SPORTS 7
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/31455
+#EXTINF:-1,AR: BEIN SPORTs 7 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/18461
+#EXTINF:-1,AR: beIN SPORTS 7 HD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74129
+#EXTINF:-1,AR: beIN SPORTS 7 HDD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/10780
+#EXTINF:-1,AR: beIN Sports 8 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/18376
+#EXTINF:-1,AR: beIN SPORTS 8 HD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74130
+#EXTINF:-1,AR: beIN SPORTS 8 HDD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/10783
+#EXTINF:-1,AR: BEIN SPORTS 9 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/10785
+#EXTINF:-1,AR: beIN SPORTS 9 HD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74131
+#EXTINF:-1,AR: beIN Sports 9 HDD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/18377
+#EXTINF:-1,AR: BEIN SPORTS 1-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74110
+#EXTINF:-1,AR: BEIN SPORTS 10 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/26215
+#EXTINF:-1,AR: beIN SPORTS 10 HD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74132
+#EXTINF:-1,AR: BEIN SPORTS 10 HDD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/10786
+#EXTINF:-1,AR: BEIN SPORTS 10-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74119
+#EXTINF:-1,AR: BEIN SPORTS 11 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/26216
+#EXTINF:-1,AR: beIN SPORTS 11 HD-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74133
+#EXTINF:-1,AR: beIN Sports 11 HDD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/10788
+#EXTINF:-1,AR: BEIN SPORTS 11(English) VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74120
+#EXTINF:-1,AR: beIN SPORTS 12
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/31446
+#EXTINF:-1,AR: beIN Sports 12 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/18379
+#EXTINF:-1,AR: beIN SPORTS 12 HDD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/10789
+#EXTINF:-1,AR: BEIN SPORTS 12(English) VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74121
+#EXTINF:-1,AR: beIN SPORTS 13 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/10790
+#EXTINF:-1,AR: beIN SPORTS 14 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/17756
+#EXTINF:-1,AR: beIN SPORTS 15 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/18446
+#EXTINF:-1,AR: beIN SPORTS 16 HD
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/17758
+#EXTINF:-1,AR: BEIN SPORTS 2-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74111
+#EXTINF:-1,AR: BEIN SPORTS 3-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74112
+#EXTINF:-1,AR: BEIN SPORTS 4-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74113
+#EXTINF:-1,AR: BEIN SPORTS 5-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74114
+#EXTINF:-1,AR: BEIN SPORTS 6-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74115
+#EXTINF:-1,AR: BEIN SPORTS 7-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74116
+#EXTINF:-1,AR: BEIN SPORTS 8-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74117
+#EXTINF:-1,AR: BEIN SPORTS 9-VIP
+http://driptvs.com:8080/vuz4hoR9da/RtaWyxMzDj/74118
 
 
 
