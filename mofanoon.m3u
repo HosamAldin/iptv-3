@@ -559,10 +559,6 @@ http://digitalxpress.gcdn.co/live1/beinjeemhd/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="beinsportsnews.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="BEIN SPORTS ⚽🏀", |TEST| BeIN  News
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.251.193:8081/yacinetv/BeinSportNews/playlist.m3u8
-
-
 
 #EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS NEWS HD
 http://strong-livetv.com:80/lam_mar/AojwXghk3/45280
@@ -587,38 +583,37 @@ http://strong-livetv.com:80/lam_mar/AojwXghk3/45307
 #EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS 10 HD
 http://strong-livetv.com:80/lam_mar/AojwXghk3/45310
 
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 1 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/1
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 2 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/2
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 3 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/3
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 4 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/4
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 5 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/5
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 6 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/6
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 7 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/7
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 8 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/8
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 9 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/9
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS 10 HD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/10
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS NEWS
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT NEWS HD" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEIN SPORT NEWS HD
 http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/11
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| BEIN SPORTS GLOBAL
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS HD" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD-1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS HD
 http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/12
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| Bein sports SD1
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 1 HD" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 1 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/1
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 2 HD" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 2 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/2
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 3 HD" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 3 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/3
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 4 HD" tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 4 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/4
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 5 HD" tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 5 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/5
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 6 HD" tvg-logo="https://i.ibb.co/4RSKRsZ/HD6.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 6 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/6
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 7 HD" tvg-logo="https://i.ibb.co/hYfQFGh/HD7.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 7 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/7
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 8 HD" tvg-logo="https://i.ibb.co/YXC7Wgy/HD8.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 8 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/8
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 9 HD" tvg-logo="https://i.ibb.co/zX4TC60/HD9.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 9 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/9
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 10 HD" tvg-logo="https://i.ibb.co/T8Gw0JT/HD10.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 10 HD
+http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/10
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 1 HD" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 1 SD
 http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/13
-#EXTINF:-1 group-title="BEIN SPORTS ⚽🏀",|bestlive| Bein sports SD2
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 2 HD" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 2 SD
 http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/14
 
-
-#EXTINF:-1 tvg-id="bein1hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀",|TEST| BEIN 1
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD1/playlist.m3u8
+#EXTINF:-1 tvg-id="bein1hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc| BEIN 1
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/205.ts
 #EXTINF:-1 tvg-id="bein2hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 2 
 http://148.251.23.179:80/bhd2/index.m3u8
 #EXTINF:-1 tvg-id="bein3hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 3 
@@ -639,34 +634,6 @@ http://148.251.23.179:80/bhd9/index.m3u8
 http://148.251.23.179:80/bhd10/index.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="BEIN SPORTS ⚽🏀", |yacine| SPORTS 1 sd
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinSD1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="BEIN SPORTS ⚽🏀", |yacine| SPORTS 2 sd
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinSD2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD3.png" group-title="BEIN SPORTS ⚽🏀", |yacine| SPORTS 3 sd
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinSD3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD4.png" group-title="BEIN SPORTS ⚽🏀", |yacine| SPORTS 4 sd
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinSD4/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD5.png" group-title="BEIN SPORTS ⚽🏀", |yacine| SPORTS 5 sd
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinSD5/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD6.png" group-title="BEIN SPORTS ⚽🏀", |yacine| SPORTS 6 sd
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinSD6/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="BEIN SPORTS ⚽🏀", |yacine| SPORTS 1 hd
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="BEIN SPORTS ⚽🏀", |yacine| SPORTS 2 hd
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinLow2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD3.png" group-title="BEIN SPORTS ⚽🏀", |yacine| SPORTS 3 hd
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD4.png" group-title="BEIN SPORTS ⚽🏀", |yacine| SPORTS 4 hd
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinLow4/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD5.png" group-title="BEIN SPORTS ⚽🏀", |yacine| SPORTS 5 hd
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD5/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD6.png" group-title="BEIN SPORTS ⚽🏀", |yacine| SPORTS 6 hd
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD6/playlist.m3u8
 
 
 
