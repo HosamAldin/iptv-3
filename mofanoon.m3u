@@ -558,31 +558,6 @@ http://digitalxpress.gcdn.co/live1/beinbaraem/index.m3u8
 http://digitalxpress.gcdn.co/live1/beinjeemhd/tracks-v1a1/mono.m3u8
 
 
-
-
-#EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS NEWS HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45280
-#EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS 1 hd
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45282
-#EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS 2 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/52943
-#EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS 3 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45288
-#EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS 4 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45292
-#EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS 5 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45295
-#EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS 6 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45298
-#EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS 7 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45301
-#EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS 8 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45304
-#EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS 9 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45307
-#EXTINF:-1  group-title="BEIN SPORTS ⚽🏀",|lammar|BEIN SPORTS 10 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45310
-
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT NEWS HD" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEIN SPORT NEWS HD
 http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/11
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS HD" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD-1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS HD
@@ -632,6 +607,49 @@ http://148.251.23.179:80/bhd8/index.m3u8
 http://148.251.23.179:80/bhd9/index.m3u8
 #EXTINF:-1 tvg-id="bein10hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD10-1.png" group-title="BEIN SPORTS ⚽🏀",|S1| BEIN 10 
 http://148.251.23.179:80/bhd10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|BEIN Sport FUHD 1
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/205.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|BEIN Sport FUHD 2
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/206.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|BEIN Sport FUHD 3
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/207.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|BEIN Sport FUHD 4
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/208.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|BEIN Sport FUHD 5
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/209.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|BEIN Sport FUHD  6
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/210.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|BEIN Sport FUHD 7
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/211.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|BEIN Sport HD 7
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/218.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|BEIN Sport HD 6
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/217.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|BEIN Sport HD 5
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/216.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|BEIN Sport HD 4
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/215.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|BEIN Sport HD 3
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/214.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|BEIN Sport HD 2
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/213.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|BEIN Sport HD 1
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/212.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|Bein sport SD7
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/225.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|Bein sport SD6
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/224.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|Bein sport SD5
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/223.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|Bein sport SD4
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/222.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|Bein sport SD3
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/221.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|Bein sport SD2
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/220.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀",|mrc|Bein sport SD1
+http://138.201.145.136:8080/live/mrconnectapk/mrconnectapk/219.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="BEINSPORTS-match time ⌛⏰",  BeIN Sports 1 
