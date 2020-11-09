@@ -8,8 +8,10 @@ https://raw.githubusercontent.com/mofanoon/iptv/main/mofanoon.m3u
 
 (Computer (vlc) / Iphone & Ipad (Cloud stream) / Firetv Stick & Android (✔️Perfect player.apk✔️, IPTV.apk + MX player or XMTV player or Wuffy player)) 
 
- 
-⚠️ These channels are collected from several available free websites and applications. not a personal property 
+
+
+# | 📺Fanoon+📺 | Match time only :D  ⚠️test!!
+ https://www.appcreator24.com/app1281888
 
 
 لطلب اضافة قناة او فلم او مسلسل الرجاء التواصل على:  
