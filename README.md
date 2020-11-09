@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/mofanoon/iptv/main/mofanoon.m3u
 
 
 
-# | 📺Fanoon+📺 | Match time only :D  ⚠️test!!
+# | 📺Fanoon+📺 | Match time only :D  ❗test❗
  https://www.appcreator24.com/app1281888
 
 
