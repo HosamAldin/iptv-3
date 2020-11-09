@@ -15,9 +15,5 @@ mohdfanoon.9@gmail.com
 
 
 
-# | 📺Fanoon+.apk📺 | Match time only :D  ❗test❗
-
-It only works on Android devices
- https://www.appcreator24.com/app1281888
 
 
