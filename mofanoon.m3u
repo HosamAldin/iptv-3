@@ -560,6 +560,25 @@ http://digitalxpress.gcdn.co/live1/beinjeemhd/tracks-v1a1/mono.m3u8
 http://best-live-iptv.xyz:25461/1day/BEST-LIVE/11
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD-1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS HD
 http://best-live-iptv.xyz:25461/1day/BEST-LIVE/12
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEIN SPORT LOW 1 
+http://best-live-iptv.xyz:25461/1day/BEST-LIVE/15
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD2.png" group-title="BEIN SPORTS ⚽🏀",|best|BEIN SPORT LOW 2 
+http://best-live-iptv.xyz:25461/1day/BEST-LIVE/16
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD3.png" group-title="BEIN SPORTS ⚽🏀",|best|BEIN SPORT LOW 3 
+http://best-live-iptv.xyz:25461/1day/BEST-LIVE/17
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD4.png" group-title="BEIN SPORTS ⚽🏀",|best|BEIN SPORT LOW 4 
+http://best-live-iptv.xyz:25461/1day/BEST-LIVE/18
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD5.png" group-title="BEIN SPORTS ⚽🏀",|best|BEIN SPORT LOW 5 
+http://best-live-iptv.xyz:25461/1day/BEST-LIVE/19
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 1 SD
+http://best-live-iptv.xyz:25461/1day/BEST-LIVE/13
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 2 SD
+http://best-live-iptv.xyz:25461/1day/BEST-LIVE/14
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 3 SD
+http://best-live-iptv.xyz:25461/1day/BEST-LIVE/100
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 1 HD
 http://best-live-iptv.xyz:25461/1day/BEST-LIVE/1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 2 HD
@@ -580,10 +599,7 @@ http://best-live-iptv.xyz:25461/1day/BEST-LIVE/8
 http://best-live-iptv.xyz:25461/1day/BEST-LIVE/9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T8Gw0JT/HD10.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 10 HD
 http://best-live-iptv.xyz:25461/1day/BEST-LIVE/10
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 1 SD
-http://best-live-iptv.xyz:25461/1day/BEST-LIVE/13
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="BEIN SPORTS ⚽🏀",|best|BEINSPORTS 2 SD
-http://best-live-iptv.xyz:25461/1day/BEST-LIVE/14
+
 
 #EXTINF:-1 tvg-logo="https://media.tv4.live/beINSports1.qa.png" group-title="BEIN SPORTS ⚽🏀",|10days| Sports 01 AR
 https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports1.qa.m3u8
